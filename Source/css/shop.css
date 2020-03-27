@@ -1,0 +1,2674 @@
+
+@font-face {
+                          font-family: "SFProDisplay-Thin";
+                          src: url('../fonts/SF-Pro-Display-Thin.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Semibold";
+                          src: url('../fonts/SF-Pro-Text-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Heavy";
+                          src: url('../fonts/SF-Pro-Display-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Bold";
+                          src: url('../fonts/SF-Pro-Text-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Light";
+                          src: url('../fonts/SF-Pro-Text-Light.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Heavy";
+                          src: url('../fonts/SF-Pro-Text-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFCompactRounded-Heavy";
+                          src: url('../fonts/SF-Compact-Rounded-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Bold";
+                          src: url('../fonts/SF-Pro-Display-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Semibold";
+                          src: url('../fonts/SF-Pro-Display-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Medium";
+                          src: url('../fonts/SF-Pro-Display-Medium.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Regular";
+                          src: url('../fonts/SF-Pro-Display-Regular.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Medium";
+                          src: url('../fonts/SF-Pro-Text-Medium.otf') format("opentype");
+                        }
+                        
+.shop-IEp7qc {
+  overflow            : hidden;
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : center;
+  margin              : 0px;
+  width               : 100%;
+  min-width           : 1440.0px;
+  height              : auto;
+  min-height          : 3600.0px;
+  background-color    : #3c3c3c;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing          : border-box;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-animate-enter29 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter29-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter29-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter29-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter29-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter29-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter29-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter29-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter29-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter30 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter30-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter30-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter30-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter30-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter30-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter30-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter30-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter30-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter31 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter31-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter31-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter31-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter31-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter31-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter31-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter31-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter31-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter32 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter32-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter32-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter32-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter32-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter32-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter32-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter32-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter32-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter33 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter33-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter33-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter33-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter33-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter33-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter33-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter33-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter33-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter34 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter34-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter34-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter34-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter34-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter34-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter34-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter34-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter34-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter35 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter35-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter35-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter35-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter35-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter35-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter35-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter35-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter35-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter36 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter36-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter36-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter36-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter36-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter36-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter36-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter36-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter36-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter37 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter37-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter37-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter37-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter37-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter37-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter37-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter37-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter37-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter38 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter38-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter38-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter38-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter38-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter38-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter38-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter38-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter38-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.shop-IEp7qc .overlap-group-iVuHXp {
+  position            : relative;
+  width               : 1440px;
+  height              : 108px;
+  margin-left         : 6.0px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .rectangle-copy-5a6cQB {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1440px;
+  height              : 108px;
+  background-color    : #000000;
+  border              : 1.0px solid #969696;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .line-De1UCT {
+  position            : absolute;
+  top                 : 92px;
+  left                : 733px;
+  width               : 144px;
+  height              : 6px;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .line-De1UCT {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .line-De1UCT:hover {
+  transform           : translate(0, -5px);
+}
+.shop-IEp7qc .overlap-group-iVuHXp .screen-shot20200320-at12554-am-iJZAZl {
+  position            : absolute;
+  top                 : 22px;
+  left                : 3px;
+  width               : 430px;
+  height              : 70px;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .screen-shot20200320-at12554-am-iJZAZl {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .screen-shot20200320-at12554-am-iJZAZl:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.shop-IEp7qc .overlap-group-iVuHXp .s-peakers-tX6fYN {
+  position            : absolute;
+  top                 : 36px;
+  left                : 480px;
+  width               : 224px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.24px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .s-peakers-tX6fYN {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .s-peakers-tX6fYN:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.shop-IEp7qc .s-peakers-tX6fYN .span1-R6XKmI {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.shop-IEp7qc .s-peakers-tX6fYN .span2-ybbakR {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : -0.16px;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .s-hop2-HbdyuQ {
+  position            : absolute;
+  top                 : 37px;
+  left                : 738px;
+  width               : 138px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .s-hop2-HbdyuQ {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .s-hop2-HbdyuQ:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.shop-IEp7qc .s-hop2-HbdyuQ .span1-9ydIHJ {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.shop-IEp7qc .s-hop2-HbdyuQ .span2-KVt3aA {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .a-bout-uiCYvX {
+  position            : absolute;
+  top                 : 37px;
+  left                : 900px;
+  width               : 182px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 25.0px;
+  letter-spacing      : -0.15px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .a-bout-uiCYvX {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .a-bout-uiCYvX:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.shop-IEp7qc .a-bout-uiCYvX .span1-mkfaTb {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 48.0px;
+  letter-spacing      : 0.0px;
+}
+.shop-IEp7qc .a-bout-uiCYvX .span2-jXetsc {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-size           : 25.0px;
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 30.0px;
+  letter-spacing      : 0.0px;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .group9-cKgqAQ {
+  position            : absolute;
+  top                 : 21px;
+  left                : 1358px;
+  width               : 69px;
+  height              : 69px;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .group9-cKgqAQ {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .group9-cKgqAQ:hover {
+  transform           : scale(1.1);
+}
+.shop-IEp7qc .overlap-group-iVuHXp .group9-cKgqAQ .oval-mczLEX {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 69px;
+  height              : 69px;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .group9-cKgqAQ .oval2-oFO33a {
+  position            : absolute;
+  top                 : 9px;
+  left                : 9px;
+  width               : 50px;
+  height              : 50px;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .group9-cKgqAQ .oval3-6rTlfa {
+  position            : absolute;
+  top                 : 18px;
+  left                : 23px;
+  width               : 23px;
+  height              : 23px;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .group9-cKgqAQ .oval4-aCD8IF {
+  position            : absolute;
+  top                 : 47px;
+  left                : 9px;
+  width               : 50px;
+  height              : 18px;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .glyphs-search-oTwrAZ {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 20px;
+  left                : 1119px;
+  width               : auto;
+  height              : 74px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .glyphs-search-oTwrAZ {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+}
+.shop-IEp7qc .overlap-group-iVuHXp .glyphs-search-oTwrAZ {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .glyphs-search-oTwrAZ:hover {
+  transform           : scale(1.1);
+}
+.shop-IEp7qc .overlap-group-iVuHXp .glyphs-search-oTwrAZ .search-4YwlV8 {
+  position            : relative;
+  width               : 74px;
+  height              : 74px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .group10-RWdsBB {
+  position            : absolute;
+  top                 : 19px;
+  left                : 1235px;
+  width               : 86px;
+  height              : 77px;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .group10-RWdsBB {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .group10-RWdsBB:hover {
+  transform           : scale(1.1);
+}
+.shop-IEp7qc .overlap-group-iVuHXp .group10-RWdsBB .shoppingcartpngrepocom-bJ11t3 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 77px;
+  height              : 77px;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .group10-RWdsBB .glyphs-notification-icon-etXC11 {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 9px;
+  left                : 66px;
+  width               : auto;
+  height              : 20px;
+  box-sizing          : border-box;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .group10-RWdsBB .glyphs-notification-icon-etXC11 .app-icon-Trb1Pd {
+  position            : relative;
+  width               : 20px;
+  height              : 20px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .overlap-group-iVuHXp .group10-RWdsBB .a1-efp8Xk {
+  position            : absolute;
+  top                 : 9px;
+  left                : 72px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 16.0px "SFCompactRounded-Heavy", Helvetica, Arial, serif;
+  line-height         : 19.0px;
+  letter-spacing      : -0.24px;
+  text-align          : center;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt {
+  position            : relative;
+  width               : 1344px;
+  height              : 2848px;
+  margin-top          : 26px;
+  margin-left         : 12.0px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .rectangle25-elBQF6 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1344px;
+  height              : 2848px;
+  background-color    : #ffffff;
+  border              : 10.0px solid #000000;
+  border-radius       : 37.0px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .a249-Uw95ii {
+  position            : absolute;
+  top                 : 2596px;
+  left                : 519px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .a49-HL8wjP {
+  position            : absolute;
+  top                 : 2608px;
+  left                : 1201px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .l-n-overtheear-wirel-ykePyE {
+  position            : absolute;
+  top                 : 2584px;
+  left                : 33px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Semibold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : center;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .l-n-inear-headphones-0Ot6JZ {
+  position            : absolute;
+  top                 : 2611px;
+  left                : 681px;
+  width               : 521px;
+  height              : auto;
+  color               : #000000;
+  font                : 48.0px "SFProDisplay-Semibold", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.18px;
+  text-align          : center;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .l-n-vintage-amppro-R4d7VJ {
+  position            : absolute;
+  top                 : 1971px;
+  left                : 699px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 50.0px "SFProDisplay-Semibold", Helvetica, Arial, serif;
+  line-height         : 60.0px;
+  letter-spacing      : -0.19px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy3-Bmm9fQ {
+  position            : absolute;
+  top                 : 2040px;
+  left                : 153px;
+  width               : 367px;
+  height              : 62px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy3-Bmm9fQ .rectangle21-JMaF6e {
+  position            : absolute;
+  top                 : 4px;
+  left                : 0px;
+  width               : 367px;
+  height              : 58px;
+  background-color    : #7ed221;
+  border-radius       : 24.0px;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy3-Bmm9fQ .rectangle21-JMaF6e {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy3-Bmm9fQ .rectangle21-JMaF6e {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy3-Bmm9fQ .rectangle21-JMaF6e:hover {
+  transform           : translate(5px, 0);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy3-Bmm9fQ .buy-now-nAM8SJ {
+  position            : absolute;
+  top                 : 0px;
+  left                : 89px;
+  width               : 203px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 48.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.18px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy3-Bmm9fQ .buy-now-nAM8SJ {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy3-Bmm9fQ .buy-now-nAM8SJ:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy5-uZpe3j {
+  position            : absolute;
+  top                 : 2693px;
+  left                : 783px;
+  width               : 367px;
+  height              : 58px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy5-uZpe3j .rectangle21-ty9l58 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 367px;
+  height              : 58px;
+  background-color    : #f5a523;
+  border-radius       : 24.0px;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy5-uZpe3j .rectangle21-ty9l58 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy5-uZpe3j .rectangle21-ty9l58 {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy5-uZpe3j .rectangle21-ty9l58:hover {
+  transform           : translate(5px, 0);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy5-uZpe3j .out-of-stock-OJNdDs {
+  position            : absolute;
+  top                 : 0px;
+  left                : 47px;
+  width               : 278px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 48.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.18px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy5-uZpe3j .out-of-stock-OJNdDs {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy5-uZpe3j .out-of-stock-OJNdDs:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy51-KjE3Ot {
+  position            : absolute;
+  top                 : 2693px;
+  left                : 154px;
+  width               : 367px;
+  height              : 58px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy51-KjE3Ot .rectangle21-ZEl3KK {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 367px;
+  height              : 58px;
+  background-color    : #f5a523;
+  border-radius       : 24.0px;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy51-KjE3Ot .rectangle21-ZEl3KK {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy51-KjE3Ot .rectangle21-ZEl3KK {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy51-KjE3Ot .rectangle21-ZEl3KK:hover {
+  transform           : translate(5px, 0);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy51-KjE3Ot .out-of-stock-KHXIUV {
+  position            : absolute;
+  top                 : 0px;
+  left                : 47px;
+  width               : 278px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 48.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.18px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy51-KjE3Ot .out-of-stock-KHXIUV {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy51-KjE3Ot .out-of-stock-KHXIUV:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy4-KsSzrT {
+  position            : absolute;
+  top                 : 2055px;
+  left                : 810px;
+  width               : 367px;
+  height              : 59px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy4-KsSzrT .rectangle21-XIqMGC {
+  position            : absolute;
+  top                 : 1px;
+  left                : 0px;
+  width               : 367px;
+  height              : 58px;
+  background-color    : #d0011b;
+  border-radius       : 24.0px;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy4-KsSzrT .rectangle21-XIqMGC {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy4-KsSzrT .rectangle21-XIqMGC {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy4-KsSzrT .rectangle21-XIqMGC:hover {
+  transform           : translate(5px, 0);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy4-KsSzrT .unavailable-qe5z8a {
+  position            : absolute;
+  top                 : 0px;
+  left                : 59px;
+  width               : 283px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 48.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.18px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy4-KsSzrT .unavailable-qe5z8a {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy4-KsSzrT .unavailable-qe5z8a:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .a749-RgQqcI {
+  position            : absolute;
+  top                 : 1962px;
+  left                : 519px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .a699-EKLKaq {
+  position            : absolute;
+  top                 : 1967px;
+  left                : 1173px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .sounddeck-pro-duo-RC92rm {
+  position            : absolute;
+  top                 : 1962px;
+  left                : 24px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 55.0px "SFProDisplay-Semibold", Helvetica, Arial, serif;
+  line-height         : 65.0px;
+  letter-spacing      : -0.2px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .pms156861798615211037-SjoIr8 {
+  position            : absolute;
+  top                 : 1080px;
+  left                : 668px;
+  width               : 597px;
+  height              : 236px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-uzl3y9 {
+  position            : absolute;
+  top                 : 783px;
+  left                : 141px;
+  width               : 367px;
+  height              : 62px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-uzl3y9 .rectangle21-m5Z8Fv {
+  position            : absolute;
+  top                 : 4px;
+  left                : 0px;
+  width               : 367px;
+  height              : 58px;
+  background-color    : #7ed221;
+  border-radius       : 24.0px;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-uzl3y9 .rectangle21-m5Z8Fv {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-uzl3y9 .rectangle21-m5Z8Fv {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-uzl3y9 .rectangle21-m5Z8Fv:hover {
+  transform           : translate(5px, 0);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-uzl3y9 .buy-now-Ns5jJC {
+  position            : absolute;
+  top                 : 0px;
+  left                : 89px;
+  width               : 203px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 48.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.18px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-uzl3y9 .buy-now-Ns5jJC {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-uzl3y9 .buy-now-Ns5jJC:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy2-h2YbAh {
+  position            : absolute;
+  top                 : 1420px;
+  left                : 791px;
+  width               : 367px;
+  height              : 62px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy2-h2YbAh .rectangle21-Zqjr3J {
+  position            : absolute;
+  top                 : 4px;
+  left                : 0px;
+  width               : 367px;
+  height              : 58px;
+  background-color    : #7ed221;
+  border-radius       : 24.0px;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy2-h2YbAh .rectangle21-Zqjr3J {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy2-h2YbAh .rectangle21-Zqjr3J {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy2-h2YbAh .rectangle21-Zqjr3J:hover {
+  transform           : translate(5px, 0);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy2-h2YbAh .buy-now-EKICP7 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 89px;
+  width               : 203px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 48.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.18px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy2-h2YbAh .buy-now-EKICP7 {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy2-h2YbAh .buy-now-EKICP7:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy31-2OXBom {
+  position            : absolute;
+  top                 : 1420px;
+  left                : 153px;
+  width               : 367px;
+  height              : 62px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy31-2OXBom .rectangle21-AKrpWs {
+  position            : absolute;
+  top                 : 4px;
+  left                : 0px;
+  width               : 367px;
+  height              : 58px;
+  background-color    : #7ed221;
+  border-radius       : 24.0px;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy31-2OXBom .rectangle21-AKrpWs {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy31-2OXBom .rectangle21-AKrpWs {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy31-2OXBom .rectangle21-AKrpWs:hover {
+  transform           : translate(5px, 0);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy31-2OXBom .buy-now-aZjsN6 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 89px;
+  width               : 203px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 48.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.18px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy31-2OXBom .buy-now-aZjsN6 {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy31-2OXBom .buy-now-aZjsN6:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy-VMvItl {
+  position            : absolute;
+  top                 : 783px;
+  left                : 823px;
+  width               : 367px;
+  height              : 62px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy-VMvItl .rectangle21-EGlxCg {
+  position            : absolute;
+  top                 : 4px;
+  left                : 0px;
+  width               : 367px;
+  height              : 58px;
+  background-color    : #7ed221;
+  border-radius       : 24.0px;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy-VMvItl .rectangle21-EGlxCg {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy-VMvItl .rectangle21-EGlxCg {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy-VMvItl .rectangle21-EGlxCg:hover {
+  transform           : translate(5px, 0);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy-VMvItl .buy-now-FWU8iq {
+  position            : absolute;
+  top                 : 0px;
+  left                : 89px;
+  width               : 203px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 48.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.18px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy-VMvItl .buy-now-FWU8iq {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group2-copy-VMvItl .buy-now-FWU8iq:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .screen-shot20200326at12removebgpreview-Oxrmoe {
+  position            : absolute;
+  top                 : 254px;
+  left                : 153px;
+  width               : 367px;
+  height              : 440px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .screen-shot20200326-at12-removebg-preview-copy-MNpqmW {
+  position            : absolute;
+  top                 : 1571px;
+  left                : 271px;
+  width               : 293px;
+  height              : 351px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .screen-shot20200326-at12-removebg-preview-copy2-ALSTeB {
+  position            : absolute;
+  top                 : 1582px;
+  left                : 84px;
+  width               : 293px;
+  height              : 351px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .line2-jax1Ja {
+  position            : absolute;
+  top                 : 235px;
+  left                : 667px;
+  width               : 3px;
+  height              : 2526px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .line21-ifsRVp {
+  position            : absolute;
+  top                 : 865px;
+  left                : 37px;
+  width               : 1265px;
+  height              : 4px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .line22-H1fdNH {
+  position            : absolute;
+  top                 : 210px;
+  left                : 890px;
+  width               : 412px;
+  height              : 4px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .line2-copy-3uXuZ3 {
+  position            : absolute;
+  top                 : 1497px;
+  left                : 37px;
+  width               : 1265px;
+  height              : 4px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .line2-copy2-HthuH9 {
+  position            : absolute;
+  top                 : 2129px;
+  left                : 37px;
+  width               : 1265px;
+  height              : 4px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .sounddeck-pro-fmXIAl {
+  position            : absolute;
+  top                 : 712px;
+  left                : 40px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Semibold", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .soundhome-max-rY2YyF {
+  position            : absolute;
+  top                 : 1353px;
+  left                : 38px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Semibold", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .sound-bar-18Lcba {
+  position            : absolute;
+  top                 : 1350px;
+  left                : 721px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Semibold", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .soundplay-move-HvtC9S {
+  position            : absolute;
+  top                 : 712px;
+  left                : 706px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Semibold", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .a399-4jz7Vl {
+  position            : absolute;
+  top                 : 712px;
+  left                : 478px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .a599-V06UdF {
+  position            : absolute;
+  top                 : 1353px;
+  left                : 504px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .a299-zlZNgc {
+  position            : absolute;
+  top                 : 1349px;
+  left                : 1145px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .a199-vMJUmK {
+  position            : absolute;
+  top                 : 712px;
+  left                : 1166px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .screen-shot20200325-at1-removebg-preview1-OjbLTB {
+  position            : absolute;
+  top                 : 230px;
+  left                : 810px;
+  width               : 356px;
+  height              : 484px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .screen-shot20200325-at1-removebg-preview2-vLBwfc {
+  position            : absolute;
+  top                 : 869px;
+  left                : 144px;
+  width               : 465px;
+  height              : 522px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group4-Iuy405 {
+  position            : absolute;
+  top                 : 1621px;
+  left                : 724px;
+  width               : 521px;
+  height              : 235px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group4-Iuy405 .ampvectoramplifier19-NEJRz4 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 521px;
+  height              : 235px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group4-Iuy405 .screen-shot20200320-at12554-am1-8KkCh4 {
+  position            : absolute;
+  top                 : 87px;
+  left                : 130px;
+  width               : 261px;
+  height              : 42px;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group4-Iuy405 .screen-shot20200320-at12554-am1-8KkCh4 {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group4-Iuy405 .screen-shot20200320-at12554-am1-8KkCh4:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .headphonetransparentwireless5-UPt5mv {
+  position            : absolute;
+  top                 : 2114px;
+  left                : 90px;
+  width               : 494px;
+  height              : 494px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .rectangle26-TUpXQw {
+  position            : absolute;
+  top                 : 2774px;
+  left                : 558px;
+  width               : 215px;
+  height              : 54px;
+  background-color    : #ffffff;
+  border              : 3.0px solid #000000;
+  border-radius       : 27.0px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group5-Ruw1pM {
+  position            : absolute;
+  top                 : 2782px;
+  left                : 664px;
+  width               : 38px;
+  height              : 38px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group5-Ruw1pM .oval5-a1F1cn {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 38px;
+  height              : 38px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group5-Ruw1pM .a1-08uFvX {
+  position            : absolute;
+  top                 : 1px;
+  left                : 12px;
+  width               : 14px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -0.11px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group5-copy-sNRxNV {
+  position            : absolute;
+  top                 : 2782px;
+  left                : 711px;
+  width               : 38px;
+  height              : 38px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group5-copy-sNRxNV .oval5-BaWnf9 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 38px;
+  height              : 38px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group5-copy-sNRxNV .a2-IKxH6J {
+  position            : absolute;
+  top                 : 1px;
+  left                : 11px;
+  width               : 14px;
+  height              : auto;
+  color               : #4a494a;
+  font                : 30.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -0.11px;
+  text-align          : left;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group51-dwGBsU {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 2778px;
+  left                : 579px;
+  width               : auto;
+  min-width           : 75px;
+  height              : 43px;
+  box-sizing          : border-box;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .group51-dwGBsU .page-EyByAp {
+  position            : relative;
+  width               : auto;
+  min-width           : 76.8663482666px;
+  height              : auto;
+  min-height          : 43px;
+  color               : #4a494a;
+  font                : 36.0px "SFProDisplay-Regular", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.13px;
+  text-align          : left;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .headphonesventionvaet05inearhandsfreeearphonewithmicrophone35mmheadsetforiphonesamsungnokia1grande-hUF7lA {
+  position            : absolute;
+  top                 : 2053px;
+  left                : 630px;
+  width               : 522px;
+  height              : 522px;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .shop1-eiJ8Cn {
+  position            : absolute;
+  top                 : 32px;
+  left                : 504px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 140.0px "SFProDisplay-Semibold", Helvetica, Arial, serif;
+  line-height         : 167.0px;
+  letter-spacing      : -0.22px;
+  text-align          : center;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .filter-applied-non-zaybkL {
+  position            : absolute;
+  top                 : 163px;
+  left                : 899px;
+  width               : auto;
+  height              : auto;
+  color               : #4a494a;
+  font                : 40.0px "SFProDisplay-Semibold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.07px;
+  text-align          : center;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .overrides-cell-accessory-disclosure-indicator-DSTSG0 {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 171px;
+  left                : 1269px;
+  width               : auto;
+  height              : 41px;
+  transform           : rotate(90deg);
+  box-sizing          : border-box;
+}
+.shop-IEp7qc .overlap-group1-oLW0gt .overrides-cell-accessory-disclosure-indicator-DSTSG0 .disclosure-indicator-FEGBO1 {
+  position            : relative;
+  width               : 20px;
+  height              : 40px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 1344px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-top          : 92px;
+  margin-left         : 12.0px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 431px;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 529px;
+  height              : auto;
+  align-self          : flex-start;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .our-company-XUXzWh {
+  position            : relative;
+  width               : auto;
+  min-width           : 285.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .our-company-XUXzWh {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .our-company-XUXzWh:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .blog-DTM75M {
+  position            : relative;
+  width               : auto;
+  min-width           : 94.4966659546px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 15px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .blog-DTM75M {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .blog-DTM75M:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .press-releases-and-n-STBNX8 {
+  position            : relative;
+  width               : auto;
+  min-width           : 526.496643066px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 19px;
+  margin-left         : 3.0px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .press-releases-and-n-STBNX8 {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .press-releases-and-n-STBNX8:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .careers-ZObXnn {
+  position            : relative;
+  width               : auto;
+  min-width           : 164.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 13px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .careers-ZObXnn {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .careers-ZObXnn:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .responsibility-YCTNMF {
+  position            : relative;
+  width               : auto;
+  min-width           : 293.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 20px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .responsibility-YCTNMF {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .responsibility-YCTNMF:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .innovation-GGCTkn {
+  position            : relative;
+  width               : auto;
+  min-width           : 217.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 14px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .innovation-GGCTkn {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex2-F5TNzv .innovation-GGCTkn:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr {
+  position            : relative;
+  width               : 297px;
+  height              : 407px;
+  margin-left         : 145px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .certified-refurbishe-L9cQeV {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .certified-refurbishe-L9cQeV {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .certified-refurbishe-L9cQeV:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .student-partners-DyW2YA {
+  position            : absolute;
+  top                 : 57px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .student-partners-DyW2YA {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .student-partners-DyW2YA:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .investors-b225V5 {
+  position            : absolute;
+  top                 : 117px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .investors-b225V5 {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .investors-b225V5:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .developer-portal-OOpr7y {
+  position            : absolute;
+  top                 : 178px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .developer-portal-OOpr7y {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .developer-portal-OOpr7y:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .sign-up-for-newslett-cNdiMC {
+  position            : absolute;
+  top                 : 239px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .sign-up-for-newslett-cNdiMC {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .sign-up-for-newslett-cNdiMC:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .find-a-store-FcAcB2 {
+  position            : absolute;
+  top                 : 299px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .find-a-store-FcAcB2 {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .overlap-group2-m0SSpr .find-a-store-FcAcB2:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 260px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-left         : 52px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .shipping-delivery-qeoSRe {
+  position            : relative;
+  width               : auto;
+  min-width           : 260.496673584px;
+  height              : auto;
+  min-height          : 36px;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .shipping-delivery-qeoSRe {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .shipping-delivery-qeoSRe:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v {
+  position            : relative;
+  width               : 172px;
+  height              : 351px;
+  margin-top          : 21px;
+  margin-left         : 3.0px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .about-us-yOgVgF {
+  position            : absolute;
+  top                 : 60px;
+  left                : 2px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .about-us-yOgVgF {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .about-us-yOgVgF:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .security-F58WiF {
+  position            : absolute;
+  top                 : 121px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .security-F58WiF {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .security-F58WiF:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .conformity-x3N0TD {
+  position            : absolute;
+  top                 : 180px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .conformity-x3N0TD {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .conformity-x3N0TD:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .order-status-iSppDX {
+  position            : absolute;
+  top                 : 0px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .order-status-iSppDX {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .order-status-iSppDX:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .trade-up-XqARpX {
+  position            : absolute;
+  top                 : 243px;
+  left                : 2px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .trade-up-XqARpX {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex3-6lw1p6 .auto-flex1-N9srVc .overlap-group3-F1Ca7v .trade-up-XqARpX:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 50px;
+  align-self          : flex-end;
+  box-sizing          : border-box;
+  margin-top          : 16px;
+  margin-right        : 1.5px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .icons8facebook50-e90qoV {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .icons8facebook50-e90qoV {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .icons8facebook50-e90qoV:hover {
+  transform           : scale(1.1);
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .icons8facebook50-e90qoV .shape-23iJDX {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .group3-aU02YV {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  box-sizing          : border-box;
+  margin-left         : 34px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .group3-aU02YV .icons8twitter50-O4WCE7 {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .group3-aU02YV .icons8twitter50-O4WCE7 {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .group3-aU02YV .icons8twitter50-O4WCE7:hover {
+  transform           : scale(1.1);
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .group3-aU02YV .icons8twitter50-O4WCE7 .shape-U3bfK9 {
+  position            : relative;
+  width               : 61px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .group3-aU02YV .icons8youtube50-oei4Mr {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  margin-left         : 28px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .group3-aU02YV .icons8youtube50-oei4Mr {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .group3-aU02YV .icons8youtube50-oei4Mr:hover {
+  transform           : scale(1.1);
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .group3-aU02YV .icons8youtube50-oei4Mr .shape-x4fkDO {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .group3-aU02YV .icons8instagram50-EGBq6a {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  margin-left         : 33px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .group3-aU02YV .icons8instagram50-EGBq6a {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .group3-aU02YV .icons8instagram50-EGBq6a:hover {
+  transform           : scale(1.1);
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .group3-aU02YV .icons8instagram50-EGBq6a .shape-BaYYMt {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .overlap-group4-afuELh {
+  position            : relative;
+  width               : 810px;
+  height              : 36px;
+  margin-left         : 162px;
+  flex-shrink         : 0;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .overlap-group4-afuELh .lashell-noe-legal20-T01BOg {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 810px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .overlap-group4-afuELh .lashell-noe-legal20-T01BOg {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .overlap-group4-afuELh .lashell-noe-legal20-T01BOg:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .overlap-group4-afuELh .privacy-statement-tiRxNG {
+  position            : absolute;
+  top                 : 0px;
+  left                : 382px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .overlap-group4-afuELh .privacy-statement-tiRxNG {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .overlap-group4-afuELh .privacy-statement-tiRxNG:hover {
+  text-decoration     : underline;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .overlap-group4-afuELh .site-map-pOYxst {
+  position            : absolute;
+  top                 : 0px;
+  left                : 693px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .overlap-group4-afuELh .site-map-pOYxst {
+  pointer-events      : auto;
+}
+.shop-IEp7qc .group-6qxLwg .auto-flex-fEj4Fa .overlap-group4-afuELh .site-map-pOYxst:hover {
+  text-decoration     : underline;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+* {
+  box-sizing          : border-box;
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
