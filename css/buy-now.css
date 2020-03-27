@@ -1,0 +1,2788 @@
+
+@font-face {
+                          font-family: "SFProDisplay-Bold";
+                          src: url('../fonts/SF-Pro-Display-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Medium";
+                          src: url('../fonts/SF-Pro-Display-Medium.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Semibold";
+                          src: url('../fonts/SF-Pro-Text-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Heavy";
+                          src: url('../fonts/SF-Pro-Display-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Bold";
+                          src: url('../fonts/SF-Pro-Text-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Light";
+                          src: url('../fonts/SF-Pro-Text-Light.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Heavy";
+                          src: url('../fonts/SF-Pro-Text-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFCompactRounded-Heavy";
+                          src: url('../fonts/SF-Compact-Rounded-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Medium";
+                          src: url('../fonts/SF-Pro-Text-Medium.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Thin";
+                          src: url('../fonts/SF-Pro-Display-Thin.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Semibold";
+                          src: url('../fonts/SF-Pro-Display-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Regular";
+                          src: url('../fonts/SF-Pro-Display-Regular.otf') format("opentype");
+                        }
+                        
+.buy-now-GPzNBo {
+  overflow            : hidden;
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : center;
+  margin              : 0px;
+  width               : 100%;
+  min-width           : 1440.0px;
+  height              : auto;
+  min-height          : 3200.0px;
+  background-color    : #3c3c3c;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing          : border-box;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+textarea:focus, input:focus {
+  outline             : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-animate-enter90 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter90-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter90-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter90-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter90-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter90-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter90-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter90-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter90-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter91 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter91-frames 2s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter91-frames 2s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter91-frames 2s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter91-frames 2s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter91-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter91-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter91-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter91-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter92 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter92-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter92-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter92-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter92-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter92-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter92-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter92-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter92-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter93 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter93-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter93-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter93-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter93-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter93-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter93-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter93-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter93-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter94 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter94-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter94-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter94-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter94-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter94-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter94-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter94-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter94-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter95 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter95-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter95-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter95-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter95-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter95-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter95-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter95-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter95-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter96 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter96-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter96-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter96-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter96-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter96-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter96-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter96-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter96-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter97 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter97-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter97-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter97-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter97-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter97-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter97-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter97-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter97-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter98 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter98-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter98-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter98-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter98-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter98-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter98-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter98-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter98-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter99 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter99-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter99-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter99-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter99-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter99-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter99-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter99-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter99-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter100 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter100-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter100-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter100-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter100-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter100-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter100-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter100-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter100-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK {
+  position            : relative;
+  width               : 1440px;
+  height              : 108px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .rectangle-copy-2qiNJp {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1440px;
+  height              : 108px;
+  background-color    : #000000;
+  border              : 1.0px solid #969696;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .line-UCkVQb {
+  position            : absolute;
+  top                 : 94px;
+  left                : 487px;
+  width               : 222px;
+  height              : 5px;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .line-UCkVQb {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .line-UCkVQb:hover {
+  transform           : translate(0, -5px);
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .screen-shot20200320-at12554-am-fSjbyK {
+  position            : absolute;
+  top                 : 22px;
+  left                : 6px;
+  width               : 430px;
+  height              : 70px;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .screen-shot20200320-at12554-am-fSjbyK {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .screen-shot20200320-at12554-am-fSjbyK:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .s-peakers-ExXxYj {
+  position            : absolute;
+  top                 : 36px;
+  left                : 483px;
+  width               : 224px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.24px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .s-peakers-ExXxYj {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .s-peakers-ExXxYj:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .s-peakers-ExXxYj .span1-YMZLL0 {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.buy-now-GPzNBo .s-peakers-ExXxYj .span2-MFxdII {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : -0.16px;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .s-hop-8HKdQZ {
+  position            : absolute;
+  top                 : 37px;
+  left                : 741px;
+  width               : 138px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .s-hop-8HKdQZ {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .s-hop-8HKdQZ:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .s-hop-8HKdQZ .span1-HEM1iv {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.buy-now-GPzNBo .s-hop-8HKdQZ .span2-jMharC {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .a-bout-YvcjSv {
+  position            : absolute;
+  top                 : 37px;
+  left                : 903px;
+  width               : 182px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 25.0px;
+  letter-spacing      : -0.15px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .a-bout-YvcjSv {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .a-bout-YvcjSv:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .a-bout-YvcjSv .span1-TTy2JZ {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 48.0px;
+  letter-spacing      : 0.0px;
+}
+.buy-now-GPzNBo .a-bout-YvcjSv .span2-9DR5LH {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-size           : 25.0px;
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 30.0px;
+  letter-spacing      : 0.0px;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .group9-D730Pl {
+  position            : absolute;
+  top                 : 21px;
+  left                : 1361px;
+  width               : 69px;
+  height              : 69px;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .group9-D730Pl {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .group9-D730Pl:hover {
+  transform           : scale(1.1);
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .group9-D730Pl .oval1-sXphsJ {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 69px;
+  height              : 69px;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .group9-D730Pl .oval2-bTBOZ9 {
+  position            : absolute;
+  top                 : 9px;
+  left                : 9px;
+  width               : 50px;
+  height              : 50px;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .group9-D730Pl .oval3-kwTNCa {
+  position            : absolute;
+  top                 : 18px;
+  left                : 23px;
+  width               : 23px;
+  height              : 23px;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .group9-D730Pl .oval4-mk6tAK {
+  position            : absolute;
+  top                 : 47px;
+  left                : 9px;
+  width               : 50px;
+  height              : 18px;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .glyphs-search-2nPLfB {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 20px;
+  left                : 1122px;
+  width               : auto;
+  height              : 74px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .glyphs-search-2nPLfB {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .glyphs-search-2nPLfB {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .glyphs-search-2nPLfB:hover {
+  transform           : scale(1.1);
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .glyphs-search-2nPLfB .search-858Dyv {
+  position            : relative;
+  width               : 74px;
+  height              : 74px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .group10-wwQMJP {
+  position            : absolute;
+  top                 : 19px;
+  left                : 1238px;
+  width               : 86px;
+  height              : 77px;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .group10-wwQMJP {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .group10-wwQMJP:hover {
+  transform           : scale(1.1);
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .group10-wwQMJP .shoppingcartpngrepocom-cCWCXX {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 77px;
+  height              : 77px;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .group10-wwQMJP .glyphs-notification-icon-6Q6FOz {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 9px;
+  left                : 66px;
+  width               : auto;
+  height              : 20px;
+  box-sizing          : border-box;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .group10-wwQMJP .glyphs-notification-icon-6Q6FOz .app-icon-qTFhM0 {
+  position            : relative;
+  width               : 20px;
+  height              : 20px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .overlap-group1-MWuoDK .group10-wwQMJP .a1-GBip1p {
+  position            : absolute;
+  top                 : 9px;
+  left                : 72px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 16.0px "SFCompactRounded-Heavy", Helvetica, Arial, serif;
+  line-height         : 19.0px;
+  letter-spacing      : -0.24px;
+  text-align          : center;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz {
+  position            : relative;
+  width               : 1417px;
+  height              : 2498px;
+  margin-top          : 10px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group5-Xcx8cc {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 123px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group5-Xcx8cc .rectangle5-8ek58B {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 64px;
+  background-color    : #000000;
+  border-radius       : 29.0px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group5-Xcx8cc .rectangle6-vQ48hy {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group5-Xcx8cc .rectangle3-p9smcB {
+  position            : absolute;
+  top                 : 82px;
+  left                : 1103px;
+  width               : 303px;
+  height              : 41px;
+  background-color    : #7ed221;
+  border-radius       : 20.5px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group5-Xcx8cc .rectangle61-m6jAWl {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group5-Xcx8cc .rectangle31-A21Io0 {
+  position            : absolute;
+  top                 : 11px;
+  left                : 13px;
+  width               : 334px;
+  height              : 41px;
+  background-color    : #060606;
+  border-radius       : 20.5px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group5-Xcx8cc .collection-LTuGl9 {
+  position            : absolute;
+  top                 : 8px;
+  left                : 78px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group5-Xcx8cc .accessories-mZNbtG {
+  position            : absolute;
+  top                 : 7px;
+  left                : 425px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group5-Xcx8cc .pro-components-cFeh2a {
+  position            : absolute;
+  top                 : 7px;
+  left                : 738px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group5-Xcx8cc .compare-q2raK4 {
+  position            : absolute;
+  top                 : 7px;
+  left                : 1140px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group51-85Xvs0 {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 72px;
+  left                : 0px;
+  width               : auto;
+  height              : 103px;
+  box-sizing          : border-box;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group51-85Xvs0 .group1-QhWNfl {
+  position            : relative;
+  width               : 1417px;
+  height              : 103px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group51-85Xvs0 .group1-QhWNfl .rectangle5-IQJwZV {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 64px;
+  background-color    : #000000;
+  border-radius       : 29.0px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group51-85Xvs0 .group1-QhWNfl .rectangle6-VngEvf {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group51-85Xvs0 .group1-QhWNfl .rectangle61-4QNTjM {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group51-85Xvs0 .group1-QhWNfl .sounddeck-pro-GCU4BA {
+  position            : absolute;
+  top                 : 7px;
+  left                : 28px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group51-85Xvs0 .group1-QhWNfl .tech-specs-W5a6bI {
+  position            : absolute;
+  top                 : 7px;
+  left                : 822px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group51-85Xvs0 .group1-QhWNfl .rectangle3-Ly0NU5 {
+  position            : absolute;
+  top                 : 11px;
+  left                : 1102px;
+  width               : 303px;
+  height              : 41px;
+  background-color    : #000000;
+  border-radius       : 20.5px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group51-85Xvs0 .group1-QhWNfl .buy-now1-gAeoQX {
+  position            : absolute;
+  top                 : 11px;
+  left                : 1181px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 36.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.13px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .rectangle11-OzFZMI {
+  position            : absolute;
+  top                 : 168px;
+  left                : 16px;
+  width               : 1385px;
+  height              : 2330px;
+  background-color    : #ffffff;
+  border              : 10.0px solid #000000;
+  border-radius       : 37.0px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .a5136-rzy3Vu {
+  position            : absolute;
+  top                 : 2093px;
+  left                : 844px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .line2-6Byawk {
+  position            : absolute;
+  top                 : 950px;
+  left                : 76px;
+  width               : 1265px;
+  height              : 4px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .line2-copy-Dviz0n {
+  position            : absolute;
+  top                 : 1327px;
+  left                : 76px;
+  width               : 1265px;
+  height              : 4px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .line2-copy3-SnqHFn {
+  position            : absolute;
+  top                 : 1625px;
+  left                : 57px;
+  width               : 1265px;
+  height              : 4px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .line2-copy4-RR6eeO {
+  position            : absolute;
+  top                 : 1904px;
+  left                : 76px;
+  width               : 1265px;
+  height              : 4px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .line2-copy5-eA0XZg {
+  position            : absolute;
+  top                 : 2220px;
+  left                : 76px;
+  width               : 1265px;
+  height              : 4px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .line2-copy2-fXBC58 {
+  position            : absolute;
+  top                 : 1194px;
+  left                : 76px;
+  width               : 1265px;
+  height              : 4px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .buy-sounddeck-pro-2M5SSj {
+  position            : absolute;
+  top                 : 195px;
+  left                : 343px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 80.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 95.0px;
+  letter-spacing      : -0.3px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .buy-sounddeck-pro-2M5SSj {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .screen-shot20200326at12removebgpreview-HWH8qG {
+  position            : absolute;
+  top                 : 326px;
+  left                : 363px;
+  width               : 673px;
+  height              : 374px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .colour-3SkfFX {
+  position            : absolute;
+  top                 : 772px;
+  left                : 50px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .address-ZKiYTG {
+  position            : absolute;
+  top                 : 1011px;
+  left                : 50px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .pincode-EzlXiF {
+  position            : absolute;
+  top                 : 1227px;
+  left                : 58px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .shipping-nM14KA {
+  position            : absolute;
+  top                 : 1357px;
+  left                : 50px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .extras-JqnRbb {
+  position            : absolute;
+  top                 : 1640px;
+  left                : 58px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .space-black-pgnJL4 {
+  position            : absolute;
+  top                 : 813px;
+  left                : 375px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Semibold", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .add-a-free-gift-wrap-srPm4z {
+  position            : absolute;
+  top                 : 1648px;
+  left                : 366px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .standard7-day-shipp-r44btX {
+  position            : absolute;
+  top                 : 1366px;
+  left                : 469px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .standard7-day-shipp-r44btX .span1-KTFPh8 {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.buy-now-GPzNBo .standard7-day-shipp-r44btX .span2-5qtY0o {
+  color               : #9b9a9b;
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .pearl-white-LoVTYw {
+  position            : absolute;
+  top                 : 815px;
+  left                : 759px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Semibold", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .misc-rounded-checkbox-23Wefg {
+  position            : absolute;
+  top                 : 884px;
+  left                : 488px;
+  width               : 40px;
+  height              : 40px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .misc-rounded-checkbox-23Wefg {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .misc-rounded-checkbox-23Wefg .background-xJ64PA {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 40px;
+  height              : 40px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .misc-rounded-checkbox-23Wefg .check-BzYiQK {
+  position            : absolute;
+  top                 : 12px;
+  left                : 8px;
+  width               : 23px;
+  height              : 16px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .misc-rounded-checkbox-copy-Qe9Jef {
+  position            : absolute;
+  top                 : 1454px;
+  left                : 408px;
+  width               : 40px;
+  height              : 40px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .misc-rounded-checkbox-copy-Qe9Jef {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .misc-rounded-checkbox-copy-Qe9Jef .background-2LSkHV {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 40px;
+  height              : 40px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .misc-rounded-checkbox-copy-Qe9Jef .check-HoxBoL {
+  position            : absolute;
+  top                 : 12px;
+  left                : 8px;
+  width               : 23px;
+  height              : 16px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .oval-svqvEO {
+  position            : absolute;
+  top                 : 741px;
+  left                : 479px;
+  width               : 64px;
+  height              : 63px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .oval-copy-xkH9B8 {
+  position            : absolute;
+  top                 : 741px;
+  left                : 866px;
+  width               : 64px;
+  height              : 63px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .oval-copy2-nb8KmB {
+  position            : absolute;
+  top                 : 883px;
+  left                : 878px;
+  width               : 43px;
+  height              : 42px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .oval-copy2-nb8KmB {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .oval-copy4-MFrvyr {
+  position            : absolute;
+  top                 : 1521px;
+  left                : 408px;
+  width               : 43px;
+  height              : 42px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .oval-copy4-MFrvyr {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .oval-copy3-HzHDKd {
+  position            : absolute;
+  top                 : 1382px;
+  left                : 407px;
+  width               : 43px;
+  height              : 42px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .oval-copy3-HzHDKd {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .rectangle18-E3K2GE {
+  position            : absolute;
+  top                 : 1023px;
+  left                : 362px;
+  width               : 958px;
+  height              : 131px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .text-a73-neuschwanstein-danube-east-7jaVx6 {
+  position            : absolute;
+  top                 : 1031px;
+  left                : 397px;
+  padding             : 0;
+  width               : 545px;
+  height              : 48px;
+  color               : #000000;
+  background-color    : rgba(255, 255, 255, 0);
+  border              : 0;
+  font                : 40.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+  resize              : none;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .text-a73-neuschwanstein-danube-east-7jaVx6::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .rectangle19-Fh0puf {
+  position            : absolute;
+  top                 : 1235px;
+  left                : 362px;
+  width               : 63px;
+  height              : 69px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .rectangle19-copy-f5qwjC {
+  position            : absolute;
+  top                 : 1236px;
+  left                : 440px;
+  width               : 63px;
+  height              : 69px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .rectangle19-copy2-XQxAxw {
+  position            : absolute;
+  top                 : 1236px;
+  left                : 520px;
+  width               : 63px;
+  height              : 69px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .rectangle19-copy3-J70AGp {
+  position            : absolute;
+  top                 : 1236px;
+  left                : 598px;
+  width               : 63px;
+  height              : 69px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .rectangle19-copy4-FLpkOl {
+  position            : absolute;
+  top                 : 1236px;
+  left                : 679px;
+  width               : 63px;
+  height              : 69px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .rectangle19-copy5-HAC0sc {
+  position            : absolute;
+  top                 : 1235px;
+  left                : 760px;
+  width               : 63px;
+  height              : 69px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .text1-e3khJm {
+  position            : absolute;
+  top                 : 1246px;
+  left                : 381px;
+  padding             : 0;
+  width               : 18px;
+  height              : 48px;
+  color               : #000000;
+  background-color    : rgba(255, 255, 255, 0);
+  border              : 0;
+  font                : 40.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+  resize              : none;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .text1-e3khJm::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .text11-7nz4WU {
+  position            : absolute;
+  top                 : 1246px;
+  left                : 463px;
+  padding             : 0;
+  width               : 18px;
+  height              : 48px;
+  color               : #000000;
+  background-color    : rgba(255, 255, 255, 0);
+  border              : 0;
+  font                : 40.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+  resize              : none;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .text11-7nz4WU::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .text12-hAmY9Y {
+  position            : absolute;
+  top                 : 1246px;
+  left                : 542px;
+  padding             : 0;
+  width               : 18px;
+  height              : 48px;
+  color               : #000000;
+  background-color    : rgba(255, 255, 255, 0);
+  border              : 0;
+  font                : 40.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+  resize              : none;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .text12-hAmY9Y::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .text13-FISeCK {
+  position            : absolute;
+  top                 : 1246px;
+  left                : 620px;
+  padding             : 0;
+  width               : 18px;
+  height              : 48px;
+  color               : #000000;
+  background-color    : rgba(255, 255, 255, 0);
+  border              : 0;
+  font                : 40.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+  resize              : none;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .text13-FISeCK::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .text4-02RxGj {
+  position            : absolute;
+  top                 : 1246px;
+  left                : 700px;
+  padding             : 0;
+  width               : 25px;
+  height              : 48px;
+  opacity             : 0.4;
+  color               : #000000;
+  background-color    : rgba(255, 255, 255, 0);
+  border              : 0;
+  font                : 40.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+  resize              : none;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .text4-02RxGj::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .text2-4u38Q3 {
+  position            : absolute;
+  top                 : 1246px;
+  left                : 778px;
+  padding             : 0;
+  width               : 25px;
+  height              : 48px;
+  opacity             : 0.4;
+  color               : #000000;
+  background-color    : rgba(255, 255, 255, 0);
+  border              : 0;
+  font                : 40.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+  resize              : none;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .text2-4u38Q3::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group2-KGsi0W {
+  position            : absolute;
+  top                 : 1664px;
+  left                : 1145px;
+  width               : 169px;
+  height              : 48px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group2-KGsi0W .rectangle20-VElUAM {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 169px;
+  height              : 48px;
+  background-color    : #498fe1;
+  border-radius       : 24.0px;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group2-KGsi0W .rectangle20-VElUAM {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group2-KGsi0W .rectangle20-VElUAM {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group2-KGsi0W .rectangle20-VElUAM:hover {
+  transform           : translate(5px, 0);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group2-KGsi0W .add-ClCeey {
+  position            : absolute;
+  top                 : 0px;
+  left                : 45px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group2-KGsi0W .add-ClCeey {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group2-KGsi0W .add-ClCeey:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .find-accessories-for-VxBBtP {
+  position            : absolute;
+  top                 : 1727px;
+  left                : 361px;
+  width               : 908px;
+  height              : auto;
+  color               : #498fe1;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .find-accessories-for-VxBBtP {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .find-accessories-for-VxBBtP {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .find-accessories-for-VxBBtP:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .find-accessories-for-VxBBtP .span1-eBvAxk {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.buy-now-GPzNBo .find-accessories-for-VxBBtP .span2-9vKV6x {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : -0.33px;
+}
+.buy-now-GPzNBo .find-accessories-for-VxBBtP .span3-OFj4yi {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : -0.33px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .subtotal-shipping-ta-cNzQUP {
+  position            : absolute;
+  top                 : 1951px;
+  left                : 484px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .a399-aLjxof {
+  position            : absolute;
+  top                 : 1952px;
+  left                : 885px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .a29-qfxRpw {
+  position            : absolute;
+  top                 : 2022px;
+  left                : 923px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .total47936-nFcgG0 {
+  position            : absolute;
+  top                 : 2239px;
+  left                : 483px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : left;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group4-YjxN9h {
+  position            : absolute;
+  top                 : 2338px;
+  left                : 490px;
+  width               : 568px;
+  height              : 62px;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group4-YjxN9h .rectangle21-TOngh6 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 568px;
+  height              : 62px;
+  background-color    : #7ed221;
+  border-radius       : 24.0px;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group4-YjxN9h .rectangle21-TOngh6 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group4-YjxN9h .rectangle21-TOngh6 {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group4-YjxN9h .rectangle21-TOngh6:hover {
+  transform           : translate(5px, 0);
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group4-YjxN9h .proceed-to-pay-I3ksDB {
+  position            : absolute;
+  top                 : 0px;
+  left                : 131px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 48.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.18px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group4-YjxN9h .proceed-to-pay-I3ksDB {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .overlap-group-sSELkz .group4-YjxN9h .proceed-to-pay-I3ksDB:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 1344px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-top          : 58px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 431px;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 529px;
+  height              : auto;
+  align-self          : flex-start;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .our-company-PjySbU {
+  position            : relative;
+  width               : auto;
+  min-width           : 285.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .our-company-PjySbU {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .our-company-PjySbU:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .blog-7AxuFv {
+  position            : relative;
+  width               : auto;
+  min-width           : 94.4966659546px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 15px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .blog-7AxuFv {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .blog-7AxuFv:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .press-releases-and-n-iJJynL {
+  position            : relative;
+  width               : auto;
+  min-width           : 526.496643066px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 19px;
+  margin-left         : 3.0px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .press-releases-and-n-iJJynL {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .press-releases-and-n-iJJynL:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .careers-JNxnZP {
+  position            : relative;
+  width               : auto;
+  min-width           : 164.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 13px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .careers-JNxnZP {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .careers-JNxnZP:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .responsibility-uAn6Sm {
+  position            : relative;
+  width               : auto;
+  min-width           : 293.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 20px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .responsibility-uAn6Sm {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .responsibility-uAn6Sm:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .innovation-2P06Mr {
+  position            : relative;
+  width               : auto;
+  min-width           : 217.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 14px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .innovation-2P06Mr {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex2-uB1wI2 .innovation-2P06Mr:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp {
+  position            : relative;
+  width               : 297px;
+  height              : 407px;
+  margin-left         : 145px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .certified-refurbishe-Q03L0i {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .certified-refurbishe-Q03L0i {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .certified-refurbishe-Q03L0i:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .student-partners-D2sZe4 {
+  position            : absolute;
+  top                 : 57px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .student-partners-D2sZe4 {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .student-partners-D2sZe4:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .investors-h8KDys {
+  position            : absolute;
+  top                 : 117px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .investors-h8KDys {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .investors-h8KDys:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .developer-portal-w6lVBG {
+  position            : absolute;
+  top                 : 178px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .developer-portal-w6lVBG {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .developer-portal-w6lVBG:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .sign-up-for-newslett-g6K24e {
+  position            : absolute;
+  top                 : 239px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .sign-up-for-newslett-g6K24e {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .sign-up-for-newslett-g6K24e:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .find-a-store-bGGshH {
+  position            : absolute;
+  top                 : 299px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .find-a-store-bGGshH {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .overlap-group2-s8kGZp .find-a-store-bGGshH:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 260px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-left         : 52px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .shipping-delivery-gHsz0F {
+  position            : relative;
+  width               : auto;
+  min-width           : 260.496673584px;
+  height              : auto;
+  min-height          : 36px;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .shipping-delivery-gHsz0F {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .shipping-delivery-gHsz0F:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg {
+  position            : relative;
+  width               : 172px;
+  height              : 351px;
+  margin-top          : 21px;
+  margin-left         : 3.0px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .about-us-b1zuqA {
+  position            : absolute;
+  top                 : 60px;
+  left                : 2px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .about-us-b1zuqA {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .about-us-b1zuqA:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .security-oW5WGN {
+  position            : absolute;
+  top                 : 121px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .security-oW5WGN {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .security-oW5WGN:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .conformity-1VOIcD {
+  position            : absolute;
+  top                 : 180px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .conformity-1VOIcD {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .conformity-1VOIcD:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .order-status-PsXgdB {
+  position            : absolute;
+  top                 : 0px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .order-status-PsXgdB {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .order-status-PsXgdB:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .trade-up-ZOxZKi {
+  position            : absolute;
+  top                 : 243px;
+  left                : 2px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .trade-up-ZOxZKi {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex3-hg0awp .auto-flex1-Alw8vQ .overlap-group3-vmmmFg .trade-up-ZOxZKi:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 50px;
+  align-self          : flex-end;
+  box-sizing          : border-box;
+  margin-top          : 16px;
+  margin-right        : 1.5px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .icons8facebook50-n26HBw {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .icons8facebook50-n26HBw {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .icons8facebook50-n26HBw:hover {
+  transform           : scale(1.1);
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .icons8facebook50-n26HBw .shape-JLcjS1 {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .group3-dTAewv {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  box-sizing          : border-box;
+  margin-left         : 34px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .group3-dTAewv .icons8twitter50-gtRrEF {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .group3-dTAewv .icons8twitter50-gtRrEF {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .group3-dTAewv .icons8twitter50-gtRrEF:hover {
+  transform           : scale(1.1);
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .group3-dTAewv .icons8twitter50-gtRrEF .shape-A1mLGj {
+  position            : relative;
+  width               : 61px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .group3-dTAewv .icons8youtube50-m46ej8 {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  margin-left         : 28px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .group3-dTAewv .icons8youtube50-m46ej8 {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .group3-dTAewv .icons8youtube50-m46ej8:hover {
+  transform           : scale(1.1);
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .group3-dTAewv .icons8youtube50-m46ej8 .shape-IFKWk9 {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .group3-dTAewv .icons8instagram50-WrmfXf {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  margin-left         : 33px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .group3-dTAewv .icons8instagram50-WrmfXf {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .group3-dTAewv .icons8instagram50-WrmfXf:hover {
+  transform           : scale(1.1);
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .group3-dTAewv .icons8instagram50-WrmfXf .shape-F2Gcrk {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .overlap-group4-ncFYT5 {
+  position            : relative;
+  width               : 810px;
+  height              : 36px;
+  margin-left         : 162px;
+  flex-shrink         : 0;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .overlap-group4-ncFYT5 .lashell-noe-legal20-LWBx3H {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 810px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .overlap-group4-ncFYT5 .lashell-noe-legal20-LWBx3H {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .overlap-group4-ncFYT5 .lashell-noe-legal20-LWBx3H:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .overlap-group4-ncFYT5 .privacy-statement-paSBzE {
+  position            : absolute;
+  top                 : 0px;
+  left                : 382px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .overlap-group4-ncFYT5 .privacy-statement-paSBzE {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .overlap-group4-ncFYT5 .privacy-statement-paSBzE:hover {
+  text-decoration     : underline;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .overlap-group4-ncFYT5 .site-map-VITGPC {
+  position            : absolute;
+  top                 : 0px;
+  left                : 693px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .overlap-group4-ncFYT5 .site-map-VITGPC {
+  pointer-events      : auto;
+}
+.buy-now-GPzNBo .group-t2uLvF .auto-flex-fb5cvG .overlap-group4-ncFYT5 .site-map-VITGPC:hover {
+  text-decoration     : underline;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+* {
+  box-sizing          : border-box;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}

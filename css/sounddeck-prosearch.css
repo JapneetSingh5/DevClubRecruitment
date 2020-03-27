@@ -1,0 +1,3692 @@
+
+@font-face {
+                          font-family: "SFProDisplay-Bold";
+                          src: url('../fonts/SF-Pro-Display-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Medium";
+                          src: url('../fonts/SF-Pro-Display-Medium.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Semibold";
+                          src: url('../fonts/SF-Pro-Text-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Heavy";
+                          src: url('../fonts/SF-Pro-Display-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Bold";
+                          src: url('../fonts/SF-Pro-Text-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Light";
+                          src: url('../fonts/SF-Pro-Text-Light.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Heavy";
+                          src: url('../fonts/SF-Pro-Text-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFCompactRounded-Heavy";
+                          src: url('../fonts/SF-Compact-Rounded-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Medium";
+                          src: url('../fonts/SF-Pro-Text-Medium.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Thin";
+                          src: url('../fonts/SF-Pro-Display-Thin.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Semibold";
+                          src: url('../fonts/SF-Pro-Display-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Regular";
+                          src: url('../fonts/SF-Pro-Display-Regular.otf') format("opentype");
+                        }
+                        
+.sounddeck-prosearch-c5sbkB {
+  overflow            : hidden;
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  margin              : 0px;
+  width               : 100%;
+  min-width           : 1460.0px;
+  min-height          : 10000.0px;
+  background-color    : #000000;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing          : border-box;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+textarea:focus, input:focus {
+  outline             : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-animate-enter32 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter32-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter32-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter32-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter32-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter32-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter32-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter32-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter32-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter33 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter33-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter33-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter33-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter33-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter33-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter33-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter33-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter33-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter34 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter34-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter34-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter34-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter34-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter34-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter34-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter34-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter34-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter35 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter35-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter35-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter35-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter35-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter35-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter35-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter35-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter35-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter36 {
+  opacity             : 0;
+  transform           : translate(25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter36-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter36-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter36-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter36-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter36-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter36-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter36-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter36-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter37 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter37-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter37-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter37-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter37-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter37-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter37-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter37-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter37-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter38 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter38-frames 0.5s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter38-frames 0.5s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter38-frames 0.5s ease-out 1 normal forwards;
+  animation           : anima-animate-enter38-frames 0.5s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter38-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter38-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter38-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter38-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter39 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter39-frames 0.5s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter39-frames 0.5s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter39-frames 0.5s ease-out 1 normal forwards;
+  animation           : anima-animate-enter39-frames 0.5s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter39-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter39-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter39-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter39-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter40 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter40-frames 0.5s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter40-frames 0.5s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter40-frames 0.5s ease-out 1 normal forwards;
+  animation           : anima-animate-enter40-frames 0.5s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter40-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter40-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter40-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter40-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter41 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter41-frames 0.5s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter41-frames 0.5s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter41-frames 0.5s ease-out 1 normal forwards;
+  animation           : anima-animate-enter41-frames 0.5s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter41-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter41-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter41-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter41-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter42 {
+  opacity             : 0;
+  transform           : translate(0, 50px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter42-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter42-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter42-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter42-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter42-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter42-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter42-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter42-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter43 {
+  opacity             : 0;
+  transform           : scale(1.1);
+  display             : block;
+  -webkit-animation   : anima-animate-enter43-frames 0.75s ease-in 1 normal forwards;
+  -moz-animation      : anima-animate-enter43-frames 0.75s ease-in 1 normal forwards;
+  -o-animation        : anima-animate-enter43-frames 0.75s ease-in 1 normal forwards;
+  animation           : anima-animate-enter43-frames 0.75s ease-in 1 normal forwards;
+  -webkit-animation-delay: 0.25s;
+  -moz-animation-delay: 0.25s;
+  -o-animation-delay  : 0.25s;
+  animation-delay     : 0.25s;
+}
+@-webkit-keyframes anima-animate-enter43-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.85);
+    }
+}
+@-moz-keyframes anima-animate-enter43-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.85);
+    }
+}
+@-o-keyframes anima-animate-enter43-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.85);
+    }
+}
+@keyframes anima-animate-enter43-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.85);
+    }
+}
+.anima-animate-enter44 {
+  opacity             : 0;
+  transform           : translate(0, 50px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter44-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter44-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter44-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter44-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter44-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter44-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter44-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter44-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter45 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter45-frames 1s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter45-frames 1s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter45-frames 1s ease-out 1 normal forwards;
+  animation           : anima-animate-enter45-frames 1s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter45-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter45-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter45-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter45-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter46 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter46-frames 1s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter46-frames 1s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter46-frames 1s ease-out 1 normal forwards;
+  animation           : anima-animate-enter46-frames 1s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter46-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter46-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter46-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter46-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter47 {
+  opacity             : 0;
+  transform           : scale(1.1);
+  display             : block;
+  -webkit-animation   : anima-animate-enter47-frames 2s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter47-frames 2s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter47-frames 2s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter47-frames 2s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter47-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.9);
+    }
+}
+@-moz-keyframes anima-animate-enter47-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.9);
+    }
+}
+@-o-keyframes anima-animate-enter47-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.9);
+    }
+}
+@keyframes anima-animate-enter47-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.9);
+    }
+}
+.anima-animate-enter48 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter48-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter48-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter48-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter48-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter48-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter48-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter48-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter48-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter49 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter49-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter49-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter49-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter49-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter49-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter49-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter49-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter49-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter50 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter50-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter50-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter50-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter50-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter50-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter50-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter50-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter50-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter51 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter51-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter51-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter51-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter51-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter51-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter51-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter51-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter51-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter52 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter52-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter52-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter52-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter52-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter52-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter52-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter52-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter52-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter53 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter53-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter53-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter53-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter53-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter53-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter53-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter53-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter53-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : center;
+  width               : 1841px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-top          : 1.0px;
+  margin-left         : -155px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B {
+  position            : relative;
+  width               : 1460px;
+  height              : 108px;
+  margin-right        : 71.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .rectangle-FwW59H {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1460px;
+  height              : 108px;
+  background-color    : #000000;
+  border              : 1.0px solid #969696;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .group10-oOyNAh {
+  position            : absolute;
+  top                 : 18px;
+  left                : 1238px;
+  width               : 86px;
+  height              : 77px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .group10-oOyNAh {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .group10-oOyNAh:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .group10-oOyNAh .shoppingcartpngrepocom-nMPtCA {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 77px;
+  height              : 77px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .group10-oOyNAh .glyphs-notification-icon-xQO7Ff {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 9px;
+  left                : 66px;
+  width               : auto;
+  height              : 20px;
+  box-sizing          : border-box;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .group10-oOyNAh .glyphs-notification-icon-xQO7Ff .app-icon-T4JJvN {
+  position            : relative;
+  width               : 20px;
+  height              : 20px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .group10-oOyNAh .a1-G8e6nt {
+  position            : absolute;
+  top                 : 9px;
+  left                : 72px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 16.0px "SFCompactRounded-Heavy", Helvetica, Arial, serif;
+  line-height         : 19.0px;
+  letter-spacing      : -0.24px;
+  text-align          : center;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .rectangle16-ptUnTK {
+  position            : absolute;
+  top                 : 12px;
+  left                : 475px;
+  width               : 740px;
+  height              : 89px;
+  background-color    : #ffffff;
+  border              : 1.0px solid #969696;
+  border-radius       : 44.5px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .rectangle16-ptUnTK {
+  opacity             : 0;
+  transform           : translate(25px, 0);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .text-speakers-accesories-and-more-7j6tVk {
+  position            : absolute;
+  top                 : 34px;
+  left                : 506px;
+  padding             : 0;
+  width               : 462px;
+  height              : 43px;
+  color               : #000000;
+  background-color    : rgba(255, 255, 255, 0);
+  border              : 0;
+  font                : 36.0px "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.13px;
+  text-align          : left;
+  resize              : none;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .text-speakers-accesories-and-more-7j6tVk::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .glyphs-search-8VvuMW {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 21px;
+  left                : 1015px;
+  width               : auto;
+  height              : 74px;
+  box-sizing          : border-box;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .glyphs-search-8VvuMW .search-Ph9UTQ {
+  position            : relative;
+  width               : 74px;
+  height              : 74px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .a18140481531530273515128-gy2Ey1 {
+  position            : absolute;
+  top                 : 21px;
+  left                : 1128px;
+  width               : 69px;
+  height              : 69px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .group91-ApvTM8 {
+  position            : absolute;
+  top                 : 20px;
+  left                : 1366px;
+  width               : 69px;
+  height              : 69px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .group91-ApvTM8 {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .group91-ApvTM8:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .group91-ApvTM8 .oval-t1VoXp {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 69px;
+  height              : 69px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .group91-ApvTM8 .oval2-jTPlq9 {
+  position            : absolute;
+  top                 : 9px;
+  left                : 9px;
+  width               : 50px;
+  height              : 50px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .group91-ApvTM8 .oval3-ExYqhk {
+  position            : absolute;
+  top                 : 18px;
+  left                : 23px;
+  width               : 23px;
+  height              : 23px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .group91-ApvTM8 .oval4-9sHjjJ {
+  position            : absolute;
+  top                 : 47px;
+  left                : 9px;
+  width               : 50px;
+  height              : 18px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .screen-shot20200320-at12554-am-TxZwRY {
+  position            : absolute;
+  top                 : 21px;
+  left                : 6px;
+  width               : 430px;
+  height              : 70px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .screen-shot20200320-at12554-am-TxZwRY {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group1-gs0o9B .screen-shot20200320-at12554-am-TxZwRY:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 {
+  position            : relative;
+  width               : 1418px;
+  height              : 174px;
+  margin-top          : 12px;
+  margin-right        : 69.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .rectangle5-k2O7SB {
+  position            : absolute;
+  top                 : 71px;
+  left                : 1px;
+  width               : 1417px;
+  height              : 64px;
+  background-color    : #000000;
+  border-radius       : 29.0px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .rectangle6-OEtkQE {
+  position            : absolute;
+  top                 : 77px;
+  left                : 8px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .rectangle61-qFcjeo {
+  position            : absolute;
+  top                 : 77px;
+  left                : 8px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .sounddeck-pro-Wb1tpI {
+  position            : absolute;
+  top                 : 78px;
+  left                : 29px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .tech-specs-Pux5GO {
+  position            : absolute;
+  top                 : 78px;
+  left                : 788px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .rectangle51-XktVnQ {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 64px;
+  background-color    : #000000;
+  border-radius       : 29.0px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .rectangle62-ViDwOC {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .rectangle3-K9k0cn {
+  position            : absolute;
+  top                 : 82px;
+  left                : 1103px;
+  width               : 303px;
+  height              : 41px;
+  background-color    : #7ed221;
+  border-radius       : 20.5px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .rectangle63-3LzMsY {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .rectangle31-R5lfaN {
+  position            : absolute;
+  top                 : 11px;
+  left                : 13px;
+  width               : 334px;
+  height              : 41px;
+  background-color    : #060606;
+  border-radius       : 20.5px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .collection-sTaY1v {
+  position            : absolute;
+  top                 : 8px;
+  left                : 78px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .accessories-pwYqLY {
+  position            : absolute;
+  top                 : 7px;
+  left                : 425px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .pro-components-3Boiln {
+  position            : absolute;
+  top                 : 7px;
+  left                : 738px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .compare-lhCIxa {
+  position            : absolute;
+  top                 : 7px;
+  left                : 1140px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group2-LkZZI7 .buy-now-EnzSF5 {
+  position            : absolute;
+  top                 : 80px;
+  left                : 1193px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 36.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.13px;
+  text-align          : left;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group3-47eRGG {
+  position            : relative;
+  width               : 1219px;
+  height              : 955px;
+  margin-top          : 26px;
+  margin-left         : 52.48px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group3-47eRGG .screen-shot20200325at4removebgpreview-UHCuJW {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1059px;
+  height              : 955px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group3-47eRGG .screen-shot20200325at4removebgpreview-UHCuJW {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group3-47eRGG .screen-shot20200325at4removebgpreview-UHCuJW:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group3-47eRGG .the-revolution-in-so-hV2vfq {
+  position            : absolute;
+  top                 : 64px;
+  left                : 469px;
+  width               : 750px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 140.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 167.0px;
+  letter-spacing      : -0.52px;
+  text-align          : left;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group3-47eRGG .the-revolution-in-so-hV2vfq {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .the-new-sounddeck-pr-a2BAxo {
+  position            : relative;
+  width               : 1325px;
+  height              : auto;
+  min-height          : 302px;
+  color               : #ffffff;
+  font                : 40.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.35px;
+  text-align          : center;
+  margin-top          : 95px;
+  margin-right        : 42.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .the-new-sounddeck-pr-a2BAxo {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group4-auUqg3 {
+  position            : relative;
+  width               : 1709px;
+  height              : 1035px;
+  margin-top          : 113px;
+  align-self          : flex-start;
+  margin-left         : 29.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group4-auUqg3 .screen-shot20200326at2removebgpreview-to1Fj1 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 366px;
+  width               : 1052px;
+  height              : 1035px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group4-auUqg3 .screen-shot20200326at2removebgpreview-to1Fj1 {
+  opacity             : 0;
+  transform           : translate(0, 50px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group4-auUqg3 .screen-shot20200326at2removebgpreview-to1Fj1 {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group4-auUqg3 .screen-shot20200326at2removebgpreview-to1Fj1:hover {
+  transform           : scale(0.9);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group4-auUqg3 .small-yet-powerful-jJglBY {
+  position            : absolute;
+  top                 : 17px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #d0011b;
+  font                : 400.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 477.0px;
+  letter-spacing      : -3.46px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group4-auUqg3 .small-yet-powerful-jJglBY {
+  opacity             : 0;
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group4-auUqg3 .small-yet-powerful-jJglBY {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group4-auUqg3 .small-yet-powerful-jJglBY:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .the-sounddeck-pro-ha-TofBXR {
+  position            : relative;
+  width               : 1325px;
+  height              : auto;
+  min-height          : 302px;
+  color               : #ffffff;
+  font                : 40.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.35px;
+  text-align          : center;
+  margin-top          : 138px;
+  margin-right        : 42.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .the-sounddeck-pro-ha-TofBXR {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group5-N6uZIS {
+  position            : relative;
+  width               : 1012px;
+  height              : 1045px;
+  margin-top          : 138px;
+  margin-right        : 71.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group5-N6uZIS .screen-shot20200325at4removebgpreview6-GWyCN8 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1012px;
+  height              : 1045px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group5-N6uZIS .screen-shot20200325at4removebgpreview6-GWyCN8 {
+  opacity             : 0;
+  transform           : translate(0, 50px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group5-N6uZIS .rectangle13-2D401Y {
+  position            : absolute;
+  top                 : 339px;
+  left                : 60px;
+  width               : 892px;
+  height              : 408px;
+  opacity             : 0.46;
+  background-color    : #000000;
+  border              : 13.0px solid #ffffff;
+  border-radius       : 24.0px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group5-N6uZIS .rectangle13-2D401Y {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group5-N6uZIS .deep-bass-with-range-Q89ea3 {
+  position            : absolute;
+  top                 : 390px;
+  left                : 76px;
+  width               : 860px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 55.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 65.0px;
+  letter-spacing      : -0.48px;
+  text-align          : center;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group5-N6uZIS .a-six-microphone-arr-hYZztF {
+  position            : absolute;
+  top                 : 460px;
+  left                : 120px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.35px;
+  text-align          : center;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group6-m2xYZw {
+  position            : relative;
+  width               : 1380px;
+  height              : 844px;
+  margin-top          : 140px;
+  margin-right        : 71.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group6-m2xYZw .homepodspgryproductlifestyleprint1-2MZj1E {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1380px;
+  height              : 844px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group6-m2xYZw .homepodspgryproductlifestyleprint1-2MZj1E {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group6-m2xYZw .beautiful-r4oQkv {
+  position            : absolute;
+  top                 : 70px;
+  left                : 742px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 140.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 167.0px;
+  letter-spacing      : -1.21px;
+  text-align          : center;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .overlap-group6-m2xYZw .inside-out-hcIhjM {
+  position            : absolute;
+  top                 : 200px;
+  left                : 771px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 100.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 119.0px;
+  letter-spacing      : -0.87px;
+  text-align          : center;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .wall-to-wall-ceilin-uDsY10 {
+  position            : relative;
+  width               : 1325px;
+  height              : auto;
+  min-height          : 466px;
+  color               : #ffffff;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 40.0px;
+  letter-spacing      : -0.35px;
+  text-align          : center;
+  margin-top          : 132px;
+  margin-right        : 42.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .wall-to-wall-ceilin-uDsY10 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .wall-to-wall-ceilin-uDsY10 .span1-ptxXYG {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 71.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-prosearch-c5sbkB .wall-to-wall-ceilin-uDsY10 .span2-kmyHOp {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-size           : 40.0px;
+  line-height         : 48.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .group2-7nJSlP {
+  position            : relative;
+  width               : 1841px;
+  height              : 990px;
+  margin-top          : 160px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .group2-7nJSlP .screen-shot20200326-at24943-am-49DVfZ {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1841px;
+  height              : 990px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .group2-7nJSlP .screen-shot20200326-at24943-am-49DVfZ {
+  opacity             : 0;
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .group2-7nJSlP .for-all-your-music-E3HYnw {
+  position            : absolute;
+  top                 : 98px;
+  left                : 168px;
+  width               : auto;
+  height              : auto;
+  color               : #d0011b;
+  font                : 48.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.28px;
+  text-align          : center;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .group2-7nJSlP .and-even-more-TlMTOt {
+  position            : absolute;
+  top                 : 786px;
+  left                : 1263px;
+  width               : auto;
+  height              : auto;
+  color               : #d0011b;
+  font                : 48.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.28px;
+  text-align          : center;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .the-ultimate-music-a-elnGp7 {
+  position            : relative;
+  width               : 1325px;
+  height              : auto;
+  min-height          : 302px;
+  color               : #ffffff;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 40.0px;
+  letter-spacing      : -0.35px;
+  text-align          : center;
+  margin-top          : 112px;
+  margin-right        : 70.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .the-ultimate-music-a-elnGp7 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .the-ultimate-music-a-elnGp7 .span1-xR5SsM {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 71.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-prosearch-c5sbkB .the-ultimate-music-a-elnGp7 .span2-ClD5ra {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-size           : 40.0px;
+  line-height         : 48.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex4-DRyCub {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 171px;
+  box-sizing          : border-box;
+  margin-top          : 58px;
+  margin-right        : 6.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex4-DRyCub .spotify-icon-le1SBB {
+  position            : relative;
+  width               : 485px;
+  height              : 171px;
+  transition          : all 0.2s ease-in-out;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex4-DRyCub .spotify-icon-le1SBB {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex4-DRyCub .spotify-icon-le1SBB {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex4-DRyCub .spotify-icon-le1SBB:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex4-DRyCub .a5475472409fomonewssignupapplemusicvectorlogo-BCObQg {
+  position            : relative;
+  width               : 560px;
+  height              : 131px;
+  transition          : all 0.2s ease-in-out;
+  margin-left         : 70px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex4-DRyCub .a5475472409fomonewssignupapplemusicvectorlogo-BCObQg {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex4-DRyCub .a5475472409fomonewssignupapplemusicvectorlogo-BCObQg {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex4-DRyCub .a5475472409fomonewssignupapplemusicvectorlogo-BCObQg:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 502px;
+  box-sizing          : border-box;
+  margin-top          : 19px;
+  margin-left         : 25.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : 311px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-bottom       : 9.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 123px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 123px;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U .shape13-FytO55 {
+  position            : relative;
+  width               : 4px;
+  height              : 33px;
+  margin-bottom       : 17.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U .shape12-1HeCd2 {
+  position            : relative;
+  width               : 5px;
+  height              : 51px;
+  margin-left         : 7px;
+  margin-bottom       : 8.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U .shape11-swcvWL {
+  position            : relative;
+  width               : 5px;
+  height              : 60px;
+  margin-left         : 7px;
+  margin-bottom       : 4.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U .shape10-kWJbOJ {
+  position            : relative;
+  width               : 5px;
+  height              : 63px;
+  margin-left         : 7px;
+  margin-bottom       : 2.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U .shape9-cMlBbq {
+  position            : relative;
+  width               : 5px;
+  height              : 61px;
+  margin-left         : 7px;
+  margin-bottom       : 2.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U .shape8-2YbAM0 {
+  position            : relative;
+  width               : 6px;
+  height              : 79px;
+  margin-left         : 7px;
+  margin-bottom       : 2.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U .shape7-91qdjJ {
+  position            : relative;
+  width               : 6px;
+  height              : 90px;
+  margin-left         : 6px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U .shape6-a9B4EN {
+  position            : relative;
+  width               : 6px;
+  height              : 95px;
+  margin-left         : 6px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U .shape5-DEoGtB {
+  position            : relative;
+  width               : 6px;
+  height              : 97px;
+  margin-left         : 7px;
+  margin-bottom       : 2.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U .shape4-QZZZxo {
+  position            : relative;
+  width               : 6px;
+  height              : 96px;
+  margin-left         : 6px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U .shape3-b45XbX {
+  position            : relative;
+  width               : 6px;
+  height              : 94px;
+  margin-left         : 7px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U .shape2-tmvGgR {
+  position            : relative;
+  width               : 6px;
+  height              : 105px;
+  margin-left         : 7px;
+  margin-bottom       : 2.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U .shape1-bY8dMh {
+  position            : relative;
+  width               : 7px;
+  height              : 111px;
+  margin-left         : 10px;
+  margin-bottom       : 2.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .iphonewebbrandonlinelogosoundcloudinterneticon-CfRPL5 .layerx00201-zTei2U .shape-CZzdpV {
+  position            : relative;
+  width               : 148px;
+  height              : 123px;
+  margin-left         : 6px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .google-podcasts-logo-fO567f {
+  position            : relative;
+  width               : 304px;
+  height              : 304px;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 35px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .google-podcasts-logo-fO567f {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .google-podcasts-logo-fO567f {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex2-lO2lxp .google-podcasts-logo-fO567f:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : center;
+  width               : 617px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-left         : 52px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex3-R6FDNq {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 246px;
+  box-sizing          : border-box;
+  margin-right        : 12.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex3-R6FDNq .tuneinicon-LxnodI {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 245px;
+  transition          : all 0.2s ease-in-out;
+  align-self          : flex-end;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex3-R6FDNq .tuneinicon-LxnodI {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex3-R6FDNq .tuneinicon-LxnodI {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex3-R6FDNq .tuneinicon-LxnodI:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex3-R6FDNq .tuneinicon-LxnodI .shape-xFwfxB {
+  position            : relative;
+  width               : 249px;
+  height              : 245px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex3-R6FDNq .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-CE0tST {
+  position            : relative;
+  width               : 237px;
+  height              : 237px;
+  transition          : all 0.2s ease-in-out;
+  margin-left         : 75px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex3-R6FDNq .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-CE0tST {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex3-R6FDNq .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-CE0tST {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex3-R6FDNq .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-CE0tST:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex-RAoxd5 {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 256px;
+  box-sizing          : border-box;
+  margin-top          : 0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex-RAoxd5 .amazonprimelogo4-e461-cdcf6seeklogocom-22XKgw {
+  position            : relative;
+  width               : 300px;
+  height              : 187px;
+  transition          : all 0.2s ease-in-out;
+  margin-bottom       : 9.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex-RAoxd5 .amazonprimelogo4-e461-cdcf6seeklogocom-22XKgw {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex-RAoxd5 .amazonprimelogo4-e461-cdcf6seeklogocom-22XKgw {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex-RAoxd5 .amazonprimelogo4-e461-cdcf6seeklogocom-22XKgw:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex-RAoxd5 .audible4569533-zsxFQJ {
+  position            : relative;
+  width               : 256px;
+  height              : 256px;
+  transition          : all 0.2s ease-in-out;
+  margin-left         : 61px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex-RAoxd5 .audible4569533-zsxFQJ {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex-RAoxd5 .audible4569533-zsxFQJ {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex6-yDv827 .auto-flex5-j3XyFB .auto-flex-RAoxd5 .audible4569533-zsxFQJ:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : center;
+  width               : 1460px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-top          : 101px;
+  margin-right        : 71.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .overlap-group-3DiQgD {
+  position            : relative;
+  width               : 1460px;
+  height              : 616px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .overlap-group-3DiQgD .rectangle4-heLh36 {
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1460px;
+  height              : 616px;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .overlap-group-3DiQgD .rectangle4-heLh36 video {
+  object-fit          : cover;
+  width               : 100%;
+  height              : 100%;
+}
+/* IE doesn't support cover  */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .overlap-group-3DiQgD .rectangle4-heLh36 video {
+    min-width           : 100%;
+    min-height          : 100%;
+    position            : absolute;
+    margin              : auto;
+    top                 : -9999px;
+    bottom              : -9999px;
+    left                : -9999px;
+    right               : -9999px;
+  }
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .overlap-group-3DiQgD .listen-in-to-the-ex-6AfbSa {
+  position            : absolute;
+  top                 : 253px;
+  left                : 336px;
+  width               : auto;
+  height              : auto;
+  color               : #d0011b;
+  font                : 80.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 95.0px;
+  letter-spacing      : -0.46px;
+  text-align          : center;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .overlap-group-3DiQgD .listen-in-to-the-ex-6AfbSa {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .hear-what-experts-an-n2szne {
+  position            : relative;
+  width               : auto;
+  min-width           : 1121.65344238px;
+  height              : auto;
+  min-height          : 142px;
+  color               : #498fe1;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.35px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 44px;
+  margin-left         : 13.65px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .hear-what-experts-an-n2szne {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .hear-what-experts-an-n2szne:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .buy-the-sounddeck-pr-iYTdAQ {
+  position            : relative;
+  width               : auto;
+  min-width           : 1044.53796387px;
+  height              : auto;
+  min-height          : 95px;
+  color               : #7ed221;
+  font                : 80.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 95.0px;
+  letter-spacing      : -0.46px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 38px;
+  margin-left         : 0.54px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .buy-the-sounddeck-pr-iYTdAQ {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .buy-the-sounddeck-pr-iYTdAQ {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .buy-the-sounddeck-pr-iYTdAQ:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 1344px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-top          : 98px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 431px;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 529px;
+  height              : auto;
+  align-self          : flex-start;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .our-company-58tsGV {
+  position            : relative;
+  width               : auto;
+  min-width           : 285.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .our-company-58tsGV {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .our-company-58tsGV:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .blog-h5QZQo {
+  position            : relative;
+  width               : auto;
+  min-width           : 94.4966659546px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 15px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .blog-h5QZQo {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .blog-h5QZQo:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .press-releases-and-n-xClyvs {
+  position            : relative;
+  width               : auto;
+  min-width           : 526.496643066px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 19px;
+  margin-left         : 3.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .press-releases-and-n-xClyvs {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .press-releases-and-n-xClyvs:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .careers-6YpPf2 {
+  position            : relative;
+  width               : auto;
+  min-width           : 164.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 13px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .careers-6YpPf2 {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .careers-6YpPf2:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .responsibility-URALjk {
+  position            : relative;
+  width               : auto;
+  min-width           : 293.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 20px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .responsibility-URALjk {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .responsibility-URALjk:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .innovation-DTuZRV {
+  position            : relative;
+  width               : auto;
+  min-width           : 217.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 14px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .innovation-DTuZRV {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex3-CSIXLP .innovation-DTuZRV:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo {
+  position            : relative;
+  width               : 297px;
+  height              : 407px;
+  margin-left         : 145px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .certified-refurbishe-MC8uT2 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .certified-refurbishe-MC8uT2 {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .certified-refurbishe-MC8uT2:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .student-partners-Weg3J1 {
+  position            : absolute;
+  top                 : 57px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .student-partners-Weg3J1 {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .student-partners-Weg3J1:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .investors-QsOYvs {
+  position            : absolute;
+  top                 : 117px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .investors-QsOYvs {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .investors-QsOYvs:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .developer-portal-MFpcTR {
+  position            : absolute;
+  top                 : 178px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .developer-portal-MFpcTR {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .developer-portal-MFpcTR:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .sign-up-for-newslett-dr3eWi {
+  position            : absolute;
+  top                 : 239px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .sign-up-for-newslett-dr3eWi {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .sign-up-for-newslett-dr3eWi:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .find-a-store-L6SCbQ {
+  position            : absolute;
+  top                 : 299px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .find-a-store-L6SCbQ {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .overlap-group7-LdHiQo .find-a-store-L6SCbQ:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 260px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-left         : 52px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .shipping-delivery-NCnmM1 {
+  position            : relative;
+  width               : auto;
+  min-width           : 260.496673584px;
+  height              : auto;
+  min-height          : 36px;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .shipping-delivery-NCnmM1 {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .shipping-delivery-NCnmM1:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 {
+  position            : relative;
+  width               : 172px;
+  height              : 351px;
+  margin-top          : 21px;
+  margin-left         : 3.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .about-us-T9XC7x {
+  position            : absolute;
+  top                 : 60px;
+  left                : 2px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .about-us-T9XC7x {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .about-us-T9XC7x:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .security-UNSScV {
+  position            : absolute;
+  top                 : 121px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .security-UNSScV {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .security-UNSScV:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .conformity-CgfFR6 {
+  position            : absolute;
+  top                 : 180px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .conformity-CgfFR6 {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .conformity-CgfFR6:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .order-status-6VceRB {
+  position            : absolute;
+  top                 : 0px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .order-status-6VceRB {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .order-status-6VceRB:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .trade-up-UyOTbL {
+  position            : absolute;
+  top                 : 243px;
+  left                : 2px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .trade-up-UyOTbL {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex5-Vs7d0M .auto-flex2-lK1yQc .overlap-group8-Ys3k00 .trade-up-UyOTbL:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 50px;
+  align-self          : flex-end;
+  box-sizing          : border-box;
+  margin-top          : 16px;
+  margin-right        : 1.5px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .icons8facebook50-qXjNzo {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .icons8facebook50-qXjNzo {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .icons8facebook50-qXjNzo:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .icons8facebook50-qXjNzo .shape-oXqzvw {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .group3-1cKe6e {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  box-sizing          : border-box;
+  margin-left         : 34px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .group3-1cKe6e .icons8twitter50-bGxVbb {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .group3-1cKe6e .icons8twitter50-bGxVbb {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .group3-1cKe6e .icons8twitter50-bGxVbb:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .group3-1cKe6e .icons8twitter50-bGxVbb .shape-NKG8vw {
+  position            : relative;
+  width               : 61px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .group3-1cKe6e .icons8youtube50-DLiJfV {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  margin-left         : 28px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .group3-1cKe6e .icons8youtube50-DLiJfV {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .group3-1cKe6e .icons8youtube50-DLiJfV:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .group3-1cKe6e .icons8youtube50-DLiJfV .shape-NpQp9k {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .group3-1cKe6e .icons8instagram50-O63qAy {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  margin-left         : 33px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .group3-1cKe6e .icons8instagram50-O63qAy {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .group3-1cKe6e .icons8instagram50-O63qAy:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .group3-1cKe6e .icons8instagram50-O63qAy .shape-If26Nn {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .overlap-group9-3UfR2l {
+  position            : relative;
+  width               : 810px;
+  height              : 36px;
+  margin-left         : 162px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .overlap-group9-3UfR2l .lashell-noe-legal20-wYKB8Z {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 810px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .overlap-group9-3UfR2l .lashell-noe-legal20-wYKB8Z {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .overlap-group9-3UfR2l .lashell-noe-legal20-wYKB8Z:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .overlap-group9-3UfR2l .privacy-statement-SXwxD0 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 382px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .overlap-group9-3UfR2l .privacy-statement-SXwxD0 {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .overlap-group9-3UfR2l .privacy-statement-SXwxD0:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .overlap-group9-3UfR2l .site-map-jQeCDp {
+  position            : absolute;
+  top                 : 0px;
+  left                : 693px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .overlap-group9-3UfR2l .site-map-jQeCDp {
+  pointer-events      : auto;
+}
+.sounddeck-prosearch-c5sbkB .auto-flex7-Y0jAVf .auto-flex1-fNqf9O .group-MLWQFK .auto-flex-hcuI5V .overlap-group9-3UfR2l .site-map-jQeCDp:hover {
+  text-decoration     : underline;
+}
+.sounddeck-prosearch-c5sbkB .group9-4Mr0Sr {
+  position            : relative;
+  width               : 69px;
+  height              : 69px;
+  margin-top          : 22.0px;
+  margin-left         : 565px;
+  flex-shrink         : 0;
+}
+.sounddeck-prosearch-c5sbkB .group9-4Mr0Sr .oval-Cx4kjo {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 69px;
+  height              : 69px;
+}
+.sounddeck-prosearch-c5sbkB .group9-4Mr0Sr .oval2-ChKuzv {
+  position            : absolute;
+  top                 : 9px;
+  left                : 9px;
+  width               : 50px;
+  height              : 50px;
+}
+.sounddeck-prosearch-c5sbkB .group9-4Mr0Sr .oval3-QXEQcd {
+  position            : absolute;
+  top                 : 18px;
+  left                : 23px;
+  width               : 23px;
+  height              : 23px;
+}
+.sounddeck-prosearch-c5sbkB .group9-4Mr0Sr .oval4-1JvKzU {
+  position            : absolute;
+  top                 : 47px;
+  left                : 9px;
+  width               : 50px;
+  height              : 18px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+* {
+  box-sizing          : border-box;
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}

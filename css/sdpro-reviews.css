@@ -1,0 +1,4084 @@
+
+@font-face {
+                          font-family: "SFProDisplay-Bold";
+                          src: url('../fonts/SF-Pro-Display-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Medium";
+                          src: url('../fonts/SF-Pro-Display-Medium.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Semibold";
+                          src: url('../fonts/SF-Pro-Text-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Heavy";
+                          src: url('../fonts/SF-Pro-Display-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Bold";
+                          src: url('../fonts/SF-Pro-Text-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Light";
+                          src: url('../fonts/SF-Pro-Text-Light.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Heavy";
+                          src: url('../fonts/SF-Pro-Text-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFCompactRounded-Heavy";
+                          src: url('../fonts/SF-Compact-Rounded-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Medium";
+                          src: url('../fonts/SF-Pro-Text-Medium.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Thin";
+                          src: url('../fonts/SF-Pro-Display-Thin.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Semibold";
+                          src: url('../fonts/SF-Pro-Display-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Regular";
+                          src: url('../fonts/SF-Pro-Display-Regular.otf') format("opentype");
+                        }
+                        
+.sdpro-reviews-1DumCm {
+  overflow            : hidden;
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : center;
+  margin              : 0px;
+  width               : 100%;
+  min-width           : 1440.0px;
+  height              : auto;
+  min-height          : 4800.0px;
+  background-color    : #1b1b1b;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing          : border-box;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-animate-enter60 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter60-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter60-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter60-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter60-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter60-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter60-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter60-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter60-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter61 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter61-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter61-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter61-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter61-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter61-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter61-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter61-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter61-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter62 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter62-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter62-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter62-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter62-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter62-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter62-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter62-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter62-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter63 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter63-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter63-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter63-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter63-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter63-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter63-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter63-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter63-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter64 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter64-frames 2s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter64-frames 2s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter64-frames 2s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter64-frames 2s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter64-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter64-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter64-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter64-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter65 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter65-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter65-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter65-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter65-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter65-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter65-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter65-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter65-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter66 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter66-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter66-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter66-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter66-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter66-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter66-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter66-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter66-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter67 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter67-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter67-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter67-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter67-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter67-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter67-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter67-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter67-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter68 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter68-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter68-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter68-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter68-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter68-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter68-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter68-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter68-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter69 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter69-frames 2s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter69-frames 2s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter69-frames 2s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter69-frames 2s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter69-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter69-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter69-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter69-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter70 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter70-frames 2s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter70-frames 2s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter70-frames 2s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter70-frames 2s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter70-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter70-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter70-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter70-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter71 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter71-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter71-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter71-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter71-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter71-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter71-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter71-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter71-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter72 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter72-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter72-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter72-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter72-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter72-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter72-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter72-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter72-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter73 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter73-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter73-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter73-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter73-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter73-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter73-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter73-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter73-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter74 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter74-frames 2s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter74-frames 2s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter74-frames 2s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter74-frames 2s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter74-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter74-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter74-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter74-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter75 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter75-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter75-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter75-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter75-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter75-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter75-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter75-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter75-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter76 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter76-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter76-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter76-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter76-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter76-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter76-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter76-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter76-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter77 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter77-frames 2s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter77-frames 2s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter77-frames 2s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter77-frames 2s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter77-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter77-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter77-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter77-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter78 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter78-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter78-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter78-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter78-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter78-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter78-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter78-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter78-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter79 {
+  display             : block;
+  -webkit-animation   : anima-animate-enter79-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter79-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter79-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter79-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter79-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@-moz-keyframes anima-animate-enter79-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@-o-keyframes anima-animate-enter79-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@keyframes anima-animate-enter79-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+.anima-animate-enter80 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter80-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter80-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter80-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter80-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter80-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter80-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter80-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter80-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter81 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter81-frames 2s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter81-frames 2s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter81-frames 2s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter81-frames 2s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter81-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter81-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter81-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter81-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter82 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter82-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter82-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter82-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter82-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter82-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter82-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter82-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter82-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter83 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter83-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter83-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter83-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter83-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter83-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter83-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter83-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter83-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter84 {
+  display             : block;
+  -webkit-animation   : anima-animate-enter84-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter84-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter84-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter84-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter84-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@-moz-keyframes anima-animate-enter84-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@-o-keyframes anima-animate-enter84-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@keyframes anima-animate-enter84-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+.anima-animate-enter85 {
+  display             : block;
+  -webkit-animation   : anima-animate-enter85-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter85-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter85-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter85-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter85-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@-moz-keyframes anima-animate-enter85-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@-o-keyframes anima-animate-enter85-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@keyframes anima-animate-enter85-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+.anima-animate-enter86 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter86-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter86-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter86-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter86-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter86-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter86-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter86-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter86-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter87 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter87-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter87-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter87-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter87-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter87-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter87-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter87-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter87-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter88 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter88-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter88-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter88-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter88-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter88-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter88-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter88-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter88-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS {
+  position            : relative;
+  width               : 1440px;
+  height              : 108px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .rectangle-copy1-KUWRsX {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1440px;
+  height              : 108px;
+  background-color    : #000000;
+  border              : 1.0px solid #969696;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .line-dQQ5s4 {
+  position            : absolute;
+  top                 : 94px;
+  left                : 487px;
+  width               : 222px;
+  height              : 5px;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .line-dQQ5s4 {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .line-dQQ5s4:hover {
+  transform           : translate(0, -5px);
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .screen-shot20200320-at12554-am-QAPjyV {
+  position            : absolute;
+  top                 : 22px;
+  left                : 6px;
+  width               : 430px;
+  height              : 70px;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .screen-shot20200320-at12554-am-QAPjyV {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .screen-shot20200320-at12554-am-QAPjyV:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .s-peakers-VBu0U7 {
+  position            : absolute;
+  top                 : 36px;
+  left                : 483px;
+  width               : 224px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.24px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .s-peakers-VBu0U7 {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .s-peakers-VBu0U7:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .s-peakers-VBu0U7 .span1-NCxMB2 {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .s-peakers-VBu0U7 .span2-L6YROx {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : -0.16px;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .s-hop-xUPQCN {
+  position            : absolute;
+  top                 : 37px;
+  left                : 741px;
+  width               : 138px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .s-hop-xUPQCN {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .s-hop-xUPQCN:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .s-hop-xUPQCN .span1-yln6Op {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .s-hop-xUPQCN .span2-njWAws {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .a-bout-GImLx4 {
+  position            : absolute;
+  top                 : 37px;
+  left                : 903px;
+  width               : 182px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 25.0px;
+  letter-spacing      : -0.15px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .a-bout-GImLx4 {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .a-bout-GImLx4:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .a-bout-GImLx4 .span1-vR8gA8 {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 48.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .a-bout-GImLx4 .span2-L8BEoG {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-size           : 25.0px;
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 30.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .group9-Uclb67 {
+  position            : absolute;
+  top                 : 21px;
+  left                : 1366px;
+  width               : 69px;
+  height              : 69px;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .group9-Uclb67 {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .group9-Uclb67:hover {
+  transform           : scale(1.1);
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .group9-Uclb67 .oval-4Q5dy8 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 69px;
+  height              : 69px;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .group9-Uclb67 .oval2-x1PFog {
+  position            : absolute;
+  top                 : 9px;
+  left                : 9px;
+  width               : 50px;
+  height              : 50px;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .group9-Uclb67 .oval3-I2JCJb {
+  position            : absolute;
+  top                 : 18px;
+  left                : 23px;
+  width               : 23px;
+  height              : 23px;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .group9-Uclb67 .oval4-0bCDSw {
+  position            : absolute;
+  top                 : 47px;
+  left                : 9px;
+  width               : 50px;
+  height              : 18px;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .glyphs-search-y6ddgg {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 20px;
+  left                : 1122px;
+  width               : auto;
+  height              : 74px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .glyphs-search-y6ddgg {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .glyphs-search-y6ddgg {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .glyphs-search-y6ddgg:hover {
+  transform           : scale(1.1);
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .glyphs-search-y6ddgg .search-AGKWPo {
+  position            : relative;
+  width               : 74px;
+  height              : 74px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .group10-8MD4nv {
+  position            : absolute;
+  top                 : 19px;
+  left                : 1238px;
+  width               : 86px;
+  height              : 77px;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .group10-8MD4nv {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .group10-8MD4nv:hover {
+  transform           : scale(1.1);
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .group10-8MD4nv .shoppingcartpngrepocom-dWvOlc {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 77px;
+  height              : 77px;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .group10-8MD4nv .glyphs-notification-icon-0lPS9A {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 9px;
+  left                : 66px;
+  width               : auto;
+  height              : 20px;
+  box-sizing          : border-box;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .group10-8MD4nv .glyphs-notification-icon-0lPS9A .app-icon-IDbe1A {
+  position            : relative;
+  width               : 20px;
+  height              : 20px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .overlap-group7-BkFsCS .group10-8MD4nv .a1-iRiKIp {
+  position            : absolute;
+  top                 : 9px;
+  left                : 72px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 16.0px "SFCompactRounded-Heavy", Helvetica, Arial, serif;
+  line-height         : 19.0px;
+  letter-spacing      : -0.24px;
+  text-align          : center;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk {
+  position            : relative;
+  width               : 1417px;
+  height              : 175px;
+  margin-top          : 11px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group5-jGL93F {
+  position            : absolute;
+  top                 : 72px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 103px;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group5-jGL93F .rectangle5-8dw7Yf {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 64px;
+  background-color    : #000000;
+  border-radius       : 29.0px;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group5-jGL93F .rectangle6-XZ9Ohn {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group5-jGL93F .rectangle61-lYiVn6 {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group5-jGL93F .sounddeck-pro-aFCQ0H {
+  position            : absolute;
+  top                 : 7px;
+  left                : 28px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group5-jGL93F .tech-specs-rIRcFv {
+  position            : absolute;
+  top                 : 4px;
+  left                : 798px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group51-cw8Lys {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 125px;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group51-cw8Lys .rectangle5-GxTLOK {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 64px;
+  background-color    : #000000;
+  border-radius       : 29.0px;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group51-cw8Lys .rectangle6-AZlLU8 {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group51-cw8Lys .rectangle3-NaC6Gg {
+  position            : absolute;
+  top                 : 82px;
+  left                : 1103px;
+  width               : 303px;
+  height              : 41px;
+  background-color    : #7ed221;
+  border-radius       : 20.5px;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group51-cw8Lys .buy-now-hruUSK {
+  position            : absolute;
+  top                 : 82px;
+  left                : 1182px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 36.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.13px;
+  text-align          : left;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group51-cw8Lys .rectangle61-BzrbqH {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group51-cw8Lys .rectangle31-9vV1ov {
+  position            : absolute;
+  top                 : 11px;
+  left                : 13px;
+  width               : 334px;
+  height              : 41px;
+  background-color    : #060606;
+  border-radius       : 20.5px;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group51-cw8Lys .collection-AD6chv {
+  position            : absolute;
+  top                 : 8px;
+  left                : 78px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group51-cw8Lys .accessories-6kM9cg {
+  position            : absolute;
+  top                 : 7px;
+  left                : 425px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group51-cw8Lys .pro-components-pVkkWE {
+  position            : absolute;
+  top                 : 7px;
+  left                : 738px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sdpro-reviews-1DumCm .overlap-group-l6Tctk .group51-cw8Lys .compare-etFbvP {
+  position            : absolute;
+  top                 : 7px;
+  left                : 1140px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc {
+  position            : relative;
+  width               : 1476px;
+  height              : 500px;
+  margin-top          : 55px;
+  align-self          : flex-start;
+  margin-left         : -72.78px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .rectangle-NbTmCB {
+  position            : absolute;
+  top                 : 0px;
+  left                : 110px;
+  width               : 1366px;
+  height              : 500px;
+  background-color    : #000000;
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .mkbhd-youtuber-and-ZzDksq {
+  position            : absolute;
+  top                 : 372px;
+  left                : 0px;
+  width               : 1230px;
+  height              : auto;
+  color               : #fd2a65;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.43px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .mkbhd-youtuber-and-ZzDksq {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .mkbhd-youtuber-and-ZzDksq {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .mkbhd-youtuber-and-ZzDksq:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .sv3wr-t-rremovebgpreview-qbR8VX {
+  position            : absolute;
+  top                 : 36px;
+  left                : 1245px;
+  width               : 202px;
+  height              : 214px;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .sv3wr-t-rremovebgpreview-qbR8VX {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .sv3wr-t-rremovebgpreview-qbR8VX {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .sv3wr-t-rremovebgpreview-qbR8VX:hover {
+  transform           : translate(0, -5px);
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .the-sounddeck-pro-is-O1dFcj {
+  position            : absolute;
+  top                 : 60px;
+  left                : 145px;
+  width               : 988px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 80.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 80.0px;
+  letter-spacing      : -0.58px;
+  text-align          : center;
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .the-sounddeck-pro-is-O1dFcj {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .the-sounddeck-pro-is-O1dFcj .span1-xHM4yX {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 95.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .the-sounddeck-pro-is-O1dFcj .span2-mj3HMU {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-size           : 100.0px;
+  line-height         : 119.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .a99bafff3083d4ea5removebgpreview-Xt1IS8 {
+  position            : absolute;
+  top                 : 60px;
+  left                : 1082px;
+  width               : 365px;
+  height              : 440px;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .a99bafff3083d4ea5removebgpreview-Xt1IS8 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .a99bafff3083d4ea5removebgpreview-Xt1IS8 {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group1-aMjTPc .a99bafff3083d4ea5removebgpreview-Xt1IS8:hover {
+  transform           : translate(0, -5px);
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy {
+  position            : relative;
+  width               : 1385px;
+  height              : 543px;
+  margin-top          : 8px;
+  margin-left         : 19.0px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .rectangle-copy24-s09dK5 {
+  position            : absolute;
+  top                 : 42px;
+  left                : 0px;
+  width               : 1366px;
+  height              : 500px;
+  background-color    : #000000;
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .rectangle-copy24-s09dK5 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .lewis-hilsenteger-y-SWjEzl {
+  position            : absolute;
+  top                 : 335px;
+  left                : 57px;
+  width               : 896px;
+  height              : auto;
+  color               : #dc8602;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.43px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .lewis-hilsenteger-y-SWjEzl {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .lewis-hilsenteger-y-SWjEzl {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .lewis-hilsenteger-y-SWjEzl:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .simply-put-mind-bl-wGwS4h {
+  position            : absolute;
+  top                 : 107px;
+  left                : 11px;
+  width               : 988px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 80.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 80.0px;
+  letter-spacing      : -0.58px;
+  text-align          : center;
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .simply-put-mind-bl-wGwS4h {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .simply-put-mind-bl-wGwS4h .span1-Bmga8V {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 95.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .simply-put-mind-bl-wGwS4h .span2-D0n8nj {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-size           : 120.0px;
+  line-height         : 143.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .simply-put-mind-bl-wGwS4h .span3-XSZ9xF {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-size           : 100.0px;
+  line-height         : 119.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .photoremovebgpreview-cgHLGS {
+  position            : absolute;
+  top                 : 0px;
+  left                : 1088px;
+  width               : 297px;
+  height              : 297px;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .photoremovebgpreview-cgHLGS {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .photoremovebgpreview-cgHLGS {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .photoremovebgpreview-cgHLGS:hover {
+  transform           : translate(0, -5px);
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .maxresdefaultremovebgpreview-sx3HWc {
+  position            : absolute;
+  top                 : 150px;
+  left                : 923px;
+  width               : 394px;
+  height              : 392px;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .maxresdefaultremovebgpreview-sx3HWc {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .maxresdefaultremovebgpreview-sx3HWc {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group1-0Mdmhy .maxresdefaultremovebgpreview-sx3HWc:hover {
+  transform           : translate(0, -5px);
+}
+.sdpro-reviews-1DumCm .overlap-group6-68eT2I {
+  position            : relative;
+  width               : 1366px;
+  height              : 500px;
+  margin-top          : 62px;
+  margin-right        : 4.0px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .overlap-group6-68eT2I .rectangle-copy23-rKcIWY {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1366px;
+  height              : 500px;
+  background-color    : #000000;
+}
+.sdpro-reviews-1DumCm .overlap-group6-68eT2I .rectangle-copy23-rKcIWY {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group6-68eT2I .the-wall-street-jour-9a26vi {
+  position            : absolute;
+  top                 : 359px;
+  left                : 57px;
+  width               : 896px;
+  height              : auto;
+  color               : #50e2c1;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.43px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group6-68eT2I .the-wall-street-jour-9a26vi {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group6-68eT2I .the-wall-street-jour-9a26vi {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group6-68eT2I .the-wall-street-jour-9a26vi:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .overlap-group6-68eT2I .the-sounddeck-pro-sm-ZEJ17w {
+  position            : absolute;
+  top                 : 65px;
+  left                : 11px;
+  width               : 1000px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 80.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 80.0px;
+  letter-spacing      : -0.58px;
+  text-align          : center;
+}
+.sdpro-reviews-1DumCm .overlap-group6-68eT2I .the-sounddeck-pro-sm-ZEJ17w {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .the-sounddeck-pro-sm-ZEJ17w .span1-A1qdLO {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 95.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .the-sounddeck-pro-sm-ZEJ17w .span2-o512Wb {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-size           : 100.0px;
+  line-height         : 119.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .overlap-group6-68eT2I .wsjlogoremovebgpreview-zKN5Ns {
+  position            : absolute;
+  top                 : 190px;
+  left                : 986px;
+  width               : 353px;
+  height              : 173px;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group6-68eT2I .wsjlogoremovebgpreview-zKN5Ns {
+  
+}
+.sdpro-reviews-1DumCm .overlap-group6-68eT2I .wsjlogoremovebgpreview-zKN5Ns {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group6-68eT2I .wsjlogoremovebgpreview-zKN5Ns:hover {
+  transform           : translate(0, -5px);
+}
+.sdpro-reviews-1DumCm .overlap-group5-9xgWLi {
+  position            : relative;
+  width               : 1366px;
+  height              : 500px;
+  margin-top          : 63px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .overlap-group5-9xgWLi .rectangle-copy22-kU69ld {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1366px;
+  height              : 500px;
+  background-color    : #000000;
+}
+.sdpro-reviews-1DumCm .overlap-group5-9xgWLi .rectangle-copy22-kU69ld {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group5-9xgWLi .the-verge-ankRlL {
+  position            : absolute;
+  top                 : 293px;
+  left                : 35px;
+  width               : 896px;
+  height              : auto;
+  color               : #ec2b8c;
+  font                : 80.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 95.0px;
+  letter-spacing      : -0.43px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group5-9xgWLi .the-verge-ankRlL {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group5-9xgWLi .the-verge-ankRlL {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group5-9xgWLi .the-verge-ankRlL:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .overlap-group5-9xgWLi .thevergelogotransparent-S1afnE {
+  position            : absolute;
+  top                 : 112px;
+  left                : 998px;
+  width               : 319px;
+  height              : 277px;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group5-9xgWLi .thevergelogotransparent-S1afnE {
+  
+}
+.sdpro-reviews-1DumCm .overlap-group5-9xgWLi .thevergelogotransparent-S1afnE {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group5-9xgWLi .thevergelogotransparent-S1afnE:hover {
+  transform           : translate(0, -5px);
+}
+.sdpro-reviews-1DumCm .overlap-group5-9xgWLi .the-sounddeck-pro-is1-30f3Fb {
+  position            : absolute;
+  top                 : 46px;
+  left                : 11px;
+  width               : 988px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 100.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 119.0px;
+  letter-spacing      : -0.58px;
+  text-align          : center;
+}
+.sdpro-reviews-1DumCm .overlap-group5-9xgWLi .the-sounddeck-pro-is1-30f3Fb {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group4-X5dTr8 {
+  position            : relative;
+  width               : 1366px;
+  height              : 500px;
+  margin-top          : 62px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .overlap-group4-X5dTr8 .rectangle-copy21-FtgomB {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1366px;
+  height              : 500px;
+  background-color    : #000000;
+}
+.sdpro-reviews-1DumCm .overlap-group4-X5dTr8 .rectangle-copy21-FtgomB {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group4-X5dTr8 .cnetcom-JYdi2k {
+  position            : absolute;
+  top                 : 361px;
+  left                : 57px;
+  width               : 896px;
+  height              : auto;
+  color               : #da1f06;
+  font                : 100.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 119.0px;
+  letter-spacing      : -0.43px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group4-X5dTr8 .cnetcom-JYdi2k {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group4-X5dTr8 .cnetcom-JYdi2k {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group4-X5dTr8 .cnetcom-JYdi2k:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .overlap-group4-X5dTr8 .the-sounddeck-pro-ha-J4L76e {
+  position            : absolute;
+  top                 : 84px;
+  left                : 11px;
+  width               : 988px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.58px;
+  text-align          : center;
+}
+.sdpro-reviews-1DumCm .overlap-group4-X5dTr8 .the-sounddeck-pro-ha-J4L76e {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group4-X5dTr8 .a6a9314112eafb6af634118d7dda929ec-26lWG2 {
+  position            : absolute;
+  top                 : 91px;
+  left                : 994px;
+  width               : 343px;
+  height              : 343px;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group4-X5dTr8 .a6a9314112eafb6af634118d7dda929ec-26lWG2 {
+  
+}
+.sdpro-reviews-1DumCm .overlap-group4-X5dTr8 .a6a9314112eafb6af634118d7dda929ec-26lWG2 {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group4-X5dTr8 .a6a9314112eafb6af634118d7dda929ec-26lWG2:hover {
+  transform           : translate(0, -5px);
+}
+.sdpro-reviews-1DumCm .overlap-group2-7UmTVN {
+  position            : relative;
+  width               : 1412px;
+  height              : 500px;
+  margin-top          : 57px;
+  align-self          : flex-start;
+  margin-left         : -9.0px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .overlap-group2-7UmTVN .rectangle-copy2-j7ZOJA {
+  position            : absolute;
+  top                 : 0px;
+  left                : 46px;
+  width               : 1366px;
+  height              : 500px;
+  background-color    : #000000;
+}
+.sdpro-reviews-1DumCm .overlap-group2-7UmTVN .rectangle-copy2-j7ZOJA {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group2-7UmTVN .wiredcom-oiKPkR {
+  position            : absolute;
+  top                 : 346px;
+  left                : 92px;
+  width               : 805px;
+  height              : auto;
+  color               : #9b9a9b;
+  font                : 80.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 95.0px;
+  letter-spacing      : -0.25px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group2-7UmTVN .wiredcom-oiKPkR {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group2-7UmTVN .wiredcom-oiKPkR {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group2-7UmTVN .wiredcom-oiKPkR:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .overlap-group2-7UmTVN .audiophile-heaven-nRMVyd {
+  position            : absolute;
+  top                 : 8px;
+  left                : 0px;
+  width               : 988px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 140.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 167.0px;
+  letter-spacing      : -0.58px;
+  text-align          : center;
+}
+.sdpro-reviews-1DumCm .overlap-group2-7UmTVN .audiophile-heaven-nRMVyd {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group2-7UmTVN .wiredlogo1000-FxETSt {
+  position            : absolute;
+  top                 : 157px;
+  left                : 837px;
+  width               : 573px;
+  height              : 215px;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group2-7UmTVN .wiredlogo1000-FxETSt {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group2-7UmTVN .wiredlogo1000-FxETSt {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group2-7UmTVN .wiredlogo1000-FxETSt:hover {
+  transform           : translate(0, -5px);
+}
+.sdpro-reviews-1DumCm .overlap-group3-9QuwHK {
+  position            : relative;
+  width               : 1366px;
+  height              : 500px;
+  margin-top          : 55px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .overlap-group3-9QuwHK .rectangle-copy3-TzFYmV {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1366px;
+  height              : 500px;
+  background-color    : #000000;
+}
+.sdpro-reviews-1DumCm .overlap-group3-9QuwHK .rectangle-copy3-TzFYmV {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group3-9QuwHK .buy-the-sounddeck-pr-NYIy4e {
+  position            : absolute;
+  top                 : 356px;
+  left                : 137px;
+  width               : auto;
+  height              : auto;
+  color               : #7ed221;
+  font                : 80.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 95.0px;
+  letter-spacing      : -0.46px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group3-9QuwHK .buy-the-sounddeck-pr-NYIy4e {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sdpro-reviews-1DumCm .overlap-group3-9QuwHK .buy-the-sounddeck-pr-NYIy4e {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group3-9QuwHK .buy-the-sounddeck-pr-NYIy4e:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .buy-the-sounddeck-pr-NYIy4e .span1-zdnHFt {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .buy-the-sounddeck-pr-NYIy4e .span2-uwQ0D1 {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .buy-the-sounddeck-pr-NYIy4e .span3-OBcdAM {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .overlap-group3-9QuwHK .learn-more-about-the-JeIF20 {
+  position            : absolute;
+  top                 : 29px;
+  left                : 133px;
+  width               : 1101px;
+  height              : auto;
+  color               : #498fe1;
+  font                : 80.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 95.0px;
+  letter-spacing      : -0.25px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group3-9QuwHK .learn-more-about-the-JeIF20 {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group3-9QuwHK .learn-more-about-the-JeIF20:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .learn-more-about-the-JeIF20 .span1-sKvnRL {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .learn-more-about-the-JeIF20 .span2-moNglG {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .learn-more-about-the-JeIF20 .span3-EKiohL {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .overlap-group3-9QuwHK .sounddeck-pro-tech-s-eAicvT {
+  position            : absolute;
+  top                 : 238px;
+  left                : 110px;
+  width               : 1101px;
+  height              : auto;
+  color               : #498fe1;
+  font                : 80.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 95.0px;
+  letter-spacing      : -0.25px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .overlap-group3-9QuwHK .sounddeck-pro-tech-s-eAicvT {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .overlap-group3-9QuwHK .sounddeck-pro-tech-s-eAicvT:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .sounddeck-pro-tech-s-eAicvT .span1-syggx1 {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .sounddeck-pro-tech-s-eAicvT .span2-G0P71A {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 1344px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-top          : 75px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 431px;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 529px;
+  height              : auto;
+  align-self          : flex-start;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .our-company-9ZuhjM {
+  position            : relative;
+  width               : auto;
+  min-width           : 285.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .our-company-9ZuhjM {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .our-company-9ZuhjM:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .blog-qLQgFF {
+  position            : relative;
+  width               : auto;
+  min-width           : 94.4966659546px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 15px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .blog-qLQgFF {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .blog-qLQgFF:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .press-releases-and-n-RidIrK {
+  position            : relative;
+  width               : auto;
+  min-width           : 526.496643066px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 19px;
+  margin-left         : 3.0px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .press-releases-and-n-RidIrK {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .press-releases-and-n-RidIrK:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .careers-Jn0qFo {
+  position            : relative;
+  width               : auto;
+  min-width           : 164.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 13px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .careers-Jn0qFo {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .careers-Jn0qFo:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .responsibility-b7vfW3 {
+  position            : relative;
+  width               : auto;
+  min-width           : 293.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 20px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .responsibility-b7vfW3 {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .responsibility-b7vfW3:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .innovation-X2fc9Z {
+  position            : relative;
+  width               : auto;
+  min-width           : 217.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 14px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .innovation-X2fc9Z {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex2-Jm2NXv .innovation-X2fc9Z:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN {
+  position            : relative;
+  width               : 297px;
+  height              : 407px;
+  margin-left         : 145px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .certified-refurbishe-B9Am4i {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .certified-refurbishe-B9Am4i {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .certified-refurbishe-B9Am4i:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .student-partners-PaVUDP {
+  position            : absolute;
+  top                 : 57px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .student-partners-PaVUDP {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .student-partners-PaVUDP:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .investors-n9T7K0 {
+  position            : absolute;
+  top                 : 117px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .investors-n9T7K0 {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .investors-n9T7K0:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .developer-portal-RFOdLx {
+  position            : absolute;
+  top                 : 178px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .developer-portal-RFOdLx {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .developer-portal-RFOdLx:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .sign-up-for-newslett-zjkAZl {
+  position            : absolute;
+  top                 : 239px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .sign-up-for-newslett-zjkAZl {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .sign-up-for-newslett-zjkAZl:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .find-a-store-mmxajD {
+  position            : absolute;
+  top                 : 299px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .find-a-store-mmxajD {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .overlap-group8-xtlHcN .find-a-store-mmxajD:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 260px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-left         : 52px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .shipping-delivery-6IukJJ {
+  position            : relative;
+  width               : auto;
+  min-width           : 260.496673584px;
+  height              : auto;
+  min-height          : 36px;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .shipping-delivery-6IukJJ {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .shipping-delivery-6IukJJ:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE {
+  position            : relative;
+  width               : 172px;
+  height              : 351px;
+  margin-top          : 21px;
+  margin-left         : 3.0px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .about-us-XzyRG7 {
+  position            : absolute;
+  top                 : 60px;
+  left                : 2px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .about-us-XzyRG7 {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .about-us-XzyRG7:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .security-Kt8XcA {
+  position            : absolute;
+  top                 : 121px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .security-Kt8XcA {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .security-Kt8XcA:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .conformity-xEwA0O {
+  position            : absolute;
+  top                 : 180px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .conformity-xEwA0O {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .conformity-xEwA0O:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .order-status-8jksBg {
+  position            : absolute;
+  top                 : 0px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .order-status-8jksBg {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .order-status-8jksBg:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .trade-up-UMxo9m {
+  position            : absolute;
+  top                 : 243px;
+  left                : 2px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .trade-up-UMxo9m {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex3-TmuGxQ .auto-flex1-NQJKyg .overlap-group9-Ucy4UE .trade-up-UMxo9m:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 50px;
+  align-self          : flex-end;
+  box-sizing          : border-box;
+  margin-top          : 16px;
+  margin-right        : 1.5px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .icons8facebook50-0v5nKk {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .icons8facebook50-0v5nKk {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .icons8facebook50-0v5nKk:hover {
+  transform           : scale(1.1);
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .icons8facebook50-0v5nKk .shape-QqRibn {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .group3-yFVAE1 {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  box-sizing          : border-box;
+  margin-left         : 34px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .group3-yFVAE1 .icons8twitter50-szqzfq {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .group3-yFVAE1 .icons8twitter50-szqzfq {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .group3-yFVAE1 .icons8twitter50-szqzfq:hover {
+  transform           : scale(1.1);
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .group3-yFVAE1 .icons8twitter50-szqzfq .shape-NrfLmf {
+  position            : relative;
+  width               : 61px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .group3-yFVAE1 .icons8youtube50-xO1gqv {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  margin-left         : 28px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .group3-yFVAE1 .icons8youtube50-xO1gqv {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .group3-yFVAE1 .icons8youtube50-xO1gqv:hover {
+  transform           : scale(1.1);
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .group3-yFVAE1 .icons8youtube50-xO1gqv .shape-nFxLkM {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .group3-yFVAE1 .icons8instagram50-3F0bOL {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  margin-left         : 33px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .group3-yFVAE1 .icons8instagram50-3F0bOL {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .group3-yFVAE1 .icons8instagram50-3F0bOL:hover {
+  transform           : scale(1.1);
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .group3-yFVAE1 .icons8instagram50-3F0bOL .shape-4x2zut {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .overlap-group10-sgjMrN {
+  position            : relative;
+  width               : 810px;
+  height              : 36px;
+  margin-left         : 162px;
+  flex-shrink         : 0;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .overlap-group10-sgjMrN .lashell-noe-legal20-RpKcIB {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 810px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .overlap-group10-sgjMrN .lashell-noe-legal20-RpKcIB {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .overlap-group10-sgjMrN .lashell-noe-legal20-RpKcIB:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .overlap-group10-sgjMrN .privacy-statement-6VecUX {
+  position            : absolute;
+  top                 : 0px;
+  left                : 382px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .overlap-group10-sgjMrN .privacy-statement-6VecUX {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .overlap-group10-sgjMrN .privacy-statement-6VecUX:hover {
+  text-decoration     : underline;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .overlap-group10-sgjMrN .site-map-ChkD9j {
+  position            : absolute;
+  top                 : 0px;
+  left                : 693px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .overlap-group10-sgjMrN .site-map-ChkD9j {
+  pointer-events      : auto;
+}
+.sdpro-reviews-1DumCm .group-JPyKhD .auto-flex-90QgCc .overlap-group10-sgjMrN .site-map-ChkD9j:hover {
+  text-decoration     : underline;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+* {
+  box-sizing          : border-box;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}

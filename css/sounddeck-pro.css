@@ -1,0 +1,3796 @@
+
+@font-face {
+                          font-family: "SFProDisplay-Bold";
+                          src: url('../fonts/SF-Pro-Display-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Medium";
+                          src: url('../fonts/SF-Pro-Display-Medium.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Semibold";
+                          src: url('../fonts/SF-Pro-Text-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Heavy";
+                          src: url('../fonts/SF-Pro-Display-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Bold";
+                          src: url('../fonts/SF-Pro-Text-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Light";
+                          src: url('../fonts/SF-Pro-Text-Light.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Heavy";
+                          src: url('../fonts/SF-Pro-Text-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFCompactRounded-Heavy";
+                          src: url('../fonts/SF-Compact-Rounded-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Medium";
+                          src: url('../fonts/SF-Pro-Text-Medium.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Thin";
+                          src: url('../fonts/SF-Pro-Display-Thin.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Semibold";
+                          src: url('../fonts/SF-Pro-Display-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Regular";
+                          src: url('../fonts/SF-Pro-Display-Regular.otf') format("opentype");
+                        }
+                        
+.sounddeck-pro-pSFD5J {
+  overflow            : hidden;
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : center;
+  margin              : 0px;
+  padding             : 1.0px 0;
+  width               : 100%;
+  min-width           : 1460.0px;
+  height              : auto;
+  min-height          : 10000.0px;
+  background-color    : #000000;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing          : border-box;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-animate-enter9 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter9-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter9-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter9-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter9-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter9-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter9-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter9-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter9-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter10 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter10-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter10-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter10-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter10-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter10-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter10-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter10-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter10-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter11 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter11-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter11-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter11-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter11-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter11-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter11-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter11-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter11-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter12 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter12-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter12-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter12-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter12-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter12-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter12-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter12-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter12-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter13 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter13-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter13-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter13-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter13-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter13-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter13-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter13-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter13-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter14 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter14-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter14-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter14-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter14-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter14-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter14-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter14-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter14-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter15 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter15-frames 0.5s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter15-frames 0.5s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter15-frames 0.5s ease-out 1 normal forwards;
+  animation           : anima-animate-enter15-frames 0.5s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter15-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter15-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter15-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter15-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter16 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter16-frames 0.5s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter16-frames 0.5s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter16-frames 0.5s ease-out 1 normal forwards;
+  animation           : anima-animate-enter16-frames 0.5s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter16-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter16-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter16-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter16-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter17 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter17-frames 0.5s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter17-frames 0.5s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter17-frames 0.5s ease-out 1 normal forwards;
+  animation           : anima-animate-enter17-frames 0.5s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter17-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter17-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter17-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter17-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter18 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter18-frames 0.5s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter18-frames 0.5s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter18-frames 0.5s ease-out 1 normal forwards;
+  animation           : anima-animate-enter18-frames 0.5s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter18-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter18-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter18-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter18-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter19 {
+  opacity             : 0;
+  transform           : translate(0, 50px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter19-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter19-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter19-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter19-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter19-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter19-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter19-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter19-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter20 {
+  opacity             : 0;
+  transform           : scale(1.1);
+  display             : block;
+  -webkit-animation   : anima-animate-enter20-frames 0.75s ease-in 1 normal forwards;
+  -moz-animation      : anima-animate-enter20-frames 0.75s ease-in 1 normal forwards;
+  -o-animation        : anima-animate-enter20-frames 0.75s ease-in 1 normal forwards;
+  animation           : anima-animate-enter20-frames 0.75s ease-in 1 normal forwards;
+  -webkit-animation-delay: 0.25s;
+  -moz-animation-delay: 0.25s;
+  -o-animation-delay  : 0.25s;
+  animation-delay     : 0.25s;
+}
+@-webkit-keyframes anima-animate-enter20-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.85);
+    }
+}
+@-moz-keyframes anima-animate-enter20-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.85);
+    }
+}
+@-o-keyframes anima-animate-enter20-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.85);
+    }
+}
+@keyframes anima-animate-enter20-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.85);
+    }
+}
+.anima-animate-enter21 {
+  opacity             : 0;
+  transform           : translate(0, 50px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter21-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter21-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter21-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter21-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter21-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter21-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter21-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter21-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter22 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter22-frames 1s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter22-frames 1s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter22-frames 1s ease-out 1 normal forwards;
+  animation           : anima-animate-enter22-frames 1s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter22-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter22-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter22-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter22-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter23 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter23-frames 1s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter23-frames 1s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter23-frames 1s ease-out 1 normal forwards;
+  animation           : anima-animate-enter23-frames 1s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter23-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter23-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter23-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter23-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter24 {
+  opacity             : 0;
+  transform           : scale(1.1);
+  display             : block;
+  -webkit-animation   : anima-animate-enter24-frames 2s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter24-frames 2s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter24-frames 2s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter24-frames 2s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter24-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.9);
+    }
+}
+@-moz-keyframes anima-animate-enter24-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.9);
+    }
+}
+@-o-keyframes anima-animate-enter24-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.9);
+    }
+}
+@keyframes anima-animate-enter24-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(0.9);
+    }
+}
+.anima-animate-enter25 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter25-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter25-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter25-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter25-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter25-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter25-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter25-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter25-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter26 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter26-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter26-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter26-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter26-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter26-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter26-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter26-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter26-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter27 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter27-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter27-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter27-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter27-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter27-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter27-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter27-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter27-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter28 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter28-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter28-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter28-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter28-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter28-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter28-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter28-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter28-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter29 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter29-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter29-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter29-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter29-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter29-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter29-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter29-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter29-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter30 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter30-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter30-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter30-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter30-frames 2s ease-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter30-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter30-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter30-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter30-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter31 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter31-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter31-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter31-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter31-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter31-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter31-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter31-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter31-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne {
+  position            : relative;
+  width               : 1460px;
+  height              : 108px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .rectangle-LYj80Q {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1460px;
+  height              : 108px;
+  background-color    : #000000;
+  border              : 1.0px solid #969696;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .screen-shot20200320-at12554-am-iDaWZN {
+  position            : absolute;
+  top                 : 21px;
+  left                : 6px;
+  width               : 430px;
+  height              : 70px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .screen-shot20200320-at12554-am-iDaWZN {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .screen-shot20200320-at12554-am-iDaWZN:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .s-peakers-hv9Qid {
+  position            : absolute;
+  top                 : 35px;
+  left                : 483px;
+  width               : 224px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.24px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .s-peakers-hv9Qid {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .s-peakers-hv9Qid:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .s-peakers-hv9Qid .span1-ZrOOAc {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-pSFD5J .s-peakers-hv9Qid .span2-spphxQ {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : -0.16px;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .s-hop-S1hry0 {
+  position            : absolute;
+  top                 : 36px;
+  left                : 741px;
+  width               : 138px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .s-hop-S1hry0 {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .s-hop-S1hry0:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .s-hop-S1hry0 .span1-SzRBJv {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-pSFD5J .s-hop-S1hry0 .span2-Ez75Dp {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .a-bout-ynk7I7 {
+  position            : absolute;
+  top                 : 36px;
+  left                : 903px;
+  width               : 182px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 25.0px;
+  letter-spacing      : -0.15px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .a-bout-ynk7I7 {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .a-bout-ynk7I7:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .a-bout-ynk7I7 .span1-nibvUX {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 48.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-pSFD5J .a-bout-ynk7I7 .span2-Is4Ea1 {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-size           : 25.0px;
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 30.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group9-EGmmmL {
+  position            : absolute;
+  top                 : 20px;
+  left                : 1366px;
+  width               : 69px;
+  height              : 69px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group9-EGmmmL {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group9-EGmmmL:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group9-EGmmmL .oval-PUlbaN {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 69px;
+  height              : 69px;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group9-EGmmmL .oval2-iyFXI4 {
+  position            : absolute;
+  top                 : 9px;
+  left                : 9px;
+  width               : 50px;
+  height              : 50px;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group9-EGmmmL .oval3-rN6vyL {
+  position            : absolute;
+  top                 : 18px;
+  left                : 23px;
+  width               : 23px;
+  height              : 23px;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group9-EGmmmL .oval4-8DV2Tt {
+  position            : absolute;
+  top                 : 47px;
+  left                : 9px;
+  width               : 50px;
+  height              : 18px;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .glyphs-search-piRpec {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 19px;
+  left                : 1122px;
+  width               : auto;
+  height              : 74px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .glyphs-search-piRpec {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .glyphs-search-piRpec {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .glyphs-search-piRpec:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .glyphs-search-piRpec .search-TMcDzk {
+  position            : relative;
+  width               : 74px;
+  height              : 74px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group10-KmVQHw {
+  position            : absolute;
+  top                 : 18px;
+  left                : 1238px;
+  width               : 86px;
+  height              : 77px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group10-KmVQHw {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group10-KmVQHw:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group10-KmVQHw .shoppingcartpngrepocom-Dhw0ob {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 77px;
+  height              : 77px;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group10-KmVQHw .glyphs-notification-icon-yddpW8 {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 9px;
+  left                : 66px;
+  width               : auto;
+  height              : 20px;
+  box-sizing          : border-box;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group10-KmVQHw .glyphs-notification-icon-yddpW8 .app-icon-1tpchu {
+  position            : relative;
+  width               : 20px;
+  height              : 20px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group10-KmVQHw .a1-06lCoB {
+  position            : absolute;
+  top                 : 9px;
+  left                : 72px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 16.0px "SFCompactRounded-Heavy", Helvetica, Arial, serif;
+  line-height         : 19.0px;
+  letter-spacing      : -0.24px;
+  text-align          : center;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .line-Ec0jdy {
+  position            : absolute;
+  top                 : 93px;
+  left                : 487px;
+  width               : 222px;
+  height              : 5px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .line-Ec0jdy {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .line-Ec0jdy:hover {
+  transform           : translate(0, -5px);
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd {
+  position            : relative;
+  width               : 1418px;
+  height              : 174px;
+  margin-top          : 12px;
+  margin-left         : 2.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle5-Z0SR0d {
+  position            : absolute;
+  top                 : 71px;
+  left                : 1px;
+  width               : 1417px;
+  height              : 64px;
+  background-color    : #000000;
+  border-radius       : 29.0px;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle6-HfaMrN {
+  position            : absolute;
+  top                 : 77px;
+  left                : 8px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle61-uwucRT {
+  position            : absolute;
+  top                 : 77px;
+  left                : 8px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .sounddeck-pro1-dc7RI2 {
+  position            : absolute;
+  top                 : 78px;
+  left                : 29px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .tech-specs-jjzaaI {
+  position            : absolute;
+  top                 : 78px;
+  left                : 788px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle51-AAgv9A {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 64px;
+  background-color    : #000000;
+  border-radius       : 29.0px;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle62-O4qzjn {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle3-ZOsriR {
+  position            : absolute;
+  top                 : 82px;
+  left                : 1103px;
+  width               : 303px;
+  height              : 41px;
+  background-color    : #7ed221;
+  border-radius       : 20.5px;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle63-a4WXdr {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle31-ipzeAv {
+  position            : absolute;
+  top                 : 11px;
+  left                : 13px;
+  width               : 334px;
+  height              : 41px;
+  background-color    : #060606;
+  border-radius       : 20.5px;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .collection-gXCYIW {
+  position            : absolute;
+  top                 : 8px;
+  left                : 78px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .accessories-xVIEq9 {
+  position            : absolute;
+  top                 : 7px;
+  left                : 425px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .pro-components-al6zok {
+  position            : absolute;
+  top                 : 7px;
+  left                : 738px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .compare-OSYHzv {
+  position            : absolute;
+  top                 : 7px;
+  left                : 1140px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .buy-now-08oeej {
+  position            : absolute;
+  top                 : 80px;
+  left                : 1193px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 36.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.13px;
+  text-align          : left;
+}
+.sounddeck-pro-pSFD5J .overlap-group3-e8ynyJ {
+  position            : relative;
+  width               : 1219px;
+  height              : 955px;
+  margin-top          : 26px;
+  align-self          : flex-end;
+  margin-right        : 58.52px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .overlap-group3-e8ynyJ .screen-shot20200325at4removebgpreview-GCxGky {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1059px;
+  height              : 955px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .overlap-group3-e8ynyJ .screen-shot20200325at4removebgpreview-GCxGky {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .overlap-group3-e8ynyJ .screen-shot20200325at4removebgpreview-GCxGky:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .overlap-group3-e8ynyJ .the-revolution-in-so-uKRdNq {
+  position            : absolute;
+  top                 : 64px;
+  left                : 469px;
+  width               : 750px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 140.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 167.0px;
+  letter-spacing      : -0.52px;
+  text-align          : left;
+}
+.sounddeck-pro-pSFD5J .overlap-group3-e8ynyJ .the-revolution-in-so-uKRdNq {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+}
+.sounddeck-pro-pSFD5J .the-new-sounddeck-pr-enDUO5 {
+  position            : relative;
+  width               : 1325px;
+  height              : auto;
+  min-height          : 302px;
+  color               : #ffffff;
+  font                : 40.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.35px;
+  text-align          : center;
+  margin-top          : 95px;
+  margin-left         : 29.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .the-new-sounddeck-pr-enDUO5 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo {
+  position            : relative;
+  width               : 1709px;
+  height              : 1035px;
+  margin-top          : 113px;
+  margin-right        : 3.46px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .screen-shot20200326at2removebgpreview-FIB11d {
+  position            : absolute;
+  top                 : 0px;
+  left                : 366px;
+  width               : 1052px;
+  height              : 1035px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .screen-shot20200326at2removebgpreview-FIB11d {
+  opacity             : 0;
+  transform           : translate(0, 50px);
+}
+.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .screen-shot20200326at2removebgpreview-FIB11d {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .screen-shot20200326at2removebgpreview-FIB11d:hover {
+  transform           : scale(0.9);
+}
+.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .small-yet-powerful-lBnVLL {
+  position            : absolute;
+  top                 : 17px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #d0011b;
+  font                : 400.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 477.0px;
+  letter-spacing      : -3.46px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .small-yet-powerful-lBnVLL {
+  opacity             : 0;
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .small-yet-powerful-lBnVLL {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .small-yet-powerful-lBnVLL:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .the-sounddeck-pro-ha-KAGqV7 {
+  position            : relative;
+  width               : 1325px;
+  height              : auto;
+  min-height          : 302px;
+  color               : #ffffff;
+  font                : 40.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.35px;
+  text-align          : center;
+  margin-top          : 138px;
+  margin-left         : 29.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .the-sounddeck-pro-ha-KAGqV7 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .overlap-group5-EYRmSe {
+  position            : relative;
+  width               : 1012px;
+  height              : 1045px;
+  margin-top          : 138px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .overlap-group5-EYRmSe .screen-shot20200325at4removebgpreview6-wsh9kT {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1012px;
+  height              : 1045px;
+}
+.sounddeck-pro-pSFD5J .overlap-group5-EYRmSe .screen-shot20200325at4removebgpreview6-wsh9kT {
+  opacity             : 0;
+  transform           : translate(0, 50px);
+}
+.sounddeck-pro-pSFD5J .overlap-group5-EYRmSe .rectangle13-kRfY5D {
+  position            : absolute;
+  top                 : 339px;
+  left                : 60px;
+  width               : 892px;
+  height              : 408px;
+  opacity             : 0.46;
+  background-color    : #000000;
+  border              : 13.0px solid #ffffff;
+  border-radius       : 24.0px;
+}
+.sounddeck-pro-pSFD5J .overlap-group5-EYRmSe .rectangle13-kRfY5D {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .overlap-group5-EYRmSe .deep-bass-with-range-AcH0fs {
+  position            : absolute;
+  top                 : 390px;
+  left                : 76px;
+  width               : 860px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 55.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 65.0px;
+  letter-spacing      : -0.48px;
+  text-align          : center;
+}
+.sounddeck-pro-pSFD5J .overlap-group5-EYRmSe .a-six-microphone-arr-wNDOYJ {
+  position            : absolute;
+  top                 : 460px;
+  left                : 120px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.35px;
+  text-align          : center;
+}
+.sounddeck-pro-pSFD5J .overlap-group6-XRoLwE {
+  position            : relative;
+  width               : 1380px;
+  height              : 844px;
+  margin-top          : 140px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .overlap-group6-XRoLwE .homepodspgryproductlifestyleprint1-353oSo {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1380px;
+  height              : 844px;
+}
+.sounddeck-pro-pSFD5J .overlap-group6-XRoLwE .homepodspgryproductlifestyleprint1-353oSo {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .overlap-group6-XRoLwE .beautiful-u5v6Y6 {
+  position            : absolute;
+  top                 : 70px;
+  left                : 742px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 140.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 167.0px;
+  letter-spacing      : -1.21px;
+  text-align          : center;
+}
+.sounddeck-pro-pSFD5J .overlap-group6-XRoLwE .inside-out-D9u11o {
+  position            : absolute;
+  top                 : 200px;
+  left                : 771px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 100.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 119.0px;
+  letter-spacing      : -0.87px;
+  text-align          : center;
+}
+.sounddeck-pro-pSFD5J .wall-to-wall-ceilin-p4PEV3 {
+  position            : relative;
+  width               : 1325px;
+  height              : auto;
+  min-height          : 466px;
+  color               : #ffffff;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 40.0px;
+  letter-spacing      : -0.35px;
+  text-align          : center;
+  margin-top          : 132px;
+  margin-left         : 29.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .wall-to-wall-ceilin-p4PEV3 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .wall-to-wall-ceilin-p4PEV3 .span1-XW751Q {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 71.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-pSFD5J .wall-to-wall-ceilin-p4PEV3 .span2-KwDM6i {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-size           : 40.0px;
+  line-height         : 48.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-pSFD5J .group2-ypKAwo {
+  position            : relative;
+  width               : 1841px;
+  height              : 990px;
+  margin-top          : 160px;
+  align-self          : flex-start;
+  margin-left         : -155.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .group2-ypKAwo .screen-shot20200326-at24943-am-yoFoLc {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1841px;
+  height              : 990px;
+}
+.sounddeck-pro-pSFD5J .group2-ypKAwo .screen-shot20200326-at24943-am-yoFoLc {
+  opacity             : 0;
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .group2-ypKAwo .for-all-your-music-ZLfPDY {
+  position            : absolute;
+  top                 : 98px;
+  left                : 168px;
+  width               : auto;
+  height              : auto;
+  color               : #d0011b;
+  font                : 48.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.28px;
+  text-align          : center;
+}
+.sounddeck-pro-pSFD5J .group2-ypKAwo .and-even-more-PSSYhO {
+  position            : absolute;
+  top                 : 786px;
+  left                : 1263px;
+  width               : auto;
+  height              : auto;
+  color               : #d0011b;
+  font                : 48.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.28px;
+  text-align          : center;
+}
+.sounddeck-pro-pSFD5J .the-ultimate-music-a-POoq0l {
+  position            : relative;
+  width               : 1325px;
+  height              : auto;
+  min-height          : 302px;
+  color               : #ffffff;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 40.0px;
+  letter-spacing      : -0.35px;
+  text-align          : center;
+  margin-top          : 112px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .the-ultimate-music-a-POoq0l {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .the-ultimate-music-a-POoq0l .span1-yBRz70 {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 71.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-pSFD5J .the-ultimate-music-a-POoq0l .span2-OZcmpV {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-size           : 40.0px;
+  line-height         : 48.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-pSFD5J .auto-flex4-QJRDge {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 171px;
+  box-sizing          : border-box;
+  margin-top          : 58px;
+  margin-left         : 65.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .spotify-icon-BOuj6A {
+  position            : relative;
+  width               : 485px;
+  height              : 171px;
+  transition          : all 0.2s ease-in-out;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .spotify-icon-BOuj6A {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .spotify-icon-BOuj6A {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .spotify-icon-BOuj6A:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .a5475472409fomonewssignupapplemusicvectorlogo-PhU1UR {
+  position            : relative;
+  width               : 560px;
+  height              : 131px;
+  transition          : all 0.2s ease-in-out;
+  margin-left         : 70px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .a5475472409fomonewssignupapplemusicvectorlogo-PhU1UR {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .a5475472409fomonewssignupapplemusicvectorlogo-PhU1UR {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .a5475472409fomonewssignupapplemusicvectorlogo-PhU1UR:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 502px;
+  box-sizing          : border-box;
+  margin-top          : 19px;
+  margin-left         : 96.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : 311px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-bottom       : 9.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 123px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 123px;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape13-aT2fAQ {
+  position            : relative;
+  width               : 4px;
+  height              : 33px;
+  margin-bottom       : 17.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape12-MzQdrx {
+  position            : relative;
+  width               : 5px;
+  height              : 51px;
+  margin-left         : 7px;
+  margin-bottom       : 8.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape11-FetakQ {
+  position            : relative;
+  width               : 5px;
+  height              : 60px;
+  margin-left         : 7px;
+  margin-bottom       : 4.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape10-OZ2Ngw {
+  position            : relative;
+  width               : 5px;
+  height              : 63px;
+  margin-left         : 7px;
+  margin-bottom       : 2.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape9-kP6VXP {
+  position            : relative;
+  width               : 5px;
+  height              : 61px;
+  margin-left         : 7px;
+  margin-bottom       : 2.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape8-JBGzJt {
+  position            : relative;
+  width               : 6px;
+  height              : 79px;
+  margin-left         : 7px;
+  margin-bottom       : 2.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape7-qg6VoD {
+  position            : relative;
+  width               : 6px;
+  height              : 90px;
+  margin-left         : 6px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape6-n2nGWO {
+  position            : relative;
+  width               : 6px;
+  height              : 95px;
+  margin-left         : 6px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape5-PnJ1An {
+  position            : relative;
+  width               : 6px;
+  height              : 97px;
+  margin-left         : 7px;
+  margin-bottom       : 2.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape4-dXgpYU {
+  position            : relative;
+  width               : 6px;
+  height              : 96px;
+  margin-left         : 6px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape3-wAi9Pe {
+  position            : relative;
+  width               : 6px;
+  height              : 94px;
+  margin-left         : 7px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape2-mudORR {
+  position            : relative;
+  width               : 6px;
+  height              : 105px;
+  margin-left         : 7px;
+  margin-bottom       : 2.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape1-DLwie7 {
+  position            : relative;
+  width               : 7px;
+  height              : 111px;
+  margin-left         : 10px;
+  margin-bottom       : 2.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape-B1Diyu {
+  position            : relative;
+  width               : 148px;
+  height              : 123px;
+  margin-left         : 6px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .google-podcasts-logo-210zLj {
+  position            : relative;
+  width               : 304px;
+  height              : 304px;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 35px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .google-podcasts-logo-210zLj {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .google-podcasts-logo-210zLj {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .google-podcasts-logo-210zLj:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : center;
+  width               : 617px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-left         : 52px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 246px;
+  box-sizing          : border-box;
+  margin-right        : 12.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .tuneinicon-Oq9A6D {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 245px;
+  transition          : all 0.2s ease-in-out;
+  align-self          : flex-end;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .tuneinicon-Oq9A6D {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .tuneinicon-Oq9A6D {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .tuneinicon-Oq9A6D:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .tuneinicon-Oq9A6D .shape-Jof8vD {
+  position            : relative;
+  width               : 249px;
+  height              : 245px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-v7eiet {
+  position            : relative;
+  width               : 237px;
+  height              : 237px;
+  transition          : all 0.2s ease-in-out;
+  margin-left         : 75px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-v7eiet {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-v7eiet {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-v7eiet:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 256px;
+  box-sizing          : border-box;
+  margin-top          : 0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .amazonprimelogo4-e461-cdcf6seeklogocom-KiXA7Q {
+  position            : relative;
+  width               : 300px;
+  height              : 187px;
+  transition          : all 0.2s ease-in-out;
+  margin-bottom       : 9.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .amazonprimelogo4-e461-cdcf6seeklogocom-KiXA7Q {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .amazonprimelogo4-e461-cdcf6seeklogocom-KiXA7Q {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .amazonprimelogo4-e461-cdcf6seeklogocom-KiXA7Q:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .audible4569533-qw2WkE {
+  position            : relative;
+  width               : 256px;
+  height              : 256px;
+  transition          : all 0.2s ease-in-out;
+  margin-left         : 61px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .audible4569533-qw2WkE {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .audible4569533-qw2WkE {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .audible4569533-qw2WkE:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : center;
+  width               : 1460px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-top          : 101px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .overlap-group-ukFPRM {
+  position            : relative;
+  width               : 1460px;
+  height              : 616px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .overlap-group-ukFPRM .rectangle4-M7PDzM {
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1460px;
+  height              : 616px;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .overlap-group-ukFPRM .rectangle4-M7PDzM video {
+  object-fit          : cover;
+  width               : 100%;
+  height              : 100%;
+}
+/* IE doesn't support cover  */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .overlap-group-ukFPRM .rectangle4-M7PDzM video {
+    min-width           : 100%;
+    min-height          : 100%;
+    position            : absolute;
+    margin              : auto;
+    top                 : -9999px;
+    bottom              : -9999px;
+    left                : -9999px;
+    right               : -9999px;
+  }
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .overlap-group-ukFPRM .listen-in-to-the-ex-G3SNhO {
+  position            : absolute;
+  top                 : 253px;
+  left                : 336px;
+  width               : auto;
+  height              : auto;
+  color               : #d0011b;
+  font                : 80.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 95.0px;
+  letter-spacing      : -0.46px;
+  text-align          : center;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .overlap-group-ukFPRM .listen-in-to-the-ex-G3SNhO {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .hear-what-experts-an-ItMxIk {
+  position            : relative;
+  width               : auto;
+  min-width           : 1121.65344238px;
+  height              : auto;
+  min-height          : 142px;
+  color               : #498fe1;
+  font                : 60.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.35px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 44px;
+  margin-left         : 13.65px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .hear-what-experts-an-ItMxIk {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .hear-what-experts-an-ItMxIk:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .buy-the-sounddeck-pr-GrTn0P {
+  position            : relative;
+  width               : auto;
+  min-width           : 1044.53796387px;
+  height              : auto;
+  min-height          : 95px;
+  color               : #7ed221;
+  font                : 80.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 95.0px;
+  letter-spacing      : -0.46px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 38px;
+  margin-left         : 0.54px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .buy-the-sounddeck-pr-GrTn0P {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .buy-the-sounddeck-pr-GrTn0P {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .buy-the-sounddeck-pr-GrTn0P:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 1344px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-top          : 98px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 431px;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 529px;
+  height              : auto;
+  align-self          : flex-start;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .our-company-14evq8 {
+  position            : relative;
+  width               : auto;
+  min-width           : 285.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .our-company-14evq8 {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .our-company-14evq8:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .blog-VqtU1Y {
+  position            : relative;
+  width               : auto;
+  min-width           : 94.4966659546px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 15px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .blog-VqtU1Y {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .blog-VqtU1Y:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .press-releases-and-n-sQjdzR {
+  position            : relative;
+  width               : auto;
+  min-width           : 526.496643066px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 19px;
+  margin-left         : 3.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .press-releases-and-n-sQjdzR {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .press-releases-and-n-sQjdzR:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .careers-bGuIkK {
+  position            : relative;
+  width               : auto;
+  min-width           : 164.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 13px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .careers-bGuIkK {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .careers-bGuIkK:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .responsibility-M8Ww9s {
+  position            : relative;
+  width               : auto;
+  min-width           : 293.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 20px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .responsibility-M8Ww9s {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .responsibility-M8Ww9s:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .innovation-VpM8vR {
+  position            : relative;
+  width               : auto;
+  min-width           : 217.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 14px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .innovation-VpM8vR {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .innovation-VpM8vR:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN {
+  position            : relative;
+  width               : 297px;
+  height              : 407px;
+  margin-left         : 145px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .certified-refurbishe-DwZLWd {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .certified-refurbishe-DwZLWd {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .certified-refurbishe-DwZLWd:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .student-partners-PEsaz1 {
+  position            : absolute;
+  top                 : 57px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .student-partners-PEsaz1 {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .student-partners-PEsaz1:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .investors-KzSMVn {
+  position            : absolute;
+  top                 : 117px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .investors-KzSMVn {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .investors-KzSMVn:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .developer-portal-LRFXY1 {
+  position            : absolute;
+  top                 : 178px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .developer-portal-LRFXY1 {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .developer-portal-LRFXY1:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .sign-up-for-newslett-H5S3lC {
+  position            : absolute;
+  top                 : 239px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .sign-up-for-newslett-H5S3lC {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .sign-up-for-newslett-H5S3lC:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .find-a-store-ZS1TiL {
+  position            : absolute;
+  top                 : 299px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .find-a-store-ZS1TiL {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .find-a-store-ZS1TiL:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 260px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-left         : 52px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .shipping-delivery-QLAka6 {
+  position            : relative;
+  width               : auto;
+  min-width           : 260.496673584px;
+  height              : auto;
+  min-height          : 36px;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .shipping-delivery-QLAka6 {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .shipping-delivery-QLAka6:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS {
+  position            : relative;
+  width               : 172px;
+  height              : 351px;
+  margin-top          : 21px;
+  margin-left         : 3.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .about-us-MQSXxR {
+  position            : absolute;
+  top                 : 60px;
+  left                : 2px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .about-us-MQSXxR {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .about-us-MQSXxR:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .security-Yu8wUg {
+  position            : absolute;
+  top                 : 121px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .security-Yu8wUg {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .security-Yu8wUg:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .conformity-rbSbWO {
+  position            : absolute;
+  top                 : 180px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .conformity-rbSbWO {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .conformity-rbSbWO:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .order-status-PnTN7g {
+  position            : absolute;
+  top                 : 0px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .order-status-PnTN7g {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .order-status-PnTN7g:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .trade-up-MC7fjh {
+  position            : absolute;
+  top                 : 243px;
+  left                : 2px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .trade-up-MC7fjh {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .trade-up-MC7fjh:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 50px;
+  align-self          : flex-end;
+  box-sizing          : border-box;
+  margin-top          : 16px;
+  margin-right        : 1.5px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .icons8facebook50-xLQ62N {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .icons8facebook50-xLQ62N {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .icons8facebook50-xLQ62N:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .icons8facebook50-xLQ62N .shape-Rur6ZA {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  box-sizing          : border-box;
+  margin-left         : 34px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8twitter50-8SviQC {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8twitter50-8SviQC {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8twitter50-8SviQC:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8twitter50-8SviQC .shape-3JssFK {
+  position            : relative;
+  width               : 61px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8youtube50-J8a8km {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  margin-left         : 28px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8youtube50-J8a8km {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8youtube50-J8a8km:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8youtube50-J8a8km .shape-hUD3jh {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8instagram50-b7xN1u {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  margin-left         : 33px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8instagram50-b7xN1u {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8instagram50-b7xN1u:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8instagram50-b7xN1u .shape-tlBP1b {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ {
+  position            : relative;
+  width               : 810px;
+  height              : 36px;
+  margin-left         : 162px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .lashell-noe-legal20-0FFK3o {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 810px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .lashell-noe-legal20-0FFK3o {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .lashell-noe-legal20-0FFK3o:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .privacy-statement-IzGWgV {
+  position            : absolute;
+  top                 : 0px;
+  left                : 382px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .privacy-statement-IzGWgV {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .privacy-statement-IzGWgV:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .site-map-W2J1yG {
+  position            : absolute;
+  top                 : 0px;
+  left                : 693px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .site-map-W2J1yG {
+  pointer-events      : auto;
+}
+.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .site-map-W2J1yG:hover {
+  text-decoration     : underline;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+* {
+  box-sizing          : border-box;
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}

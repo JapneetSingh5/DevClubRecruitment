@@ -1,0 +1,1819 @@
+
+@font-face {
+                          font-family: "SFProDisplay-Bold";
+                          src: url('../fonts/SF-Pro-Display-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Medium";
+                          src: url('../fonts/SF-Pro-Display-Medium.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Semibold";
+                          src: url('../fonts/SF-Pro-Text-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Heavy";
+                          src: url('../fonts/SF-Pro-Display-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Bold";
+                          src: url('../fonts/SF-Pro-Text-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Light";
+                          src: url('../fonts/SF-Pro-Text-Light.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Heavy";
+                          src: url('../fonts/SF-Pro-Text-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFCompactRounded-Heavy";
+                          src: url('../fonts/SF-Compact-Rounded-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Medium";
+                          src: url('../fonts/SF-Pro-Text-Medium.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Thin";
+                          src: url('../fonts/SF-Pro-Display-Thin.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Semibold";
+                          src: url('../fonts/SF-Pro-Display-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Regular";
+                          src: url('../fonts/SF-Pro-Display-Regular.otf') format("opentype");
+                        }
+                        
+.order-confirmation-NeoSpJ {
+  overflow            : hidden;
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : center;
+  margin              : 0px;
+  width               : 100%;
+  min-width           : 1440.0px;
+  height              : auto;
+  min-height          : 2000.0px;
+  background-color    : #000000;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing          : border-box;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-animate-enter152 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter152-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter152-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter152-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter152-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter152-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter152-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter152-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter152-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter153 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter153-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter153-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter153-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter153-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter153-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter153-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter153-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter153-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter154 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter154-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter154-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter154-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter154-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter154-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter154-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter154-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter154-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter155 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter155-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter155-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter155-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter155-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter155-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter155-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter155-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter155-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter156 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter156-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter156-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter156-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter156-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter156-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter156-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter156-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter156-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter157 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter157-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter157-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter157-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter157-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter157-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter157-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter157-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter157-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj {
+  position            : relative;
+  width               : 1460px;
+  height              : 108px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .rectangle-uQq979 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1460px;
+  height              : 108px;
+  background-color    : #000000;
+  border              : 1.0px solid #969696;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .group9-EApfqv {
+  position            : absolute;
+  top                 : 21px;
+  left                : 1372px;
+  width               : 69px;
+  height              : 69px;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .group9-EApfqv {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .group9-EApfqv:hover {
+  transform           : scale(1.1);
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .group9-EApfqv .oval-TbfkRd {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 69px;
+  height              : 69px;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .group9-EApfqv .oval2-C5P3pK {
+  position            : absolute;
+  top                 : 9px;
+  left                : 9px;
+  width               : 50px;
+  height              : 50px;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .group9-EApfqv .oval3-b030r7 {
+  position            : absolute;
+  top                 : 18px;
+  left                : 23px;
+  width               : 23px;
+  height              : 23px;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .group9-EApfqv .oval4-U5U42K {
+  position            : absolute;
+  top                 : 47px;
+  left                : 9px;
+  width               : 50px;
+  height              : 18px;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .group10-UfYduu {
+  position            : absolute;
+  top                 : 19px;
+  left                : 1244px;
+  width               : 86px;
+  height              : 77px;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .group10-UfYduu {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .group10-UfYduu:hover {
+  transform           : scale(1.1);
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .group10-UfYduu .shoppingcartpngrepocom-hBqV3n {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 77px;
+  height              : 77px;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .group10-UfYduu .glyphs-notification-icon-rl0DgH {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 9px;
+  left                : 66px;
+  width               : auto;
+  height              : 20px;
+  box-sizing          : border-box;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .group10-UfYduu .glyphs-notification-icon-rl0DgH .app-icon-lB9sbz {
+  position            : relative;
+  width               : 20px;
+  height              : 20px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .group10-UfYduu .a1-k5GWy4 {
+  position            : absolute;
+  top                 : 9px;
+  left                : 72px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 16.0px "SFCompactRounded-Heavy", Helvetica, Arial, serif;
+  line-height         : 19.0px;
+  letter-spacing      : -0.24px;
+  text-align          : center;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .glyphs-search-uAEvUi {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 20px;
+  left                : 1128px;
+  width               : auto;
+  height              : 74px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .glyphs-search-uAEvUi {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .glyphs-search-uAEvUi {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .glyphs-search-uAEvUi:hover {
+  transform           : scale(1.1);
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .glyphs-search-uAEvUi .search-NHSWGj {
+  position            : relative;
+  width               : 74px;
+  height              : 74px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .a-bout-zY7DSk {
+  position            : absolute;
+  top                 : 37px;
+  left                : 909px;
+  width               : 182px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 25.0px;
+  letter-spacing      : -0.15px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .a-bout-zY7DSk {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .a-bout-zY7DSk:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .a-bout-zY7DSk .span1-cRWQfz {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 48.0px;
+  letter-spacing      : 0.0px;
+}
+.order-confirmation-NeoSpJ .a-bout-zY7DSk .span2-kaV3tD {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-size           : 25.0px;
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 30.0px;
+  letter-spacing      : 0.0px;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .s-hop-iiKiRj {
+  position            : absolute;
+  top                 : 37px;
+  left                : 747px;
+  width               : 138px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .s-hop-iiKiRj {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .s-hop-iiKiRj:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .s-hop-iiKiRj .span1-vC3o9z {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.order-confirmation-NeoSpJ .s-hop-iiKiRj .span2-1bYVkw {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .s-peakers-WSJQGx {
+  position            : absolute;
+  top                 : 36px;
+  left                : 489px;
+  width               : 224px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.24px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .s-peakers-WSJQGx {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .s-peakers-WSJQGx:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .s-peakers-WSJQGx .span1-ovWMTn {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.order-confirmation-NeoSpJ .s-peakers-WSJQGx .span2-xVmcfk {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : -0.16px;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .screen-shot20200320-at12554-am-HxRlAz {
+  position            : absolute;
+  top                 : 22px;
+  left                : 12px;
+  width               : 430px;
+  height              : 70px;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .screen-shot20200320-at12554-am-HxRlAz {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .screen-shot20200320-at12554-am-HxRlAz:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .line-CKKERg {
+  position            : absolute;
+  top                 : 92px;
+  left                : 746px;
+  width               : 144px;
+  height              : 6px;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .line-CKKERg {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .overlap-group1-hTT6mj .line-CKKERg:hover {
+  transform           : translate(0, -5px);
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd {
+  position            : relative;
+  width               : 1417px;
+  height              : 1309px;
+  margin-top          : 21px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .rectangle11-NHYr39 {
+  position            : absolute;
+  top                 : 157px;
+  left                : 16px;
+  width               : 1385px;
+  height              : 1152px;
+  background-color    : #ffffff;
+  border              : 10.0px solid #000000;
+  border-radius       : 37.0px;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .group5-Pc6wyo {
+  position            : absolute;
+  top                 : 72px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 103px;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .group5-Pc6wyo .rectangle51-2Asz8E {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 64px;
+  background-color    : #000000;
+  border-radius       : 29.0px;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .group5-Pc6wyo .rectangle62-iu2w0d {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .group5-Pc6wyo .rectangle611-XX1s8a {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .group5-Pc6wyo .sounddeck-pro-zl7Rw1 {
+  position            : absolute;
+  top                 : 7px;
+  left                : 28px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .group5-Pc6wyo .tech-specs-2rfu5G {
+  position            : absolute;
+  top                 : 7px;
+  left                : 777px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .rectangle5-rIYjbJ {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 64px;
+  background-color    : #000000;
+  border-radius       : 29.0px;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .rectangle6-O9ddrK {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .rectangle3-hHSDkN {
+  position            : absolute;
+  top                 : 82px;
+  left                : 1103px;
+  width               : 303px;
+  height              : 41px;
+  background-color    : #000000;
+  border-radius       : 20.5px;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .buy-now-bmhOos {
+  position            : absolute;
+  top                 : 82px;
+  left                : 1178px;
+  width               : 153px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 36.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.13px;
+  text-align          : left;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .rectangle61-RDUCzf {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .rectangle31-qjVyNo {
+  position            : absolute;
+  top                 : 11px;
+  left                : 13px;
+  width               : 334px;
+  height              : 41px;
+  background-color    : #060606;
+  border-radius       : 20.5px;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .collection-nnZzwi {
+  position            : absolute;
+  top                 : 8px;
+  left                : 78px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .accessories-ALugnr {
+  position            : absolute;
+  top                 : 7px;
+  left                : 425px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .pro-components-rmJT7X {
+  position            : absolute;
+  top                 : 7px;
+  left                : 738px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .compare-qcHF8b {
+  position            : absolute;
+  top                 : 7px;
+  left                : 1140px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .thankyou-your-order-FGFyRu {
+  position            : absolute;
+  top                 : 217px;
+  left                : 129px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 60.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 71.0px;
+  letter-spacing      : -0.22px;
+  text-align          : center;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .browse-for-more-prod-Vnuijj {
+  position            : absolute;
+  top                 : 405px;
+  left                : 234px;
+  width               : auto;
+  height              : auto;
+  color               : #7ed221;
+  font                : 80.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 95.0px;
+  letter-spacing      : -0.3px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .browse-for-more-prod-Vnuijj {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .browse-for-more-prod-Vnuijj {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .browse-for-more-prod-Vnuijj:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .browse-sounddeck-pro-4S3BYL {
+  position            : absolute;
+  top                 : 656px;
+  left                : 277px;
+  width               : auto;
+  height              : auto;
+  color               : #7ed221;
+  font                : 80.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 95.0px;
+  letter-spacing      : -0.3px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .browse-sounddeck-pro-4S3BYL {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .browse-sounddeck-pro-4S3BYL {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .browse-sounddeck-pro-4S3BYL:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .go-back-to-sounddeck-KIYcJt {
+  position            : absolute;
+  top                 : 931px;
+  left                : 78px;
+  width               : auto;
+  height              : auto;
+  color               : #498fe1;
+  font                : 80.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 95.0px;
+  letter-spacing      : -0.3px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .go-back-to-sounddeck-KIYcJt {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .go-back-to-sounddeck-KIYcJt {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .go-back-to-sounddeck-KIYcJt:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .go-back-to-lashell-n-xTqd4l {
+  position            : absolute;
+  top                 : 1122px;
+  left                : 128px;
+  width               : auto;
+  height              : auto;
+  color               : #498fe1;
+  font                : 80.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 95.0px;
+  letter-spacing      : -0.3px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .go-back-to-lashell-n-xTqd4l {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .go-back-to-lashell-n-xTqd4l {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .overlap-group-QkAxZd .go-back-to-lashell-n-xTqd4l:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 1344px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-top          : 35px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 431px;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 529px;
+  height              : auto;
+  align-self          : flex-start;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .our-company-GuVhmK {
+  position            : relative;
+  width               : auto;
+  min-width           : 285.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .our-company-GuVhmK {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .our-company-GuVhmK:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .blog-PschDo {
+  position            : relative;
+  width               : auto;
+  min-width           : 94.4966659546px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 15px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .blog-PschDo {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .blog-PschDo:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .press-releases-and-n-u9iAWo {
+  position            : relative;
+  width               : auto;
+  min-width           : 526.496643066px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 19px;
+  margin-left         : 3.0px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .press-releases-and-n-u9iAWo {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .press-releases-and-n-u9iAWo:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .careers-InVnwJ {
+  position            : relative;
+  width               : auto;
+  min-width           : 164.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 13px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .careers-InVnwJ {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .careers-InVnwJ:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .responsibility-EmUd3D {
+  position            : relative;
+  width               : auto;
+  min-width           : 293.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 20px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .responsibility-EmUd3D {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .responsibility-EmUd3D:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .innovation-aCjWvS {
+  position            : relative;
+  width               : auto;
+  min-width           : 217.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 14px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .innovation-aCjWvS {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex2-2TesNB .innovation-aCjWvS:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk {
+  position            : relative;
+  width               : 297px;
+  height              : 407px;
+  margin-left         : 145px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .certified-refurbishe-YGIlz3 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .certified-refurbishe-YGIlz3 {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .certified-refurbishe-YGIlz3:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .student-partners-6cKFtL {
+  position            : absolute;
+  top                 : 57px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .student-partners-6cKFtL {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .student-partners-6cKFtL:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .investors-Wl3n9x {
+  position            : absolute;
+  top                 : 117px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .investors-Wl3n9x {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .investors-Wl3n9x:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .developer-portal-QCYulz {
+  position            : absolute;
+  top                 : 178px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .developer-portal-QCYulz {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .developer-portal-QCYulz:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .sign-up-for-newslett-GmtkTJ {
+  position            : absolute;
+  top                 : 239px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .sign-up-for-newslett-GmtkTJ {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .sign-up-for-newslett-GmtkTJ:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .find-a-store-h1CbwZ {
+  position            : absolute;
+  top                 : 299px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .find-a-store-h1CbwZ {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .overlap-group2-3Hoddk .find-a-store-h1CbwZ:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 260px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-left         : 52px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .shipping-delivery-NnLU6y {
+  position            : relative;
+  width               : auto;
+  min-width           : 260.496673584px;
+  height              : auto;
+  min-height          : 36px;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .shipping-delivery-NnLU6y {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .shipping-delivery-NnLU6y:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX {
+  position            : relative;
+  width               : 172px;
+  height              : 351px;
+  margin-top          : 21px;
+  margin-left         : 3.0px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .about-us-STGLqA {
+  position            : absolute;
+  top                 : 60px;
+  left                : 2px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .about-us-STGLqA {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .about-us-STGLqA:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .security-NNx6e5 {
+  position            : absolute;
+  top                 : 121px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .security-NNx6e5 {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .security-NNx6e5:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .conformity-obu998 {
+  position            : absolute;
+  top                 : 180px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .conformity-obu998 {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .conformity-obu998:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .order-status-pBd8AX {
+  position            : absolute;
+  top                 : 0px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .order-status-pBd8AX {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .order-status-pBd8AX:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .trade-up-6c8uRw {
+  position            : absolute;
+  top                 : 243px;
+  left                : 2px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .trade-up-6c8uRw {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex3-pcxLC6 .auto-flex1-MEhUx1 .overlap-group3-C8SqeX .trade-up-6c8uRw:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 50px;
+  align-self          : flex-end;
+  box-sizing          : border-box;
+  margin-top          : 16px;
+  margin-right        : 1.5px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .icons8facebook50-AzxNzG {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .icons8facebook50-AzxNzG {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .icons8facebook50-AzxNzG:hover {
+  transform           : scale(1.1);
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .icons8facebook50-AzxNzG .shape-zEluJo {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .group3-HmV6tn {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  box-sizing          : border-box;
+  margin-left         : 34px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .group3-HmV6tn .icons8twitter50-v98TI7 {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .group3-HmV6tn .icons8twitter50-v98TI7 {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .group3-HmV6tn .icons8twitter50-v98TI7:hover {
+  transform           : scale(1.1);
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .group3-HmV6tn .icons8twitter50-v98TI7 .shape-QxQrdd {
+  position            : relative;
+  width               : 61px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .group3-HmV6tn .icons8youtube50-CyuNQn {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  margin-left         : 28px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .group3-HmV6tn .icons8youtube50-CyuNQn {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .group3-HmV6tn .icons8youtube50-CyuNQn:hover {
+  transform           : scale(1.1);
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .group3-HmV6tn .icons8youtube50-CyuNQn .shape-42xWIp {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .group3-HmV6tn .icons8instagram50-vPRmIv {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  margin-left         : 33px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .group3-HmV6tn .icons8instagram50-vPRmIv {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .group3-HmV6tn .icons8instagram50-vPRmIv:hover {
+  transform           : scale(1.1);
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .group3-HmV6tn .icons8instagram50-vPRmIv .shape-0lhvmJ {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .overlap-group4-iGkhSM {
+  position            : relative;
+  width               : 810px;
+  height              : 36px;
+  margin-left         : 162px;
+  flex-shrink         : 0;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .overlap-group4-iGkhSM .lashell-noe-legal20-vwdc7n {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 810px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .overlap-group4-iGkhSM .lashell-noe-legal20-vwdc7n {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .overlap-group4-iGkhSM .lashell-noe-legal20-vwdc7n:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .overlap-group4-iGkhSM .privacy-statement-As7MLW {
+  position            : absolute;
+  top                 : 0px;
+  left                : 382px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .overlap-group4-iGkhSM .privacy-statement-As7MLW {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .overlap-group4-iGkhSM .privacy-statement-As7MLW:hover {
+  text-decoration     : underline;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .overlap-group4-iGkhSM .site-map-uPWhgU {
+  position            : absolute;
+  top                 : 0px;
+  left                : 693px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .overlap-group4-iGkhSM .site-map-uPWhgU {
+  pointer-events      : auto;
+}
+.order-confirmation-NeoSpJ .group-c7IPQU .auto-flex-senKGo .overlap-group4-iGkhSM .site-map-uPWhgU:hover {
+  text-decoration     : underline;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+* {
+  box-sizing          : border-box;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}

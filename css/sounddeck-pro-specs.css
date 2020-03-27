@@ -1,0 +1,1845 @@
+
+@font-face {
+                          font-family: "SFProDisplay-Bold";
+                          src: url('../fonts/SF-Pro-Display-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Medium";
+                          src: url('../fonts/SF-Pro-Display-Medium.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Semibold";
+                          src: url('../fonts/SF-Pro-Text-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Heavy";
+                          src: url('../fonts/SF-Pro-Display-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Bold";
+                          src: url('../fonts/SF-Pro-Text-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Light";
+                          src: url('../fonts/SF-Pro-Text-Light.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Heavy";
+                          src: url('../fonts/SF-Pro-Text-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFCompactRounded-Heavy";
+                          src: url('../fonts/SF-Compact-Rounded-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Medium";
+                          src: url('../fonts/SF-Pro-Text-Medium.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Thin";
+                          src: url('../fonts/SF-Pro-Display-Thin.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Semibold";
+                          src: url('../fonts/SF-Pro-Display-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Regular";
+                          src: url('../fonts/SF-Pro-Display-Regular.otf') format("opentype");
+                        }
+                        
+.sounddeck-pro-specs-YcVjDc {
+  overflow            : hidden;
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : center;
+  margin              : 0px;
+  padding             : 1.0px 0;
+  width               : 100%;
+  min-width           : 1460.0px;
+  height              : auto;
+  min-height          : 4000.0px;
+  background-color    : #3c3b3b;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing          : border-box;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-animate-enter55 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter55-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter55-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter55-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter55-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter55-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter55-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter55-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter55-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter56 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter56-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter56-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter56-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter56-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter56-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter56-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter56-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter56-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo {
+  position            : relative;
+  width               : 1460px;
+  height              : 108px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .rectangle-kUUQym {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1460px;
+  height              : 108px;
+  background-color    : #000000;
+  border              : 1.0px solid #969696;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .line-oV2VDi {
+  position            : absolute;
+  top                 : 93px;
+  left                : 487px;
+  width               : 222px;
+  height              : 5px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .line-oV2VDi {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .line-oV2VDi:hover {
+  transform           : translate(0, -5px);
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .screen-shot20200320-at12554-am-UAAQhp {
+  position            : absolute;
+  top                 : 21px;
+  left                : 6px;
+  width               : 430px;
+  height              : 70px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .screen-shot20200320-at12554-am-UAAQhp {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .screen-shot20200320-at12554-am-UAAQhp:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .s-peakers-XPSsOp {
+  position            : absolute;
+  top                 : 35px;
+  left                : 483px;
+  width               : 224px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.24px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .s-peakers-XPSsOp {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .s-peakers-XPSsOp:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .s-peakers-XPSsOp .span1-OZX98Q {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-specs-YcVjDc .s-peakers-XPSsOp .span2-2KNlZ9 {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : -0.16px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .s-hop-or8ezj {
+  position            : absolute;
+  top                 : 36px;
+  left                : 741px;
+  width               : 138px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .s-hop-or8ezj {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .s-hop-or8ezj:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .s-hop-or8ezj .span1-nX8uOp {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-specs-YcVjDc .s-hop-or8ezj .span2-h2N6xV {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .a-bout-Uql76v {
+  position            : absolute;
+  top                 : 36px;
+  left                : 903px;
+  width               : 182px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProText-Heavy", Helvetica, Arial, serif;
+  line-height         : 25.0px;
+  letter-spacing      : -0.15px;
+  text-align          : center;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .a-bout-Uql76v {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .a-bout-Uql76v:hover {
+  transform           : translate(0, -5px);
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .a-bout-Uql76v .span1-IlPLoR {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 48.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-specs-YcVjDc .a-bout-Uql76v .span2-wKWDF4 {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-size           : 25.0px;
+  font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 30.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group9-pdEacX {
+  position            : absolute;
+  top                 : 20px;
+  left                : 1366px;
+  width               : 69px;
+  height              : 69px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group9-pdEacX {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group9-pdEacX:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group9-pdEacX .oval-DPYh5t {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 69px;
+  height              : 69px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group9-pdEacX .oval2-9f1GBx {
+  position            : absolute;
+  top                 : 9px;
+  left                : 9px;
+  width               : 50px;
+  height              : 50px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group9-pdEacX .oval3-bdcTUt {
+  position            : absolute;
+  top                 : 18px;
+  left                : 23px;
+  width               : 23px;
+  height              : 23px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group9-pdEacX .oval4-dgAxEU {
+  position            : absolute;
+  top                 : 47px;
+  left                : 9px;
+  width               : 50px;
+  height              : 18px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .glyphs-search-EmCqys {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 19px;
+  left                : 1122px;
+  width               : auto;
+  height              : 74px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .glyphs-search-EmCqys {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .glyphs-search-EmCqys {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .glyphs-search-EmCqys:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .glyphs-search-EmCqys .search-KQupom {
+  position            : relative;
+  width               : 74px;
+  height              : 74px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group10-RsmDoa {
+  position            : absolute;
+  top                 : 18px;
+  left                : 1238px;
+  width               : 86px;
+  height              : 77px;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group10-RsmDoa {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group10-RsmDoa:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group10-RsmDoa .shoppingcartpngrepocom-yfdCAY {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 77px;
+  height              : 77px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group10-RsmDoa .glyphs-notification-icon-CWzdlK {
+  position            : absolute;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  top                 : 9px;
+  left                : 66px;
+  width               : auto;
+  height              : 20px;
+  box-sizing          : border-box;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group10-RsmDoa .glyphs-notification-icon-CWzdlK .app-icon-bq3ozG {
+  position            : relative;
+  width               : 20px;
+  height              : 20px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group10-RsmDoa .a1-iy0pJ2 {
+  position            : absolute;
+  top                 : 9px;
+  left                : 72px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 16.0px "SFCompactRounded-Heavy", Helvetica, Arial, serif;
+  line-height         : 19.0px;
+  letter-spacing      : -0.24px;
+  text-align          : center;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 {
+  position            : relative;
+  width               : 1418px;
+  height              : 3293px;
+  margin-top          : 12px;
+  margin-left         : 2.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group5-Vf0cEu {
+  position            : absolute;
+  top                 : 71px;
+  left                : 1px;
+  width               : 1417px;
+  height              : 103px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group5-Vf0cEu .rectangle5-OnWjWq {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 64px;
+  background-color    : #000000;
+  border-radius       : 29.0px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group5-Vf0cEu .rectangle6-qZlScw {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group5-Vf0cEu .rectangle61-eFcnMB {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group5-Vf0cEu .sounddeck-pro-x99Fmo {
+  position            : absolute;
+  top                 : 7px;
+  left                : 28px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group5-Vf0cEu .rectangle3-E4IuVx {
+  position            : absolute;
+  top                 : 11px;
+  left                : 709px;
+  width               : 334px;
+  height              : 41px;
+  background-color    : #060606;
+  border-radius       : 20.5px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group5-Vf0cEu .tech-specs-Cbx0oy {
+  position            : absolute;
+  top                 : 7px;
+  left                : 777px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 123px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .rectangle5-GhGW7I {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 1417px;
+  height              : 64px;
+  background-color    : #000000;
+  border-radius       : 29.0px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .rectangle6-SiSvYY {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .rectangle3-m26Y3C {
+  position            : absolute;
+  top                 : 82px;
+  left                : 1103px;
+  width               : 303px;
+  height              : 41px;
+  background-color    : #7ed221;
+  border-radius       : 20.5px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .rectangle61-sxjh2W {
+  position            : absolute;
+  top                 : 6px;
+  left                : 7px;
+  width               : 1403px;
+  height              : 50px;
+  background-color    : #ffffff;
+  border-radius       : 25.0px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .rectangle31-k3rYMl {
+  position            : absolute;
+  top                 : 11px;
+  left                : 13px;
+  width               : 334px;
+  height              : 41px;
+  background-color    : #060606;
+  border-radius       : 20.5px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .collection-MCDv7w {
+  position            : absolute;
+  top                 : 8px;
+  left                : 78px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 40.0px "SFProDisplay-Heavy", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .accessories-4RfNpG {
+  position            : absolute;
+  top                 : 7px;
+  left                : 425px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .pro-components-nTN2Ai {
+  position            : absolute;
+  top                 : 7px;
+  left                : 738px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .compare-ssOjHB {
+  position            : absolute;
+  top                 : 7px;
+  left                : 1140px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .buy-now-aG0ZTF {
+  position            : absolute;
+  top                 : 80px;
+  left                : 1193px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 36.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.13px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .rectangle11-D2Uosl {
+  position            : absolute;
+  top                 : 157px;
+  left                : 13px;
+  width               : 1385px;
+  height              : 3136px;
+  background-color    : #ffffff;
+  border              : 10.0px solid #000000;
+  border-radius       : 37.0px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .learn-more-xVXD8K {
+  position            : absolute;
+  top                 : 1901px;
+  left                : 562px;
+  width               : auto;
+  height              : auto;
+  color               : #498fe1;
+  font                : 36.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .learn-more-xVXD8K {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .learn-more-xVXD8K:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .features-include-to-1P5JIF {
+  position            : absolute;
+  top                 : 1679px;
+  left                : 556px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 36.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .ios111-and-above-a-XxeyYo {
+  position            : absolute;
+  top                 : 2045px;
+  left                : 590px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 36.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line-voltage100-vt-7MfCaZ {
+  position            : absolute;
+  top                 : 2447px;
+  left                : 583px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 36.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .colours-oawdeK {
+  position            : absolute;
+  top                 : 263px;
+  left                : 75px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .price-FLCutg {
+  position            : absolute;
+  top                 : 433px;
+  left                : 76px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line2-lSWsO1 {
+  position            : absolute;
+  top                 : 499px;
+  left                : 76px;
+  width               : 1265px;
+  height              : 4px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line21-13SS7o {
+  position            : absolute;
+  top                 : 393px;
+  left                : 76px;
+  width               : 1265px;
+  height              : 4px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line22-J8XErl {
+  position            : absolute;
+  top                 : 815px;
+  left                : 76px;
+  width               : 1265px;
+  height              : 4px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line23-glaHAd {
+  position            : absolute;
+  top                 : 1237px;
+  left                : 90px;
+  width               : 1265px;
+  height              : 4px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line24-RGUTTk {
+  position            : absolute;
+  top                 : 1615px;
+  left                : 90px;
+  width               : 1265px;
+  height              : 4px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line25-wlsMTS {
+  position            : absolute;
+  top                 : 1963px;
+  left                : 90px;
+  width               : 1265px;
+  height              : 4px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line26-7VaJDi {
+  position            : absolute;
+  top                 : 2368px;
+  left                : 90px;
+  width               : 1265px;
+  height              : 4px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .size-and-weight-eh8dNb {
+  position            : absolute;
+  top                 : 554px;
+  left                : 77px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .audio-specifications-2Zh6e2 {
+  position            : absolute;
+  top                 : 880px;
+  left                : 77px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .supported-audio-form-NSHlJ1 {
+  position            : absolute;
+  top                 : 1302px;
+  left                : 77px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .accesibility-Yrzn36 {
+  position            : absolute;
+  top                 : 1679px;
+  left                : 77px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .os-and-app-compatibi-0h5Qmw {
+  position            : absolute;
+  top                 : 2038px;
+  left                : 77px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .os-and-app-compatibi1-oFdePh {
+  position            : absolute;
+  top                 : 2038px;
+  left                : 77px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .electrical-and-usage-oJUtcl {
+  position            : absolute;
+  top                 : 2443px;
+  left                : 75px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Bold", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .a399-for-solo-1bHoF6 {
+  position            : absolute;
+  top                 : 433px;
+  left                : 479px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .a749-for-duo-GVsqHi {
+  position            : absolute;
+  top                 : 433px;
+  left                : 878px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .screen-shot20200326at12removebgpreview-GWwBcJ {
+  position            : absolute;
+  top                 : 215px;
+  left                : 1040px;
+  width               : 126px;
+  height              : 151px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .screen-shot20200326at12removebgpreview1-taBvTF {
+  position            : absolute;
+  top                 : 215px;
+  left                : 626px;
+  width               : 126px;
+  height              : 151px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .space-black-liBCUG {
+  position            : absolute;
+  top                 : 263px;
+  left                : 385px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .dimensions172-mm1-VVxqd7 {
+  position            : absolute;
+  top                 : 554px;
+  left                : 505px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .dimensions172-mm1-VVxqd7 .span1-keHa5s {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-specs-YcVjDc .dimensions172-mm1-VVxqd7 .span2-LyPU07 {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-specs-YcVjDc .dimensions172-mm1-VVxqd7 .span3-JwawlF {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .high-excursion-woofe-eXOR01 {
+  position            : absolute;
+  top                 : 884px;
+  left                : 562px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 36.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .he-aac-v1-aac16-Su7Xdw {
+  position            : absolute;
+  top                 : 1306px;
+  left                : 572px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 36.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .weight25-kg-uzH3tE {
+  position            : absolute;
+  top                 : 554px;
+  left                : 933px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .weight25-kg-uzH3tE .span1-LhQUNM {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-specs-YcVjDc .weight25-kg-uzH3tE .span2-dvwrq9 {
+  background-color    : rgba(65025, 65025, 65025, 0);
+  font-family         : "SFProDisplay-Thin", Helvetica, Arial, serif;
+  line-height         : 0.0px;
+  letter-spacing      : 0.0px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .pearl-white-vZQoex {
+  position            : absolute;
+  top                 : 263px;
+  left                : 826px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 40.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 48.0px;
+  letter-spacing      : -0.15px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .rectangle12-1LvzSQ {
+  position            : absolute;
+  top                 : 2716px;
+  left                : 78px;
+  width               : 1261px;
+  height              : 525px;
+  background-color    : #f2ffe5;
+  border-radius       : 24.0px;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .lahell-noe-takes-ac-U6kbu0 {
+  position            : absolute;
+  top                 : 2817px;
+  left                : 120px;
+  width               : 771px;
+  height              : auto;
+  color               : #9b9a9b;
+  font                : 48.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 58.0px;
+  letter-spacing      : -0.35px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .all-our-products-mee-GZ79QQ {
+  position            : absolute;
+  top                 : 2998px;
+  left                : 120px;
+  width               : auto;
+  height              : auto;
+  color               : #000000;
+  font                : 36.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.26px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .lashell-noe-and-the-EjrLRs {
+  position            : absolute;
+  top                 : 2737px;
+  left                : 119px;
+  width               : auto;
+  height              : auto;
+  color               : #7ed221;
+  font                : 64.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 76.0px;
+  letter-spacing      : -0.26px;
+  text-align          : left;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .unnamed-SYcqQn {
+  position            : absolute;
+  top                 : 2942px;
+  left                : 990px;
+  width               : 290px;
+  height              : 204px;
+  transform           : rotate(-16deg);
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .learn-more1-pirp8d {
+  position            : absolute;
+  top                 : 2946px;
+  left                : 708px;
+  width               : auto;
+  height              : auto;
+  color               : #498fe1;
+  font                : 36.0px "SFProDisplay-Medium", Helvetica, Arial, serif;
+  line-height         : 43.0px;
+  letter-spacing      : -0.26px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .learn-more1-pirp8d {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .learn-more1-pirp8d:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 1344px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-top          : 60px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 431px;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 529px;
+  height              : auto;
+  align-self          : flex-start;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .our-company-hFbsXm {
+  position            : relative;
+  width               : auto;
+  min-width           : 285.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .our-company-hFbsXm {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .our-company-hFbsXm:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .blog-zh712X {
+  position            : relative;
+  width               : auto;
+  min-width           : 94.4966659546px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 15px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .blog-zh712X {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .blog-zh712X:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .press-releases-and-n-q89Zv3 {
+  position            : relative;
+  width               : auto;
+  min-width           : 526.496643066px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 19px;
+  margin-left         : 3.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .press-releases-and-n-q89Zv3 {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .press-releases-and-n-q89Zv3:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .careers-mInhjp {
+  position            : relative;
+  width               : auto;
+  min-width           : 164.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 13px;
+  margin-left         : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .careers-mInhjp {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .careers-mInhjp:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .responsibility-bafcZH {
+  position            : relative;
+  width               : auto;
+  min-width           : 293.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 20px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .responsibility-bafcZH {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .responsibility-bafcZH:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .innovation-AFd3mm {
+  position            : relative;
+  width               : auto;
+  min-width           : 217.496673584px;
+  height              : auto;
+  min-height          : 53px;
+  color               : #ffffff;
+  font                : 44.0px "SFProText-Bold", Helvetica, Arial, serif;
+  line-height         : 53.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  margin-top          : 14px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .innovation-AFd3mm {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .innovation-AFd3mm:hover {
+  transform           : scale(1.1);
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ {
+  position            : relative;
+  width               : 297px;
+  height              : 407px;
+  margin-left         : 145px;
+  margin-bottom       : 1.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .certified-refurbishe-shJdsy {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .certified-refurbishe-shJdsy {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .certified-refurbishe-shJdsy:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .student-partners-0GaU70 {
+  position            : absolute;
+  top                 : 57px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .student-partners-0GaU70 {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .student-partners-0GaU70:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .investors-1V27R7 {
+  position            : absolute;
+  top                 : 117px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .investors-1V27R7 {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .investors-1V27R7:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .developer-portal-bFX4vw {
+  position            : absolute;
+  top                 : 178px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .developer-portal-bFX4vw {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .developer-portal-bFX4vw:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .sign-up-for-newslett-0skSYf {
+  position            : absolute;
+  top                 : 239px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .sign-up-for-newslett-0skSYf {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .sign-up-for-newslett-0skSYf:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .find-a-store-iqLVn7 {
+  position            : absolute;
+  top                 : 299px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .find-a-store-iqLVn7 {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .find-a-store-iqLVn7:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx {
+  position            : relative;
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : 260px;
+  height              : auto;
+  box-sizing          : border-box;
+  margin-left         : 52px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .shipping-delivery-8k2sWX {
+  position            : relative;
+  width               : auto;
+  min-width           : 260.496673584px;
+  height              : auto;
+  min-height          : 36px;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .shipping-delivery-8k2sWX {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .shipping-delivery-8k2sWX:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 {
+  position            : relative;
+  width               : 172px;
+  height              : 351px;
+  margin-top          : 21px;
+  margin-left         : 3.0px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .about-us-jakawc {
+  position            : absolute;
+  top                 : 60px;
+  left                : 2px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .about-us-jakawc {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .about-us-jakawc:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .security-VOzvNf {
+  position            : absolute;
+  top                 : 121px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .security-VOzvNf {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .security-VOzvNf:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .conformity-jf4hml {
+  position            : absolute;
+  top                 : 180px;
+  left                : 0px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .conformity-jf4hml {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .conformity-jf4hml:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .order-status-yRi9w4 {
+  position            : absolute;
+  top                 : 0px;
+  left                : 1px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .order-status-yRi9w4 {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .order-status-yRi9w4:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .trade-up-oOnLzK {
+  position            : absolute;
+  top                 : 243px;
+  left                : 2px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Semibold", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .trade-up-oOnLzK {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .trade-up-oOnLzK:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-end;
+  width               : auto;
+  height              : 50px;
+  align-self          : flex-end;
+  box-sizing          : border-box;
+  margin-top          : 16px;
+  margin-right        : 1.5px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .icons8facebook50-KDwNYS {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .icons8facebook50-KDwNYS {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .icons8facebook50-KDwNYS:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .icons8facebook50-KDwNYS .shape-LhCp0d {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  box-sizing          : border-box;
+  margin-left         : 34px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8twitter50-rb94wH {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8twitter50-rb94wH {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8twitter50-rb94wH:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8twitter50-rb94wH .shape-px9doT {
+  position            : relative;
+  width               : 61px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8youtube50-NL369S {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  margin-left         : 28px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8youtube50-NL369S {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8youtube50-NL369S:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8youtube50-NL369S .shape-IeJyZF {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8instagram50-FAk58F {
+  position            : relative;
+  display             : inline-flex;
+  flex-direction      : row;
+  justify-content     : flex-start;
+  align-items         : flex-start;
+  width               : auto;
+  height              : 50px;
+  transition          : all 0.2s ease-in-out;
+  box-sizing          : border-box;
+  margin-left         : 33px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8instagram50-FAk58F {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8instagram50-FAk58F:hover {
+  transform           : scale(1.1);
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8instagram50-FAk58F .shape-xWTIRU {
+  position            : relative;
+  width               : 50px;
+  height              : 50px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb {
+  position            : relative;
+  width               : 810px;
+  height              : 36px;
+  margin-left         : 162px;
+  flex-shrink         : 0;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .lashell-noe-legal20-Nwlmpj {
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  width               : 810px;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .lashell-noe-legal20-Nwlmpj {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .lashell-noe-legal20-Nwlmpj:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .privacy-statement-6ipxMK {
+  position            : absolute;
+  top                 : 0px;
+  left                : 382px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in-out;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .privacy-statement-6ipxMK {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .privacy-statement-6ipxMK:hover {
+  text-decoration     : underline;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .site-map-5nbMnI {
+  position            : absolute;
+  top                 : 0px;
+  left                : 693px;
+  width               : auto;
+  height              : auto;
+  color               : #ffffff;
+  font                : 30.0px "SFProText-Light", Helvetica, Arial, serif;
+  line-height         : 36.0px;
+  letter-spacing      : -1.5px;
+  text-align          : left;
+  transition          : all 0.2s ease-in;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .site-map-5nbMnI {
+  pointer-events      : auto;
+}
+.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .site-map-5nbMnI:hover {
+  text-decoration     : underline;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+* {
+  box-sizing          : border-box;
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
