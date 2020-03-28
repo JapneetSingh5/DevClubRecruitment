@@ -3,11 +3,12 @@
 
 This is webapp for a fictional company that makes speakers and audio equipment,
 Lahell&Noe.
+Visit [lashellnoe.herokuapp.com](https://www.lashellnoe.herokuapp.com)
 
 ## TECHNOLOGIES AND SOFTWARES USED
 HTML5   CSS     JavaScript
-[Sketch]: sketch.com
+[Sketch](https://sketch.com)
 
-The website is hosted via Heroku App @ [lashellnoe.herokuapp.com]
+The website is hosted via Heroku App @ [Lashell&Noe](https://www.lashellnoe.herokuapp.com)
 
 
