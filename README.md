@@ -2,7 +2,7 @@
 ## by Japneet Singh 2019MT10696 IIT Delhi
 
 This is webapp for a fictional company that makes speakers and audio equipment,
-Lahell&Noe.
+Lashell&Noe.
 Visit [lashellnoe.herokuapp.com](http://lashellnoe.herokuapp.com/Webapp/index.html)
 
 ## TECHNOLOGIES AND SOFTWARES USED
