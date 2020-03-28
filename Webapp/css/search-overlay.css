@@ -8,12 +8,20 @@
                           src: url('../fonts/SF-Pro-Display-Medium.otf') format("opentype");
                         }
                         @font-face {
-                          font-family: "SFProText-Semibold";
-                          src: url('../fonts/SF-Pro-Text-Semibold.otf') format("opentype");
+                          font-family: "SFProText-Heavy";
+                          src: url('../fonts/SF-Pro-Text-Heavy.otf') format("opentype");
                         }
                         @font-face {
                           font-family: "SFProDisplay-Heavy";
                           src: url('../fonts/SF-Pro-Display-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFCompactRounded-Heavy";
+                          src: url('../fonts/SF-Compact-Rounded-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Semibold";
+                          src: url('../fonts/SF-Pro-Text-Semibold.otf') format("opentype");
                         }
                         @font-face {
                           font-family: "SFProText-Bold";
@@ -22,18 +30,6 @@
                         @font-face {
                           font-family: "SFProText-Light";
                           src: url('../fonts/SF-Pro-Text-Light.otf') format("opentype");
-                        }
-                        @font-face {
-                          font-family: "SFProText-Heavy";
-                          src: url('../fonts/SF-Pro-Text-Heavy.otf') format("opentype");
-                        }
-                        @font-face {
-                          font-family: "SFCompactRounded-Heavy";
-                          src: url('../fonts/SF-Compact-Rounded-Heavy.otf') format("opentype");
-                        }
-                        @font-face {
-                          font-family: "SFProText-Medium";
-                          src: url('../fonts/SF-Pro-Text-Medium.otf') format("opentype");
                         }
                         @font-face {
                           font-family: "SFProDisplay-Thin";
@@ -47,8 +43,12 @@
                           font-family: "SFProDisplay-Regular";
                           src: url('../fonts/SF-Pro-Display-Regular.otf') format("opentype");
                         }
+                        @font-face {
+                          font-family: "SFProText-Medium";
+                          src: url('../fonts/SF-Pro-Text-Medium.otf') format("opentype");
+                        }
                         
-.search-overlay-1O9qgx {
+.search-overlay-RKJIVd {
   overflow            : hidden;
   position            : relative;
   display             : inline-flex;
@@ -83,20 +83,20 @@ textarea:focus, input:focus {
 div {
   -webkit-text-size-adjust: none;
 }
-.anima-animate-enter57 {
+.anima-animate-enter110 {
   opacity             : 0;
   transform           : translate(-25px, 0);
   display             : block;
-  -webkit-animation   : anima-animate-enter57-frames 1s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter57-frames 1s ease-in-out 1 normal forwards;
-  -o-animation        : anima-animate-enter57-frames 1s ease-in-out 1 normal forwards;
-  animation           : anima-animate-enter57-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter110-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter110-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter110-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter110-frames 1s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter57-frames {
+@-webkit-keyframes anima-animate-enter110-frames {
   0%
    
   {
@@ -112,7 +112,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter57-frames {
+@-moz-keyframes anima-animate-enter110-frames {
   0%
    
   {
@@ -128,7 +128,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter57-frames {
+@-o-keyframes anima-animate-enter110-frames {
   0%
    
   {
@@ -144,7 +144,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter57-frames {
+@keyframes anima-animate-enter110-frames {
   0%
    
   {
@@ -160,20 +160,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter58 {
+.anima-animate-enter111 {
   opacity             : 0;
   transform           : translate(-25px, 0);
   display             : block;
-  -webkit-animation   : anima-animate-enter58-frames 1s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter58-frames 1s ease-in-out 1 normal forwards;
-  -o-animation        : anima-animate-enter58-frames 1s ease-in-out 1 normal forwards;
-  animation           : anima-animate-enter58-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter111-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter111-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter111-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter111-frames 1s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter58-frames {
+@-webkit-keyframes anima-animate-enter111-frames {
   0%
    
   {
@@ -189,7 +189,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter58-frames {
+@-moz-keyframes anima-animate-enter111-frames {
   0%
    
   {
@@ -205,7 +205,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter58-frames {
+@-o-keyframes anima-animate-enter111-frames {
   0%
    
   {
@@ -221,7 +221,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter58-frames {
+@keyframes anima-animate-enter111-frames {
   0%
    
   {
@@ -237,7 +237,7 @@ div {
   transform: translate(0,0);
     }
 }
-.search-overlay-1O9qgx .text-speakers-accesories-and-more-apSrwz {
+.search-overlay-RKJIVd .text-speakers-accesories-and-more-U8CIqF {
   position            : relative;
   padding             : 0;
   width               : 462px;
@@ -253,14 +253,14 @@ div {
   margin-top          : 30.0px;
   flex-shrink         : 0;
 }
-.search-overlay-1O9qgx .text-speakers-accesories-and-more-apSrwz {
+.search-overlay-RKJIVd .text-speakers-accesories-and-more-U8CIqF {
   opacity             : 0;
   transform           : translate(-25px, 0);
 }
-.search-overlay-1O9qgx .text-speakers-accesories-and-more-apSrwz::placeholder {
+.search-overlay-RKJIVd .text-speakers-accesories-and-more-U8CIqF::placeholder {
   color               : rgba(0, 0, 0, 0.6);
 }
-.search-overlay-1O9qgx .glyphs-search-1DfRta {
+.search-overlay-RKJIVd .glyphs-search-0F2x03 {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -273,17 +273,17 @@ div {
   margin-left         : 55px;
   flex-shrink         : 0;
 }
-.search-overlay-1O9qgx .glyphs-search-1DfRta {
+.search-overlay-RKJIVd .glyphs-search-0F2x03 {
   opacity             : 0;
   transform           : translate(-25px, 0);
 }
-.search-overlay-1O9qgx .glyphs-search-1DfRta .search-jUbIZf {
+.search-overlay-RKJIVd .glyphs-search-0F2x03 .search-2cRfUw {
   position            : relative;
   width               : 70px;
   height              : 70px;
   flex-shrink         : 0;
 }
-.search-overlay-1O9qgx .a18140481531530273515128-ntsluy {
+.search-overlay-RKJIVd .a18140481531530273515128-OREfF6 {
   position            : relative;
   width               : 69px;
   height              : 69px;

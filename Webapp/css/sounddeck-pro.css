@@ -8,12 +8,20 @@
                           src: url('../fonts/SF-Pro-Display-Medium.otf') format("opentype");
                         }
                         @font-face {
-                          font-family: "SFProText-Semibold";
-                          src: url('../fonts/SF-Pro-Text-Semibold.otf') format("opentype");
+                          font-family: "SFProText-Heavy";
+                          src: url('../fonts/SF-Pro-Text-Heavy.otf') format("opentype");
                         }
                         @font-face {
                           font-family: "SFProDisplay-Heavy";
                           src: url('../fonts/SF-Pro-Display-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFCompactRounded-Heavy";
+                          src: url('../fonts/SF-Compact-Rounded-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Semibold";
+                          src: url('../fonts/SF-Pro-Text-Semibold.otf') format("opentype");
                         }
                         @font-face {
                           font-family: "SFProText-Bold";
@@ -22,18 +30,6 @@
                         @font-face {
                           font-family: "SFProText-Light";
                           src: url('../fonts/SF-Pro-Text-Light.otf') format("opentype");
-                        }
-                        @font-face {
-                          font-family: "SFProText-Heavy";
-                          src: url('../fonts/SF-Pro-Text-Heavy.otf') format("opentype");
-                        }
-                        @font-face {
-                          font-family: "SFCompactRounded-Heavy";
-                          src: url('../fonts/SF-Compact-Rounded-Heavy.otf') format("opentype");
-                        }
-                        @font-face {
-                          font-family: "SFProText-Medium";
-                          src: url('../fonts/SF-Pro-Text-Medium.otf') format("opentype");
                         }
                         @font-face {
                           font-family: "SFProDisplay-Thin";
@@ -47,8 +43,20 @@
                           font-family: "SFProDisplay-Regular";
                           src: url('../fonts/SF-Pro-Display-Regular.otf') format("opentype");
                         }
+                        @font-face {
+                          font-family: "SFProText-Medium";
+                          src: url('../fonts/SF-Pro-Text-Medium.otf') format("opentype");
+                        }
                         
-.sounddeck-pro-pSFD5J {
+.anima-overlay {
+  position            : absolute;
+  opacity             : 0;
+  display             : none;
+  top                 : 0;
+  width               : 100%;
+  height              : 100%;
+}
+.sounddeck-pro-qKwPJp {
   overflow            : hidden;
   position            : relative;
   display             : flex;
@@ -78,23 +86,26 @@ div {
 .anima-full-height-a {
   height              : 100%;
 }
+textarea:focus, input:focus {
+  outline             : none;
+}
 div {
   -webkit-text-size-adjust: none;
 }
-.anima-animate-enter9 {
+.anima-animate-enter138 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter9-frames 2s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter9-frames 2s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter9-frames 2s ease-out 1 normal forwards;
-  animation           : anima-animate-enter9-frames 2s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter138-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter138-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter138-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter138-frames 2s ease-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter9-frames {
+@-webkit-keyframes anima-animate-enter138-frames {
   0%
    
   {
@@ -110,7 +121,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter9-frames {
+@-moz-keyframes anima-animate-enter138-frames {
   0%
    
   {
@@ -126,7 +137,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter9-frames {
+@-o-keyframes anima-animate-enter138-frames {
   0%
    
   {
@@ -142,7 +153,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter9-frames {
+@keyframes anima-animate-enter138-frames {
   0%
    
   {
@@ -158,20 +169,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter10 {
+.anima-animate-enter139 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter10-frames 2s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter10-frames 2s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter10-frames 2s ease-out 1 normal forwards;
-  animation           : anima-animate-enter10-frames 2s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter139-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter139-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter139-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter139-frames 2s ease-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter10-frames {
+@-webkit-keyframes anima-animate-enter139-frames {
   0%
    
   {
@@ -187,7 +198,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter10-frames {
+@-moz-keyframes anima-animate-enter139-frames {
   0%
    
   {
@@ -203,7 +214,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter10-frames {
+@-o-keyframes anima-animate-enter139-frames {
   0%
    
   {
@@ -219,7 +230,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter10-frames {
+@keyframes anima-animate-enter139-frames {
   0%
    
   {
@@ -235,20 +246,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter11 {
+.anima-animate-enter140 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter11-frames 2s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter11-frames 2s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter11-frames 2s ease-out 1 normal forwards;
-  animation           : anima-animate-enter11-frames 2s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter140-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter140-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter140-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter140-frames 2s ease-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter11-frames {
+@-webkit-keyframes anima-animate-enter140-frames {
   0%
    
   {
@@ -264,7 +275,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter11-frames {
+@-moz-keyframes anima-animate-enter140-frames {
   0%
    
   {
@@ -280,7 +291,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter11-frames {
+@-o-keyframes anima-animate-enter140-frames {
   0%
    
   {
@@ -296,7 +307,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter11-frames {
+@keyframes anima-animate-enter140-frames {
   0%
    
   {
@@ -312,20 +323,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter12 {
+.anima-animate-enter141 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter12-frames 2s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter12-frames 2s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter12-frames 2s ease-out 1 normal forwards;
-  animation           : anima-animate-enter12-frames 2s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter141-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter141-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter141-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter141-frames 2s ease-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter12-frames {
+@-webkit-keyframes anima-animate-enter141-frames {
   0%
    
   {
@@ -341,7 +352,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter12-frames {
+@-moz-keyframes anima-animate-enter141-frames {
   0%
    
   {
@@ -357,7 +368,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter12-frames {
+@-o-keyframes anima-animate-enter141-frames {
   0%
    
   {
@@ -373,7 +384,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter12-frames {
+@keyframes anima-animate-enter141-frames {
   0%
    
   {
@@ -389,20 +400,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter13 {
+.anima-animate-enter142 {
   opacity             : 0;
   transform           : translate(-25px, 0);
   display             : block;
-  -webkit-animation   : anima-animate-enter13-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter13-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -o-animation        : anima-animate-enter13-frames 0.20000000298s ease-in-out 1 normal forwards;
-  animation           : anima-animate-enter13-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter142-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter142-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter142-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter142-frames 0.20000000298s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter13-frames {
+@-webkit-keyframes anima-animate-enter142-frames {
   0%
    
   {
@@ -418,7 +429,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter13-frames {
+@-moz-keyframes anima-animate-enter142-frames {
   0%
    
   {
@@ -434,7 +445,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter13-frames {
+@-o-keyframes anima-animate-enter142-frames {
   0%
    
   {
@@ -450,7 +461,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter13-frames {
+@keyframes anima-animate-enter142-frames {
   0%
    
   {
@@ -466,20 +477,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter14 {
+.anima-animate-enter143 {
   opacity             : 0;
   transform           : translate(-25px, 0);
   display             : block;
-  -webkit-animation   : anima-animate-enter14-frames 2s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter14-frames 2s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter14-frames 2s ease-out 1 normal forwards;
-  animation           : anima-animate-enter14-frames 2s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter143-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter143-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter143-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter143-frames 2s ease-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter14-frames {
+@-webkit-keyframes anima-animate-enter143-frames {
   0%
    
   {
@@ -495,7 +506,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter14-frames {
+@-moz-keyframes anima-animate-enter143-frames {
   0%
    
   {
@@ -511,7 +522,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter14-frames {
+@-o-keyframes anima-animate-enter143-frames {
   0%
    
   {
@@ -527,7 +538,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter14-frames {
+@keyframes anima-animate-enter143-frames {
   0%
    
   {
@@ -543,20 +554,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter15 {
+.anima-animate-enter144 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter15-frames 0.5s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter15-frames 0.5s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter15-frames 0.5s ease-out 1 normal forwards;
-  animation           : anima-animate-enter15-frames 0.5s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter144-frames 0.5s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter144-frames 0.5s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter144-frames 0.5s ease-out 1 normal forwards;
+  animation           : anima-animate-enter144-frames 0.5s ease-out 1 normal forwards;
   -webkit-animation-delay: 0.5s;
   -moz-animation-delay: 0.5s;
   -o-animation-delay  : 0.5s;
   animation-delay     : 0.5s;
 }
-@-webkit-keyframes anima-animate-enter15-frames {
+@-webkit-keyframes anima-animate-enter144-frames {
   0%
    
   {
@@ -572,7 +583,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter15-frames {
+@-moz-keyframes anima-animate-enter144-frames {
   0%
    
   {
@@ -588,7 +599,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter15-frames {
+@-o-keyframes anima-animate-enter144-frames {
   0%
    
   {
@@ -604,7 +615,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter15-frames {
+@keyframes anima-animate-enter144-frames {
   0%
    
   {
@@ -620,20 +631,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter16 {
+.anima-animate-enter145 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter16-frames 0.5s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter16-frames 0.5s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter16-frames 0.5s ease-out 1 normal forwards;
-  animation           : anima-animate-enter16-frames 0.5s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter145-frames 0.5s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter145-frames 0.5s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter145-frames 0.5s ease-out 1 normal forwards;
+  animation           : anima-animate-enter145-frames 0.5s ease-out 1 normal forwards;
   -webkit-animation-delay: 0.5s;
   -moz-animation-delay: 0.5s;
   -o-animation-delay  : 0.5s;
   animation-delay     : 0.5s;
 }
-@-webkit-keyframes anima-animate-enter16-frames {
+@-webkit-keyframes anima-animate-enter145-frames {
   0%
    
   {
@@ -649,7 +660,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter16-frames {
+@-moz-keyframes anima-animate-enter145-frames {
   0%
    
   {
@@ -665,7 +676,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter16-frames {
+@-o-keyframes anima-animate-enter145-frames {
   0%
    
   {
@@ -681,7 +692,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter16-frames {
+@keyframes anima-animate-enter145-frames {
   0%
    
   {
@@ -697,20 +708,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter17 {
+.anima-animate-enter146 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter17-frames 0.5s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter17-frames 0.5s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter17-frames 0.5s ease-out 1 normal forwards;
-  animation           : anima-animate-enter17-frames 0.5s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter146-frames 0.5s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter146-frames 0.5s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter146-frames 0.5s ease-out 1 normal forwards;
+  animation           : anima-animate-enter146-frames 0.5s ease-out 1 normal forwards;
   -webkit-animation-delay: 0.5s;
   -moz-animation-delay: 0.5s;
   -o-animation-delay  : 0.5s;
   animation-delay     : 0.5s;
 }
-@-webkit-keyframes anima-animate-enter17-frames {
+@-webkit-keyframes anima-animate-enter146-frames {
   0%
    
   {
@@ -726,7 +737,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter17-frames {
+@-moz-keyframes anima-animate-enter146-frames {
   0%
    
   {
@@ -742,7 +753,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter17-frames {
+@-o-keyframes anima-animate-enter146-frames {
   0%
    
   {
@@ -758,7 +769,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter17-frames {
+@keyframes anima-animate-enter146-frames {
   0%
    
   {
@@ -774,20 +785,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter18 {
+.anima-animate-enter147 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter18-frames 0.5s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter18-frames 0.5s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter18-frames 0.5s ease-out 1 normal forwards;
-  animation           : anima-animate-enter18-frames 0.5s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter147-frames 0.5s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter147-frames 0.5s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter147-frames 0.5s ease-out 1 normal forwards;
+  animation           : anima-animate-enter147-frames 0.5s ease-out 1 normal forwards;
   -webkit-animation-delay: 0.5s;
   -moz-animation-delay: 0.5s;
   -o-animation-delay  : 0.5s;
   animation-delay     : 0.5s;
 }
-@-webkit-keyframes anima-animate-enter18-frames {
+@-webkit-keyframes anima-animate-enter147-frames {
   0%
    
   {
@@ -803,7 +814,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter18-frames {
+@-moz-keyframes anima-animate-enter147-frames {
   0%
    
   {
@@ -819,7 +830,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter18-frames {
+@-o-keyframes anima-animate-enter147-frames {
   0%
    
   {
@@ -835,7 +846,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter18-frames {
+@keyframes anima-animate-enter147-frames {
   0%
    
   {
@@ -851,20 +862,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter19 {
+.anima-animate-enter148 {
   opacity             : 0;
   transform           : translate(0, 50px);
   display             : block;
-  -webkit-animation   : anima-animate-enter19-frames 0.5s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter19-frames 0.5s ease-in-out 1 normal forwards;
-  -o-animation        : anima-animate-enter19-frames 0.5s ease-in-out 1 normal forwards;
-  animation           : anima-animate-enter19-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter148-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter148-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter148-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter148-frames 0.5s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter19-frames {
+@-webkit-keyframes anima-animate-enter148-frames {
   0%
    
   {
@@ -880,7 +891,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter19-frames {
+@-moz-keyframes anima-animate-enter148-frames {
   0%
    
   {
@@ -896,7 +907,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter19-frames {
+@-o-keyframes anima-animate-enter148-frames {
   0%
    
   {
@@ -912,7 +923,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter19-frames {
+@keyframes anima-animate-enter148-frames {
   0%
    
   {
@@ -928,20 +939,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter20 {
+.anima-animate-enter149 {
   opacity             : 0;
   transform           : scale(1.1);
   display             : block;
-  -webkit-animation   : anima-animate-enter20-frames 0.75s ease-in 1 normal forwards;
-  -moz-animation      : anima-animate-enter20-frames 0.75s ease-in 1 normal forwards;
-  -o-animation        : anima-animate-enter20-frames 0.75s ease-in 1 normal forwards;
-  animation           : anima-animate-enter20-frames 0.75s ease-in 1 normal forwards;
+  -webkit-animation   : anima-animate-enter149-frames 0.75s ease-in 1 normal forwards;
+  -moz-animation      : anima-animate-enter149-frames 0.75s ease-in 1 normal forwards;
+  -o-animation        : anima-animate-enter149-frames 0.75s ease-in 1 normal forwards;
+  animation           : anima-animate-enter149-frames 0.75s ease-in 1 normal forwards;
   -webkit-animation-delay: 0.25s;
   -moz-animation-delay: 0.25s;
   -o-animation-delay  : 0.25s;
   animation-delay     : 0.25s;
 }
-@-webkit-keyframes anima-animate-enter20-frames {
+@-webkit-keyframes anima-animate-enter149-frames {
   0%
    
   {
@@ -957,7 +968,7 @@ div {
   transform: scale(0.85);
     }
 }
-@-moz-keyframes anima-animate-enter20-frames {
+@-moz-keyframes anima-animate-enter149-frames {
   0%
    
   {
@@ -973,7 +984,7 @@ div {
   transform: scale(0.85);
     }
 }
-@-o-keyframes anima-animate-enter20-frames {
+@-o-keyframes anima-animate-enter149-frames {
   0%
    
   {
@@ -989,7 +1000,7 @@ div {
   transform: scale(0.85);
     }
 }
-@keyframes anima-animate-enter20-frames {
+@keyframes anima-animate-enter149-frames {
   0%
    
   {
@@ -1005,20 +1016,20 @@ div {
   transform: scale(0.85);
     }
 }
-.anima-animate-enter21 {
+.anima-animate-enter150 {
   opacity             : 0;
   transform           : translate(0, 50px);
   display             : block;
-  -webkit-animation   : anima-animate-enter21-frames 1s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter21-frames 1s ease-in-out 1 normal forwards;
-  -o-animation        : anima-animate-enter21-frames 1s ease-in-out 1 normal forwards;
-  animation           : anima-animate-enter21-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter150-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter150-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter150-frames 1s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter150-frames 1s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter21-frames {
+@-webkit-keyframes anima-animate-enter150-frames {
   0%
    
   {
@@ -1034,7 +1045,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter21-frames {
+@-moz-keyframes anima-animate-enter150-frames {
   0%
    
   {
@@ -1050,7 +1061,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter21-frames {
+@-o-keyframes anima-animate-enter150-frames {
   0%
    
   {
@@ -1066,7 +1077,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter21-frames {
+@keyframes anima-animate-enter150-frames {
   0%
    
   {
@@ -1082,20 +1093,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter22 {
+.anima-animate-enter151 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter22-frames 1s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter22-frames 1s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter22-frames 1s ease-out 1 normal forwards;
-  animation           : anima-animate-enter22-frames 1s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter151-frames 1s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter151-frames 1s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter151-frames 1s ease-out 1 normal forwards;
+  animation           : anima-animate-enter151-frames 1s ease-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter22-frames {
+@-webkit-keyframes anima-animate-enter151-frames {
   0%
    
   {
@@ -1111,7 +1122,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter22-frames {
+@-moz-keyframes anima-animate-enter151-frames {
   0%
    
   {
@@ -1127,7 +1138,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter22-frames {
+@-o-keyframes anima-animate-enter151-frames {
   0%
    
   {
@@ -1143,7 +1154,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter22-frames {
+@keyframes anima-animate-enter151-frames {
   0%
    
   {
@@ -1159,20 +1170,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter23 {
+.anima-animate-enter152 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter23-frames 1s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter23-frames 1s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter23-frames 1s ease-out 1 normal forwards;
-  animation           : anima-animate-enter23-frames 1s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter152-frames 1s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter152-frames 1s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter152-frames 1s ease-out 1 normal forwards;
+  animation           : anima-animate-enter152-frames 1s ease-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter23-frames {
+@-webkit-keyframes anima-animate-enter152-frames {
   0%
    
   {
@@ -1188,7 +1199,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter23-frames {
+@-moz-keyframes anima-animate-enter152-frames {
   0%
    
   {
@@ -1204,7 +1215,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter23-frames {
+@-o-keyframes anima-animate-enter152-frames {
   0%
    
   {
@@ -1220,7 +1231,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter23-frames {
+@keyframes anima-animate-enter152-frames {
   0%
    
   {
@@ -1236,20 +1247,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter24 {
+.anima-animate-enter153 {
   opacity             : 0;
   transform           : scale(1.1);
   display             : block;
-  -webkit-animation   : anima-animate-enter24-frames 2s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter24-frames 2s ease-in-out 1 normal forwards;
-  -o-animation        : anima-animate-enter24-frames 2s ease-in-out 1 normal forwards;
-  animation           : anima-animate-enter24-frames 2s ease-in-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter153-frames 2s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter153-frames 2s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter153-frames 2s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter153-frames 2s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter24-frames {
+@-webkit-keyframes anima-animate-enter153-frames {
   0%
    
   {
@@ -1265,7 +1276,7 @@ div {
   transform: scale(0.9);
     }
 }
-@-moz-keyframes anima-animate-enter24-frames {
+@-moz-keyframes anima-animate-enter153-frames {
   0%
    
   {
@@ -1281,7 +1292,7 @@ div {
   transform: scale(0.9);
     }
 }
-@-o-keyframes anima-animate-enter24-frames {
+@-o-keyframes anima-animate-enter153-frames {
   0%
    
   {
@@ -1297,7 +1308,7 @@ div {
   transform: scale(0.9);
     }
 }
-@keyframes anima-animate-enter24-frames {
+@keyframes anima-animate-enter153-frames {
   0%
    
   {
@@ -1313,20 +1324,20 @@ div {
   transform: scale(0.9);
     }
 }
-.anima-animate-enter25 {
+.anima-animate-enter154 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter25-frames 2s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter25-frames 2s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter25-frames 2s ease-out 1 normal forwards;
-  animation           : anima-animate-enter25-frames 2s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter154-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter154-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter154-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter154-frames 2s ease-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter25-frames {
+@-webkit-keyframes anima-animate-enter154-frames {
   0%
    
   {
@@ -1342,7 +1353,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter25-frames {
+@-moz-keyframes anima-animate-enter154-frames {
   0%
    
   {
@@ -1358,7 +1369,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter25-frames {
+@-o-keyframes anima-animate-enter154-frames {
   0%
    
   {
@@ -1374,7 +1385,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter25-frames {
+@keyframes anima-animate-enter154-frames {
   0%
    
   {
@@ -1390,20 +1401,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter26 {
+.anima-animate-enter155 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter26-frames 2s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter26-frames 2s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter26-frames 2s ease-out 1 normal forwards;
-  animation           : anima-animate-enter26-frames 2s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter155-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter155-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter155-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter155-frames 2s ease-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter26-frames {
+@-webkit-keyframes anima-animate-enter155-frames {
   0%
    
   {
@@ -1419,7 +1430,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter26-frames {
+@-moz-keyframes anima-animate-enter155-frames {
   0%
    
   {
@@ -1435,7 +1446,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter26-frames {
+@-o-keyframes anima-animate-enter155-frames {
   0%
    
   {
@@ -1451,7 +1462,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter26-frames {
+@keyframes anima-animate-enter155-frames {
   0%
    
   {
@@ -1467,20 +1478,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter27 {
+.anima-animate-enter156 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter27-frames 2s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter27-frames 2s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter27-frames 2s ease-out 1 normal forwards;
-  animation           : anima-animate-enter27-frames 2s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter156-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter156-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter156-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter156-frames 2s ease-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter27-frames {
+@-webkit-keyframes anima-animate-enter156-frames {
   0%
    
   {
@@ -1496,7 +1507,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter27-frames {
+@-moz-keyframes anima-animate-enter156-frames {
   0%
    
   {
@@ -1512,7 +1523,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter27-frames {
+@-o-keyframes anima-animate-enter156-frames {
   0%
    
   {
@@ -1528,7 +1539,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter27-frames {
+@keyframes anima-animate-enter156-frames {
   0%
    
   {
@@ -1544,20 +1555,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter28 {
+.anima-animate-enter157 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter28-frames 2s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter28-frames 2s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter28-frames 2s ease-out 1 normal forwards;
-  animation           : anima-animate-enter28-frames 2s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter157-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter157-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter157-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter157-frames 2s ease-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter28-frames {
+@-webkit-keyframes anima-animate-enter157-frames {
   0%
    
   {
@@ -1573,7 +1584,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter28-frames {
+@-moz-keyframes anima-animate-enter157-frames {
   0%
    
   {
@@ -1589,7 +1600,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter28-frames {
+@-o-keyframes anima-animate-enter157-frames {
   0%
    
   {
@@ -1605,7 +1616,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter28-frames {
+@keyframes anima-animate-enter157-frames {
   0%
    
   {
@@ -1621,20 +1632,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter29 {
+.anima-animate-enter158 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter29-frames 2s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter29-frames 2s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter29-frames 2s ease-out 1 normal forwards;
-  animation           : anima-animate-enter29-frames 2s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter158-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter158-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter158-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter158-frames 2s ease-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter29-frames {
+@-webkit-keyframes anima-animate-enter158-frames {
   0%
    
   {
@@ -1650,7 +1661,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter29-frames {
+@-moz-keyframes anima-animate-enter158-frames {
   0%
    
   {
@@ -1666,7 +1677,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter29-frames {
+@-o-keyframes anima-animate-enter158-frames {
   0%
    
   {
@@ -1682,7 +1693,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter29-frames {
+@keyframes anima-animate-enter158-frames {
   0%
    
   {
@@ -1698,20 +1709,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter30 {
+.anima-animate-enter159 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter30-frames 2s ease-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter30-frames 2s ease-out 1 normal forwards;
-  -o-animation        : anima-animate-enter30-frames 2s ease-out 1 normal forwards;
-  animation           : anima-animate-enter30-frames 2s ease-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter159-frames 2s ease-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter159-frames 2s ease-out 1 normal forwards;
+  -o-animation        : anima-animate-enter159-frames 2s ease-out 1 normal forwards;
+  animation           : anima-animate-enter159-frames 2s ease-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter30-frames {
+@-webkit-keyframes anima-animate-enter159-frames {
   0%
    
   {
@@ -1727,7 +1738,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter30-frames {
+@-moz-keyframes anima-animate-enter159-frames {
   0%
    
   {
@@ -1743,7 +1754,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter30-frames {
+@-o-keyframes anima-animate-enter159-frames {
   0%
    
   {
@@ -1759,7 +1770,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter30-frames {
+@keyframes anima-animate-enter159-frames {
   0%
    
   {
@@ -1775,20 +1786,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter31 {
+.anima-animate-enter160 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter31-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter31-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -o-animation        : anima-animate-enter31-frames 0.20000000298s ease-in-out 1 normal forwards;
-  animation           : anima-animate-enter31-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter160-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter160-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter160-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter160-frames 0.20000000298s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter31-frames {
+@-webkit-keyframes anima-animate-enter160-frames {
   0%
    
   {
@@ -1804,7 +1815,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter31-frames {
+@-moz-keyframes anima-animate-enter160-frames {
   0%
    
   {
@@ -1820,7 +1831,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter31-frames {
+@-o-keyframes anima-animate-enter160-frames {
   0%
    
   {
@@ -1836,7 +1847,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter31-frames {
+@keyframes anima-animate-enter160-frames {
   0%
    
   {
@@ -1852,13 +1863,13 @@ div {
   transform: translate(0,0);
     }
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE {
   position            : relative;
   width               : 1460px;
   height              : 108px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .rectangle-LYj80Q {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .rectangle-wsmgNo {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
@@ -1867,7 +1878,7 @@ div {
   background-color    : #000000;
   border              : 1.0px solid #969696;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .screen-shot20200320-at12554-am-iDaWZN {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .screen-shot20200320-at12554-am-wDgSlB {
   position            : absolute;
   top                 : 21px;
   left                : 6px;
@@ -1875,13 +1886,13 @@ div {
   height              : 70px;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .screen-shot20200320-at12554-am-iDaWZN {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .screen-shot20200320-at12554-am-wDgSlB {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .screen-shot20200320-at12554-am-iDaWZN:hover {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .screen-shot20200320-at12554-am-wDgSlB:hover {
   box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .s-peakers-hv9Qid {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .s-peakers-goel6q {
   position            : absolute;
   top                 : 35px;
   left                : 483px;
@@ -1894,25 +1905,25 @@ div {
   text-align          : center;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .s-peakers-hv9Qid {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .s-peakers-goel6q {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .s-peakers-hv9Qid:hover {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .s-peakers-goel6q:hover {
   transform           : translate(0, -5px);
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .s-peakers-hv9Qid .span1-ZrOOAc {
+.sounddeck-pro-qKwPJp .s-peakers-goel6q .span1-94vrJu {
   background-color    : rgba(65025, 65025, 65025, 0);
   line-height         : 0.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-pSFD5J .s-peakers-hv9Qid .span2-spphxQ {
+.sounddeck-pro-qKwPJp .s-peakers-goel6q .span2-xIGIUw {
   background-color    : rgba(65025, 65025, 65025, 0);
   font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
   line-height         : 0.0px;
   letter-spacing      : -0.16px;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .s-hop-S1hry0 {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .s-hop-qEBgO4 {
   position            : absolute;
   top                 : 36px;
   left                : 741px;
@@ -1925,25 +1936,25 @@ div {
   text-align          : center;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .s-hop-S1hry0 {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .s-hop-qEBgO4 {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .s-hop-S1hry0:hover {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .s-hop-qEBgO4:hover {
   transform           : translate(0, -5px);
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .s-hop-S1hry0 .span1-SzRBJv {
+.sounddeck-pro-qKwPJp .s-hop-qEBgO4 .span1-RXCnyb {
   background-color    : rgba(65025, 65025, 65025, 0);
   line-height         : 0.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-pSFD5J .s-hop-S1hry0 .span2-Ez75Dp {
+.sounddeck-pro-qKwPJp .s-hop-qEBgO4 .span2-s1YMez {
   background-color    : rgba(65025, 65025, 65025, 0);
   font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
   line-height         : 0.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .a-bout-ynk7I7 {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .a-bout-AAgORs {
   position            : absolute;
   top                 : 36px;
   left                : 903px;
@@ -1956,26 +1967,26 @@ div {
   text-align          : center;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .a-bout-ynk7I7 {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .a-bout-AAgORs {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .a-bout-ynk7I7:hover {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .a-bout-AAgORs:hover {
   transform           : translate(0, -5px);
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .a-bout-ynk7I7 .span1-nibvUX {
+.sounddeck-pro-qKwPJp .a-bout-AAgORs .span1-70HIKC {
   background-color    : rgba(65025, 65025, 65025, 0);
   line-height         : 48.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-pSFD5J .a-bout-ynk7I7 .span2-Is4Ea1 {
+.sounddeck-pro-qKwPJp .a-bout-AAgORs .span2-xhWrM4 {
   background-color    : rgba(65025, 65025, 65025, 0);
   font-size           : 25.0px;
   font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
   line-height         : 30.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group9-EGmmmL {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .group9-sS0mXm {
   position            : absolute;
   top                 : 20px;
   left                : 1366px;
@@ -1983,41 +1994,41 @@ div {
   height              : 69px;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group9-EGmmmL {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .group9-sS0mXm {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group9-EGmmmL:hover {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .group9-sS0mXm:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group9-EGmmmL .oval-PUlbaN {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .group9-sS0mXm .oval-ISEgxF {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
   width               : 69px;
   height              : 69px;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group9-EGmmmL .oval2-iyFXI4 {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .group9-sS0mXm .oval2-WEwMTf {
   position            : absolute;
   top                 : 9px;
   left                : 9px;
   width               : 50px;
   height              : 50px;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group9-EGmmmL .oval3-rN6vyL {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .group9-sS0mXm .oval3-ty7BDv {
   position            : absolute;
   top                 : 18px;
   left                : 23px;
   width               : 23px;
   height              : 23px;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group9-EGmmmL .oval4-8DV2Tt {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .group9-sS0mXm .oval4-JBbct4 {
   position            : absolute;
   top                 : 47px;
   left                : 9px;
   width               : 50px;
   height              : 18px;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .glyphs-search-piRpec {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .glyphs-search-tksDJW {
   position            : absolute;
   display             : inline-flex;
   flex-direction      : row;
@@ -2030,23 +2041,23 @@ div {
   transition          : all 0.2s ease-in-out;
   box-sizing          : border-box;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .glyphs-search-piRpec {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .glyphs-search-tksDJW {
   opacity             : 0;
   transform           : translate(-25px, 0);
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .glyphs-search-piRpec {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .glyphs-search-tksDJW {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .glyphs-search-piRpec:hover {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .glyphs-search-tksDJW:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .glyphs-search-piRpec .search-TMcDzk {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .glyphs-search-tksDJW .search-1oTHiF {
   position            : relative;
   width               : 74px;
   height              : 74px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group10-KmVQHw {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .group10-r8lVNU {
   position            : absolute;
   top                 : 18px;
   left                : 1238px;
@@ -2054,20 +2065,20 @@ div {
   height              : 77px;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group10-KmVQHw {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .group10-r8lVNU {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group10-KmVQHw:hover {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .group10-r8lVNU:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group10-KmVQHw .shoppingcartpngrepocom-Dhw0ob {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .group10-r8lVNU .shoppingcartpngrepocom-YbLxMq {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
   width               : 77px;
   height              : 77px;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group10-KmVQHw .glyphs-notification-icon-yddpW8 {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .group10-r8lVNU .glyphs-notification-icon-IEna7R {
   position            : absolute;
   display             : inline-flex;
   flex-direction      : row;
@@ -2079,13 +2090,13 @@ div {
   height              : 20px;
   box-sizing          : border-box;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group10-KmVQHw .glyphs-notification-icon-yddpW8 .app-icon-1tpchu {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .group10-r8lVNU .glyphs-notification-icon-IEna7R .app-icon-rcLkgE {
   position            : relative;
   width               : 20px;
   height              : 20px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .group10-KmVQHw .a1-06lCoB {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .group10-r8lVNU .a1-VI5edw {
   position            : absolute;
   top                 : 9px;
   left                : 72px;
@@ -2097,7 +2108,7 @@ div {
   letter-spacing      : -0.24px;
   text-align          : center;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .line-Ec0jdy {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .line-S2xCaf {
   position            : absolute;
   top                 : 93px;
   left                : 487px;
@@ -2105,13 +2116,13 @@ div {
   height              : 5px;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .line-Ec0jdy {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .line-S2xCaf {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .overlap-group1-yqkNne .line-Ec0jdy:hover {
+.sounddeck-pro-qKwPJp .overlap-group1-mLaBmE .line-S2xCaf:hover {
   transform           : translate(0, -5px);
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 {
   position            : relative;
   width               : 1418px;
   height              : 174px;
@@ -2119,7 +2130,7 @@ div {
   margin-left         : 2.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle5-Z0SR0d {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .rectangle5-iax8Re {
   position            : absolute;
   top                 : 71px;
   left                : 1px;
@@ -2128,7 +2139,7 @@ div {
   background-color    : #000000;
   border-radius       : 29.0px;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle6-HfaMrN {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .rectangle6-2d5uHJ {
   position            : absolute;
   top                 : 77px;
   left                : 8px;
@@ -2137,7 +2148,7 @@ div {
   background-color    : #ffffff;
   border-radius       : 25.0px;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle61-uwucRT {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .rectangle61-kNRoo7 {
   position            : absolute;
   top                 : 77px;
   left                : 8px;
@@ -2146,7 +2157,7 @@ div {
   background-color    : #ffffff;
   border-radius       : 25.0px;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .sounddeck-pro1-dc7RI2 {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .sounddeck-pro1-kaw2Ev {
   position            : absolute;
   top                 : 78px;
   left                : 29px;
@@ -2158,7 +2169,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .tech-specs-jjzaaI {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .tech-specs-Wx1Mrb {
   position            : absolute;
   top                 : 78px;
   left                : 788px;
@@ -2170,7 +2181,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle51-AAgv9A {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .rectangle51-eHgd3o {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
@@ -2179,7 +2190,7 @@ div {
   background-color    : #000000;
   border-radius       : 29.0px;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle62-O4qzjn {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .rectangle62-cRoKdR {
   position            : absolute;
   top                 : 6px;
   left                : 7px;
@@ -2188,7 +2199,7 @@ div {
   background-color    : #ffffff;
   border-radius       : 25.0px;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle3-ZOsriR {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .rectangle3-C9QLfX {
   position            : absolute;
   top                 : 82px;
   left                : 1103px;
@@ -2197,7 +2208,7 @@ div {
   background-color    : #7ed221;
   border-radius       : 20.5px;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle63-a4WXdr {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .rectangle63-8TMrzs {
   position            : absolute;
   top                 : 6px;
   left                : 7px;
@@ -2206,7 +2217,7 @@ div {
   background-color    : #ffffff;
   border-radius       : 25.0px;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .rectangle31-ipzeAv {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .rectangle31-crJy30 {
   position            : absolute;
   top                 : 11px;
   left                : 13px;
@@ -2215,7 +2226,7 @@ div {
   background-color    : #060606;
   border-radius       : 20.5px;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .collection-gXCYIW {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .collection-OPKr4x {
   position            : absolute;
   top                 : 8px;
   left                : 78px;
@@ -2227,7 +2238,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .accessories-xVIEq9 {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .accessories-WakJlw {
   position            : absolute;
   top                 : 7px;
   left                : 425px;
@@ -2239,7 +2250,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .pro-components-al6zok {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .pro-components-eykYSK {
   position            : absolute;
   top                 : 7px;
   left                : 738px;
@@ -2251,7 +2262,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .compare-OSYHzv {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .compare-xzTiFv {
   position            : absolute;
   top                 : 7px;
   left                : 1140px;
@@ -2263,7 +2274,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-pSFD5J .overlap-group2-7Omtcd .buy-now-08oeej {
+.sounddeck-pro-qKwPJp .overlap-group2-NY81Y9 .buy-now-8VPTUt {
   position            : absolute;
   top                 : 80px;
   left                : 1193px;
@@ -2275,7 +2286,7 @@ div {
   letter-spacing      : -0.13px;
   text-align          : left;
 }
-.sounddeck-pro-pSFD5J .overlap-group3-e8ynyJ {
+.sounddeck-pro-qKwPJp .overlap-group3-EyLH3U {
   position            : relative;
   width               : 1219px;
   height              : 955px;
@@ -2284,7 +2295,7 @@ div {
   margin-right        : 58.52px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .overlap-group3-e8ynyJ .screen-shot20200325at4removebgpreview-GCxGky {
+.sounddeck-pro-qKwPJp .overlap-group3-EyLH3U .screen-shot20200325at4removebgpreview-HftJXF {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
@@ -2292,13 +2303,13 @@ div {
   height              : 955px;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .overlap-group3-e8ynyJ .screen-shot20200325at4removebgpreview-GCxGky {
+.sounddeck-pro-qKwPJp .overlap-group3-EyLH3U .screen-shot20200325at4removebgpreview-HftJXF {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .overlap-group3-e8ynyJ .screen-shot20200325at4removebgpreview-GCxGky:hover {
+.sounddeck-pro-qKwPJp .overlap-group3-EyLH3U .screen-shot20200325at4removebgpreview-HftJXF:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .overlap-group3-e8ynyJ .the-revolution-in-so-uKRdNq {
+.sounddeck-pro-qKwPJp .overlap-group3-EyLH3U .the-revolution-in-so-NJ9uMB {
   position            : absolute;
   top                 : 64px;
   left                : 469px;
@@ -2310,11 +2321,11 @@ div {
   letter-spacing      : -0.52px;
   text-align          : left;
 }
-.sounddeck-pro-pSFD5J .overlap-group3-e8ynyJ .the-revolution-in-so-uKRdNq {
+.sounddeck-pro-qKwPJp .overlap-group3-EyLH3U .the-revolution-in-so-NJ9uMB {
   opacity             : 0;
   transform           : translate(-25px, 0);
 }
-.sounddeck-pro-pSFD5J .the-new-sounddeck-pr-enDUO5 {
+.sounddeck-pro-qKwPJp .the-new-sounddeck-pr-kJB7Id {
   position            : relative;
   width               : 1325px;
   height              : auto;
@@ -2328,11 +2339,11 @@ div {
   margin-left         : 29.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .the-new-sounddeck-pr-enDUO5 {
+.sounddeck-pro-qKwPJp .the-new-sounddeck-pr-kJB7Id {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo {
+.sounddeck-pro-qKwPJp .overlap-group4-lvaDZX {
   position            : relative;
   width               : 1709px;
   height              : 1035px;
@@ -2340,7 +2351,7 @@ div {
   margin-right        : 3.46px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .screen-shot20200326at2removebgpreview-FIB11d {
+.sounddeck-pro-qKwPJp .overlap-group4-lvaDZX .screen-shot20200326at2removebgpreview-HPEDV7 {
   position            : absolute;
   top                 : 0px;
   left                : 366px;
@@ -2348,17 +2359,17 @@ div {
   height              : 1035px;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .screen-shot20200326at2removebgpreview-FIB11d {
+.sounddeck-pro-qKwPJp .overlap-group4-lvaDZX .screen-shot20200326at2removebgpreview-HPEDV7 {
   opacity             : 0;
   transform           : translate(0, 50px);
 }
-.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .screen-shot20200326at2removebgpreview-FIB11d {
+.sounddeck-pro-qKwPJp .overlap-group4-lvaDZX .screen-shot20200326at2removebgpreview-HPEDV7 {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .screen-shot20200326at2removebgpreview-FIB11d:hover {
+.sounddeck-pro-qKwPJp .overlap-group4-lvaDZX .screen-shot20200326at2removebgpreview-HPEDV7:hover {
   transform           : scale(0.9);
 }
-.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .small-yet-powerful-lBnVLL {
+.sounddeck-pro-qKwPJp .overlap-group4-lvaDZX .small-yet-powerful-x4vklM {
   position            : absolute;
   top                 : 17px;
   left                : 0px;
@@ -2371,17 +2382,17 @@ div {
   text-align          : center;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .small-yet-powerful-lBnVLL {
+.sounddeck-pro-qKwPJp .overlap-group4-lvaDZX .small-yet-powerful-x4vklM {
   opacity             : 0;
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .small-yet-powerful-lBnVLL {
+.sounddeck-pro-qKwPJp .overlap-group4-lvaDZX .small-yet-powerful-x4vklM {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .overlap-group4-cZ7Azo .small-yet-powerful-lBnVLL:hover {
+.sounddeck-pro-qKwPJp .overlap-group4-lvaDZX .small-yet-powerful-x4vklM:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .the-sounddeck-pro-ha-KAGqV7 {
+.sounddeck-pro-qKwPJp .the-sounddeck-pro-ha-AmufMG {
   position            : relative;
   width               : 1325px;
   height              : auto;
@@ -2395,29 +2406,29 @@ div {
   margin-left         : 29.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .the-sounddeck-pro-ha-KAGqV7 {
+.sounddeck-pro-qKwPJp .the-sounddeck-pro-ha-AmufMG {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .overlap-group5-EYRmSe {
+.sounddeck-pro-qKwPJp .overlap-group5-sUI8yA {
   position            : relative;
   width               : 1012px;
   height              : 1045px;
   margin-top          : 138px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .overlap-group5-EYRmSe .screen-shot20200325at4removebgpreview6-wsh9kT {
+.sounddeck-pro-qKwPJp .overlap-group5-sUI8yA .screen-shot20200325at4removebgpreview6-4Ldcc7 {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
   width               : 1012px;
   height              : 1045px;
 }
-.sounddeck-pro-pSFD5J .overlap-group5-EYRmSe .screen-shot20200325at4removebgpreview6-wsh9kT {
+.sounddeck-pro-qKwPJp .overlap-group5-sUI8yA .screen-shot20200325at4removebgpreview6-4Ldcc7 {
   opacity             : 0;
   transform           : translate(0, 50px);
 }
-.sounddeck-pro-pSFD5J .overlap-group5-EYRmSe .rectangle13-kRfY5D {
+.sounddeck-pro-qKwPJp .overlap-group5-sUI8yA .rectangle13-fYvbyL {
   position            : absolute;
   top                 : 339px;
   left                : 60px;
@@ -2428,11 +2439,11 @@ div {
   border              : 13.0px solid #ffffff;
   border-radius       : 24.0px;
 }
-.sounddeck-pro-pSFD5J .overlap-group5-EYRmSe .rectangle13-kRfY5D {
+.sounddeck-pro-qKwPJp .overlap-group5-sUI8yA .rectangle13-fYvbyL {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .overlap-group5-EYRmSe .deep-bass-with-range-AcH0fs {
+.sounddeck-pro-qKwPJp .overlap-group5-sUI8yA .deep-bass-with-range-SmjiI4 {
   position            : absolute;
   top                 : 390px;
   left                : 76px;
@@ -2444,7 +2455,7 @@ div {
   letter-spacing      : -0.48px;
   text-align          : center;
 }
-.sounddeck-pro-pSFD5J .overlap-group5-EYRmSe .a-six-microphone-arr-wNDOYJ {
+.sounddeck-pro-qKwPJp .overlap-group5-sUI8yA .a-six-microphone-arr-bFS5SU {
   position            : absolute;
   top                 : 460px;
   left                : 120px;
@@ -2456,25 +2467,25 @@ div {
   letter-spacing      : -0.35px;
   text-align          : center;
 }
-.sounddeck-pro-pSFD5J .overlap-group6-XRoLwE {
+.sounddeck-pro-qKwPJp .overlap-group6-M6rafW {
   position            : relative;
   width               : 1380px;
   height              : 844px;
   margin-top          : 140px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .overlap-group6-XRoLwE .homepodspgryproductlifestyleprint1-353oSo {
+.sounddeck-pro-qKwPJp .overlap-group6-M6rafW .homepodspgryproductlifestyleprint1-zBybxO {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
   width               : 1380px;
   height              : 844px;
 }
-.sounddeck-pro-pSFD5J .overlap-group6-XRoLwE .homepodspgryproductlifestyleprint1-353oSo {
+.sounddeck-pro-qKwPJp .overlap-group6-M6rafW .homepodspgryproductlifestyleprint1-zBybxO {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .overlap-group6-XRoLwE .beautiful-u5v6Y6 {
+.sounddeck-pro-qKwPJp .overlap-group6-M6rafW .beautiful-dFWoRm {
   position            : absolute;
   top                 : 70px;
   left                : 742px;
@@ -2486,7 +2497,7 @@ div {
   letter-spacing      : -1.21px;
   text-align          : center;
 }
-.sounddeck-pro-pSFD5J .overlap-group6-XRoLwE .inside-out-D9u11o {
+.sounddeck-pro-qKwPJp .overlap-group6-M6rafW .inside-out-ygwxPe {
   position            : absolute;
   top                 : 200px;
   left                : 771px;
@@ -2498,7 +2509,7 @@ div {
   letter-spacing      : -0.87px;
   text-align          : center;
 }
-.sounddeck-pro-pSFD5J .wall-to-wall-ceilin-p4PEV3 {
+.sounddeck-pro-qKwPJp .wall-to-wall-ceilin-8qzw5P {
   position            : relative;
   width               : 1325px;
   height              : auto;
@@ -2512,22 +2523,22 @@ div {
   margin-left         : 29.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .wall-to-wall-ceilin-p4PEV3 {
+.sounddeck-pro-qKwPJp .wall-to-wall-ceilin-8qzw5P {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .wall-to-wall-ceilin-p4PEV3 .span1-XW751Q {
+.sounddeck-pro-qKwPJp .wall-to-wall-ceilin-8qzw5P .span1-yNQrx3 {
   background-color    : rgba(65025, 65025, 65025, 0);
   line-height         : 71.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-pSFD5J .wall-to-wall-ceilin-p4PEV3 .span2-KwDM6i {
+.sounddeck-pro-qKwPJp .wall-to-wall-ceilin-8qzw5P .span2-TZ4pUn {
   background-color    : rgba(65025, 65025, 65025, 0);
   font-size           : 40.0px;
   line-height         : 48.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-pSFD5J .group2-ypKAwo {
+.sounddeck-pro-qKwPJp .group2-CXGZ4y {
   position            : relative;
   width               : 1841px;
   height              : 990px;
@@ -2536,18 +2547,18 @@ div {
   margin-left         : -155.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .group2-ypKAwo .screen-shot20200326-at24943-am-yoFoLc {
+.sounddeck-pro-qKwPJp .group2-CXGZ4y .screen-shot20200326-at24943-am-23KriD {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
   width               : 1841px;
   height              : 990px;
 }
-.sounddeck-pro-pSFD5J .group2-ypKAwo .screen-shot20200326-at24943-am-yoFoLc {
+.sounddeck-pro-qKwPJp .group2-CXGZ4y .screen-shot20200326-at24943-am-23KriD {
   opacity             : 0;
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .group2-ypKAwo .for-all-your-music-ZLfPDY {
+.sounddeck-pro-qKwPJp .group2-CXGZ4y .for-all-your-music-4VftO7 {
   position            : absolute;
   top                 : 98px;
   left                : 168px;
@@ -2559,7 +2570,7 @@ div {
   letter-spacing      : -0.28px;
   text-align          : center;
 }
-.sounddeck-pro-pSFD5J .group2-ypKAwo .and-even-more-PSSYhO {
+.sounddeck-pro-qKwPJp .group2-CXGZ4y .and-even-more-f1P8MI {
   position            : absolute;
   top                 : 786px;
   left                : 1263px;
@@ -2571,7 +2582,7 @@ div {
   letter-spacing      : -0.28px;
   text-align          : center;
 }
-.sounddeck-pro-pSFD5J .the-ultimate-music-a-POoq0l {
+.sounddeck-pro-qKwPJp .the-ultimate-music-a-zz11kk {
   position            : relative;
   width               : 1325px;
   height              : auto;
@@ -2585,22 +2596,22 @@ div {
   margin-left         : 1.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .the-ultimate-music-a-POoq0l {
+.sounddeck-pro-qKwPJp .the-ultimate-music-a-zz11kk {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .the-ultimate-music-a-POoq0l .span1-yBRz70 {
+.sounddeck-pro-qKwPJp .the-ultimate-music-a-zz11kk .span1-uBpgBK {
   background-color    : rgba(65025, 65025, 65025, 0);
   line-height         : 71.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-pSFD5J .the-ultimate-music-a-POoq0l .span2-OZcmpV {
+.sounddeck-pro-qKwPJp .the-ultimate-music-a-zz11kk .span2-SetQby {
   background-color    : rgba(65025, 65025, 65025, 0);
   font-size           : 40.0px;
   line-height         : 48.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-pSFD5J .auto-flex4-QJRDge {
+.sounddeck-pro-qKwPJp .auto-flex4-8v9WYA {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -2613,24 +2624,24 @@ div {
   margin-left         : 65.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .spotify-icon-BOuj6A {
+.sounddeck-pro-qKwPJp .auto-flex4-8v9WYA .spotify-icon-FtKuJC {
   position            : relative;
   width               : 485px;
   height              : 171px;
   transition          : all 0.2s ease-in-out;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .spotify-icon-BOuj6A {
+.sounddeck-pro-qKwPJp .auto-flex4-8v9WYA .spotify-icon-FtKuJC {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .spotify-icon-BOuj6A {
+.sounddeck-pro-qKwPJp .auto-flex4-8v9WYA .spotify-icon-FtKuJC {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .spotify-icon-BOuj6A:hover {
+.sounddeck-pro-qKwPJp .auto-flex4-8v9WYA .spotify-icon-FtKuJC:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .a5475472409fomonewssignupapplemusicvectorlogo-PhU1UR {
+.sounddeck-pro-qKwPJp .auto-flex4-8v9WYA .a5475472409fomonewssignupapplemusicvectorlogo-4yFbBE {
   position            : relative;
   width               : 560px;
   height              : 131px;
@@ -2638,17 +2649,17 @@ div {
   margin-left         : 70px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .a5475472409fomonewssignupapplemusicvectorlogo-PhU1UR {
+.sounddeck-pro-qKwPJp .auto-flex4-8v9WYA .a5475472409fomonewssignupapplemusicvectorlogo-4yFbBE {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .a5475472409fomonewssignupapplemusicvectorlogo-PhU1UR {
+.sounddeck-pro-qKwPJp .auto-flex4-8v9WYA .a5475472409fomonewssignupapplemusicvectorlogo-4yFbBE {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex4-QJRDge .a5475472409fomonewssignupapplemusicvectorlogo-PhU1UR:hover {
+.sounddeck-pro-qKwPJp .auto-flex4-8v9WYA .a5475472409fomonewssignupapplemusicvectorlogo-4yFbBE:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -2661,7 +2672,7 @@ div {
   margin-left         : 96.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 {
   position            : relative;
   display             : flex;
   flex-direction      : column;
@@ -2673,7 +2684,7 @@ div {
   margin-bottom       : 9.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -2685,17 +2696,17 @@ div {
   box-sizing          : border-box;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA:hover {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -2706,14 +2717,14 @@ div {
   box-sizing          : border-box;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape13-aT2fAQ {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 .shape13-kJjhjq {
   position            : relative;
   width               : 4px;
   height              : 33px;
   margin-bottom       : 17.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape12-MzQdrx {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 .shape12-No1lAw {
   position            : relative;
   width               : 5px;
   height              : 51px;
@@ -2721,7 +2732,7 @@ div {
   margin-bottom       : 8.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape11-FetakQ {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 .shape11-Po8fZu {
   position            : relative;
   width               : 5px;
   height              : 60px;
@@ -2729,7 +2740,7 @@ div {
   margin-bottom       : 4.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape10-OZ2Ngw {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 .shape10-anmlSP {
   position            : relative;
   width               : 5px;
   height              : 63px;
@@ -2737,7 +2748,7 @@ div {
   margin-bottom       : 2.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape9-kP6VXP {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 .shape9-2XjDB5 {
   position            : relative;
   width               : 5px;
   height              : 61px;
@@ -2745,7 +2756,7 @@ div {
   margin-bottom       : 2.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape8-JBGzJt {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 .shape8-SrVMAQ {
   position            : relative;
   width               : 6px;
   height              : 79px;
@@ -2753,7 +2764,7 @@ div {
   margin-bottom       : 2.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape7-qg6VoD {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 .shape7-3LcVMJ {
   position            : relative;
   width               : 6px;
   height              : 90px;
@@ -2761,7 +2772,7 @@ div {
   margin-bottom       : 1.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape6-n2nGWO {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 .shape6-Vx2u6h {
   position            : relative;
   width               : 6px;
   height              : 95px;
@@ -2769,7 +2780,7 @@ div {
   margin-bottom       : 1.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape5-PnJ1An {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 .shape5-Ggn36Z {
   position            : relative;
   width               : 6px;
   height              : 97px;
@@ -2777,7 +2788,7 @@ div {
   margin-bottom       : 2.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape4-dXgpYU {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 .shape4-mrckK8 {
   position            : relative;
   width               : 6px;
   height              : 96px;
@@ -2785,7 +2796,7 @@ div {
   margin-bottom       : 1.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape3-wAi9Pe {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 .shape3-nOxCCf {
   position            : relative;
   width               : 6px;
   height              : 94px;
@@ -2793,7 +2804,7 @@ div {
   margin-bottom       : 1.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape2-mudORR {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 .shape2-PiSO1F {
   position            : relative;
   width               : 6px;
   height              : 105px;
@@ -2801,7 +2812,7 @@ div {
   margin-bottom       : 2.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape1-DLwie7 {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 .shape1-Vsauod {
   position            : relative;
   width               : 7px;
   height              : 111px;
@@ -2809,14 +2820,14 @@ div {
   margin-bottom       : 2.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .iphonewebbrandonlinelogosoundcloudinterneticon-8I5QzA .layerx00201-HbJZEm .shape-B1Diyu {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .iphonewebbrandonlinelogosoundcloudinterneticon-RyLMlh .layerx00201-WDLYk6 .shape-mflAL7 {
   position            : relative;
   width               : 148px;
   height              : 123px;
   margin-left         : 6px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .google-podcasts-logo-210zLj {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .google-podcasts-logo-hXmaLZ {
   position            : relative;
   width               : 304px;
   height              : 304px;
@@ -2824,17 +2835,17 @@ div {
   margin-top          : 35px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .google-podcasts-logo-210zLj {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .google-podcasts-logo-hXmaLZ {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .google-podcasts-logo-210zLj {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .google-podcasts-logo-hXmaLZ {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex2-BScI5B .google-podcasts-logo-210zLj:hover {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex2-BIOmr1 .google-podcasts-logo-hXmaLZ:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F {
   position            : relative;
   display             : flex;
   flex-direction      : column;
@@ -2846,7 +2857,7 @@ div {
   margin-left         : 52px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex3-Ti8W8S {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -2858,7 +2869,7 @@ div {
   margin-right        : 12.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .tuneinicon-Oq9A6D {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex3-Ti8W8S .tuneinicon-VCn4Od {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -2871,23 +2882,23 @@ div {
   box-sizing          : border-box;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .tuneinicon-Oq9A6D {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex3-Ti8W8S .tuneinicon-VCn4Od {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .tuneinicon-Oq9A6D {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex3-Ti8W8S .tuneinicon-VCn4Od {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .tuneinicon-Oq9A6D:hover {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex3-Ti8W8S .tuneinicon-VCn4Od:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .tuneinicon-Oq9A6D .shape-Jof8vD {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex3-Ti8W8S .tuneinicon-VCn4Od .shape-Ile56e {
   position            : relative;
   width               : 249px;
   height              : 245px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-v7eiet {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex3-Ti8W8S .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-X8JGJT {
   position            : relative;
   width               : 237px;
   height              : 237px;
@@ -2895,17 +2906,17 @@ div {
   margin-left         : 75px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-v7eiet {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex3-Ti8W8S .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-X8JGJT {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-v7eiet {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex3-Ti8W8S .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-X8JGJT {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex3-x0FfSA .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-v7eiet:hover {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex3-Ti8W8S .a86b5d7cd5b050e5545851e83244dc086filepodcastsiossvgwikimediacommons10241024-X8JGJT:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex-T3a1Of {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -2917,7 +2928,7 @@ div {
   margin-top          : 0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .amazonprimelogo4-e461-cdcf6seeklogocom-KiXA7Q {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex-T3a1Of .amazonprimelogo4-e461-cdcf6seeklogocom-OnIfhu {
   position            : relative;
   width               : 300px;
   height              : 187px;
@@ -2925,17 +2936,17 @@ div {
   margin-bottom       : 9.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .amazonprimelogo4-e461-cdcf6seeklogocom-KiXA7Q {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex-T3a1Of .amazonprimelogo4-e461-cdcf6seeklogocom-OnIfhu {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .amazonprimelogo4-e461-cdcf6seeklogocom-KiXA7Q {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex-T3a1Of .amazonprimelogo4-e461-cdcf6seeklogocom-OnIfhu {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .amazonprimelogo4-e461-cdcf6seeklogocom-KiXA7Q:hover {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex-T3a1Of .amazonprimelogo4-e461-cdcf6seeklogocom-OnIfhu:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .audible4569533-qw2WkE {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex-T3a1Of .audible4569533-i1EsTy {
   position            : relative;
   width               : 256px;
   height              : 256px;
@@ -2943,17 +2954,17 @@ div {
   margin-left         : 61px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .audible4569533-qw2WkE {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex-T3a1Of .audible4569533-i1EsTy {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .audible4569533-qw2WkE {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex-T3a1Of .audible4569533-i1EsTy {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex6-Wr4cuR .auto-flex5-ZbHKVV .auto-flex-4WFH3c .audible4569533-qw2WkE:hover {
+.sounddeck-pro-qKwPJp .auto-flex6-lx5iI2 .auto-flex5-AXLE6F .auto-flex-T3a1Of .audible4569533-i1EsTy:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs {
   position            : relative;
   display             : flex;
   flex-direction      : column;
@@ -2965,13 +2976,13 @@ div {
   margin-top          : 101px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .overlap-group-ukFPRM {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .overlap-group-cvXEvE {
   position            : relative;
   width               : 1460px;
   height              : 616px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .overlap-group-ukFPRM .rectangle4-M7PDzM {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .overlap-group-cvXEvE .rectangle4-TOK3oE {
   overflow            : hidden;
   position            : absolute;
   top                 : 0px;
@@ -2979,14 +2990,14 @@ div {
   width               : 1460px;
   height              : 616px;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .overlap-group-ukFPRM .rectangle4-M7PDzM video {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .overlap-group-cvXEvE .rectangle4-TOK3oE video {
   object-fit          : cover;
   width               : 100%;
   height              : 100%;
 }
 /* IE doesn't support cover  */
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-  .sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .overlap-group-ukFPRM .rectangle4-M7PDzM video {
+  .sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .overlap-group-cvXEvE .rectangle4-TOK3oE video {
     min-width           : 100%;
     min-height          : 100%;
     position            : absolute;
@@ -2997,7 +3008,7 @@ div {
     right               : -9999px;
   }
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .overlap-group-ukFPRM .listen-in-to-the-ex-G3SNhO {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .overlap-group-cvXEvE .listen-in-to-the-ex-PIpqF8 {
   position            : absolute;
   top                 : 253px;
   left                : 336px;
@@ -3009,11 +3020,11 @@ div {
   letter-spacing      : -0.46px;
   text-align          : center;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .overlap-group-ukFPRM .listen-in-to-the-ex-G3SNhO {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .overlap-group-cvXEvE .listen-in-to-the-ex-PIpqF8 {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .hear-what-experts-an-ItMxIk {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .hear-what-experts-an-NVdYvq {
   position            : relative;
   width               : auto;
   min-width           : 1121.65344238px;
@@ -3029,13 +3040,13 @@ div {
   margin-left         : 13.65px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .hear-what-experts-an-ItMxIk {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .hear-what-experts-an-NVdYvq {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .hear-what-experts-an-ItMxIk:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .hear-what-experts-an-NVdYvq:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .buy-the-sounddeck-pr-GrTn0P {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .buy-the-sounddeck-pr-TBlu9o {
   position            : relative;
   width               : auto;
   min-width           : 1044.53796387px;
@@ -3051,17 +3062,17 @@ div {
   margin-left         : 0.54px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .buy-the-sounddeck-pr-GrTn0P {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .buy-the-sounddeck-pr-TBlu9o {
   opacity             : 0;
   transform           : translate(0, 25px);
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .buy-the-sounddeck-pr-GrTn0P {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .buy-the-sounddeck-pr-TBlu9o {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .buy-the-sounddeck-pr-GrTn0P:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .buy-the-sounddeck-pr-TBlu9o:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT {
   position            : relative;
   display             : flex;
   flex-direction      : column;
@@ -3073,7 +3084,7 @@ div {
   margin-top          : 98px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -3084,7 +3095,7 @@ div {
   box-sizing          : border-box;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb {
   position            : relative;
   display             : flex;
   flex-direction      : column;
@@ -3096,7 +3107,7 @@ div {
   box-sizing          : border-box;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .our-company-14evq8 {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .our-company-0JlrkC {
   position            : relative;
   width               : auto;
   min-width           : 285.496673584px;
@@ -3110,14 +3121,14 @@ div {
   transition          : all 0.2s ease-in;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .our-company-14evq8 {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .our-company-0JlrkC {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .our-company-14evq8:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .our-company-0JlrkC:hover {
   transform           : scale(1.1);
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .blog-VqtU1Y {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .blog-hwBH34 {
   position            : relative;
   width               : auto;
   min-width           : 94.4966659546px;
@@ -3133,14 +3144,14 @@ div {
   margin-left         : 1.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .blog-VqtU1Y {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .blog-hwBH34 {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .blog-VqtU1Y:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .blog-hwBH34:hover {
   transform           : scale(1.1);
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .press-releases-and-n-sQjdzR {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .press-releases-and-n-QqPRZ7 {
   position            : relative;
   width               : auto;
   min-width           : 526.496643066px;
@@ -3156,14 +3167,14 @@ div {
   margin-left         : 3.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .press-releases-and-n-sQjdzR {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .press-releases-and-n-QqPRZ7 {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .press-releases-and-n-sQjdzR:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .press-releases-and-n-QqPRZ7:hover {
   transform           : scale(1.1);
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .careers-bGuIkK {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .careers-iJWPxN {
   position            : relative;
   width               : auto;
   min-width           : 164.496673584px;
@@ -3179,14 +3190,14 @@ div {
   margin-left         : 1.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .careers-bGuIkK {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .careers-iJWPxN {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .careers-bGuIkK:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .careers-iJWPxN:hover {
   transform           : scale(1.1);
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .responsibility-M8Ww9s {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .responsibility-Pi5eNR {
   position            : relative;
   width               : auto;
   min-width           : 293.496673584px;
@@ -3201,14 +3212,14 @@ div {
   margin-top          : 20px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .responsibility-M8Ww9s {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .responsibility-Pi5eNR {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .responsibility-M8Ww9s:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .responsibility-Pi5eNR:hover {
   transform           : scale(1.1);
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .innovation-VpM8vR {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .innovation-Ii18xe {
   position            : relative;
   width               : auto;
   min-width           : 217.496673584px;
@@ -3223,14 +3234,14 @@ div {
   margin-top          : 14px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .innovation-VpM8vR {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .innovation-Ii18xe {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex3-Hrkd9u .innovation-VpM8vR:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex3-cl5QYb .innovation-Ii18xe:hover {
   transform           : scale(1.1);
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g {
   position            : relative;
   width               : 297px;
   height              : 407px;
@@ -3238,7 +3249,7 @@ div {
   margin-bottom       : 1.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .certified-refurbishe-DwZLWd {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .certified-refurbishe-BQ2hqz {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
@@ -3251,13 +3262,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .certified-refurbishe-DwZLWd {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .certified-refurbishe-BQ2hqz {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .certified-refurbishe-DwZLWd:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .certified-refurbishe-BQ2hqz:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .student-partners-PEsaz1 {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .student-partners-3M1fPV {
   position            : absolute;
   top                 : 57px;
   left                : 0px;
@@ -3270,13 +3281,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .student-partners-PEsaz1 {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .student-partners-3M1fPV {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .student-partners-PEsaz1:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .student-partners-3M1fPV:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .investors-KzSMVn {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .investors-DRC6uZ {
   position            : absolute;
   top                 : 117px;
   left                : 0px;
@@ -3289,13 +3300,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .investors-KzSMVn {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .investors-DRC6uZ {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .investors-KzSMVn:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .investors-DRC6uZ:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .developer-portal-LRFXY1 {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .developer-portal-QvHGne {
   position            : absolute;
   top                 : 178px;
   left                : 0px;
@@ -3308,13 +3319,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .developer-portal-LRFXY1 {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .developer-portal-QvHGne {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .developer-portal-LRFXY1:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .developer-portal-QvHGne:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .sign-up-for-newslett-H5S3lC {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .sign-up-for-newslett-TwdZXr {
   position            : absolute;
   top                 : 239px;
   left                : 0px;
@@ -3327,13 +3338,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .sign-up-for-newslett-H5S3lC {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .sign-up-for-newslett-TwdZXr {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .sign-up-for-newslett-H5S3lC:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .sign-up-for-newslett-TwdZXr:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .find-a-store-ZS1TiL {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .find-a-store-vGfe6K {
   position            : absolute;
   top                 : 299px;
   left                : 1px;
@@ -3346,13 +3357,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .find-a-store-ZS1TiL {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .find-a-store-vGfe6K {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .overlap-group7-IyUEcN .find-a-store-ZS1TiL:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .overlap-group7-haLp8g .find-a-store-vGfe6K:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W {
   position            : relative;
   display             : flex;
   flex-direction      : column;
@@ -3364,7 +3375,7 @@ div {
   margin-left         : 52px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .shipping-delivery-QLAka6 {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .shipping-delivery-lw5Dd8 {
   position            : relative;
   width               : auto;
   min-width           : 260.496673584px;
@@ -3378,13 +3389,13 @@ div {
   transition          : all 0.2s ease-in-out;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .shipping-delivery-QLAka6 {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .shipping-delivery-lw5Dd8 {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .shipping-delivery-QLAka6:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .shipping-delivery-lw5Dd8:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU {
   position            : relative;
   width               : 172px;
   height              : 351px;
@@ -3392,7 +3403,7 @@ div {
   margin-left         : 3.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .about-us-MQSXxR {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .about-us-mPBXbi {
   position            : absolute;
   top                 : 60px;
   left                : 2px;
@@ -3405,13 +3416,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .about-us-MQSXxR {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .about-us-mPBXbi {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .about-us-MQSXxR:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .about-us-mPBXbi:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .security-Yu8wUg {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .security-xWCyRg {
   position            : absolute;
   top                 : 121px;
   left                : 1px;
@@ -3424,13 +3435,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .security-Yu8wUg {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .security-xWCyRg {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .security-Yu8wUg:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .security-xWCyRg:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .conformity-rbSbWO {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .conformity-WC2KnW {
   position            : absolute;
   top                 : 180px;
   left                : 0px;
@@ -3443,13 +3454,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .conformity-rbSbWO {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .conformity-WC2KnW {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .conformity-rbSbWO:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .conformity-WC2KnW:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .order-status-PnTN7g {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .order-status-xUrzcn {
   position            : absolute;
   top                 : 0px;
   left                : 1px;
@@ -3462,13 +3473,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .order-status-PnTN7g {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .order-status-xUrzcn {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .order-status-PnTN7g:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .order-status-xUrzcn:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .trade-up-MC7fjh {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .trade-up-1GytmC {
   position            : absolute;
   top                 : 243px;
   left                : 2px;
@@ -3481,13 +3492,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .trade-up-MC7fjh {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .trade-up-1GytmC {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex5-AQ0WR0 .auto-flex2-SjalIU .overlap-group8-24x6uS .trade-up-MC7fjh:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex5-6K7Yx5 .auto-flex2-BzR81W .overlap-group8-oUFTFU .trade-up-1GytmC:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -3501,7 +3512,7 @@ div {
   margin-right        : 1.5px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .icons8facebook50-xLQ62N {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .icons8facebook50-vdtfdu {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -3513,19 +3524,19 @@ div {
   box-sizing          : border-box;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .icons8facebook50-xLQ62N {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .icons8facebook50-vdtfdu {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .icons8facebook50-xLQ62N:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .icons8facebook50-vdtfdu:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .icons8facebook50-xLQ62N .shape-Rur6ZA {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .icons8facebook50-vdtfdu .shape-03PFZr {
   position            : relative;
   width               : 50px;
   height              : 50px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .group3-sDUeyH {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -3537,7 +3548,7 @@ div {
   margin-left         : 34px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8twitter50-8SviQC {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .group3-sDUeyH .icons8twitter50-9Iz9ju {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -3549,19 +3560,19 @@ div {
   box-sizing          : border-box;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8twitter50-8SviQC {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .group3-sDUeyH .icons8twitter50-9Iz9ju {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8twitter50-8SviQC:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .group3-sDUeyH .icons8twitter50-9Iz9ju:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8twitter50-8SviQC .shape-3JssFK {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .group3-sDUeyH .icons8twitter50-9Iz9ju .shape-Lr1PeC {
   position            : relative;
   width               : 61px;
   height              : 50px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8youtube50-J8a8km {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .group3-sDUeyH .icons8youtube50-kRtLUI {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -3574,19 +3585,19 @@ div {
   margin-left         : 28px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8youtube50-J8a8km {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .group3-sDUeyH .icons8youtube50-kRtLUI {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8youtube50-J8a8km:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .group3-sDUeyH .icons8youtube50-kRtLUI:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8youtube50-J8a8km .shape-hUD3jh {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .group3-sDUeyH .icons8youtube50-kRtLUI .shape-MP7M4r {
   position            : relative;
   width               : 50px;
   height              : 50px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8instagram50-b7xN1u {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .group3-sDUeyH .icons8instagram50-K9lyzE {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -3599,26 +3610,26 @@ div {
   margin-left         : 33px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8instagram50-b7xN1u {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .group3-sDUeyH .icons8instagram50-K9lyzE {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8instagram50-b7xN1u:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .group3-sDUeyH .icons8instagram50-K9lyzE:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .group3-AO25jz .icons8instagram50-b7xN1u .shape-tlBP1b {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .group3-sDUeyH .icons8instagram50-K9lyzE .shape-jZOB6b {
   position            : relative;
   width               : 50px;
   height              : 50px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .overlap-group9-swWTb4 {
   position            : relative;
   width               : 810px;
   height              : 36px;
   margin-left         : 162px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .lashell-noe-legal20-0FFK3o {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .overlap-group9-swWTb4 .lashell-noe-legal20-64Kmgi {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
@@ -3631,13 +3642,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .lashell-noe-legal20-0FFK3o {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .overlap-group9-swWTb4 .lashell-noe-legal20-64Kmgi {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .lashell-noe-legal20-0FFK3o:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .overlap-group9-swWTb4 .lashell-noe-legal20-64Kmgi:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .privacy-statement-IzGWgV {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .overlap-group9-swWTb4 .privacy-statement-pHJUZY {
   position            : absolute;
   top                 : 0px;
   left                : 382px;
@@ -3650,13 +3661,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .privacy-statement-IzGWgV {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .overlap-group9-swWTb4 .privacy-statement-pHJUZY {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .privacy-statement-IzGWgV:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .overlap-group9-swWTb4 .privacy-statement-pHJUZY:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .site-map-W2J1yG {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .overlap-group9-swWTb4 .site-map-Bnuu8C {
   position            : absolute;
   top                 : 0px;
   left                : 693px;
@@ -3669,10 +3680,10 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .site-map-W2J1yG {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .overlap-group9-swWTb4 .site-map-Bnuu8C {
   pointer-events      : auto;
 }
-.sounddeck-pro-pSFD5J .auto-flex1-1rb6rP .group-rgPFYZ .auto-flex-jIhD5c .overlap-group9-OFgTWZ .site-map-W2J1yG:hover {
+.sounddeck-pro-qKwPJp .auto-flex1-gqbTcs .group-ZchhYT .auto-flex-Ot3kHv .overlap-group9-swWTb4 .site-map-Bnuu8C:hover {
   text-decoration     : underline;
 }
 /* .anima-animate-appear prefix for appear animations */

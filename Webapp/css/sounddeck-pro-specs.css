@@ -8,12 +8,20 @@
                           src: url('../fonts/SF-Pro-Display-Medium.otf') format("opentype");
                         }
                         @font-face {
-                          font-family: "SFProText-Semibold";
-                          src: url('../fonts/SF-Pro-Text-Semibold.otf') format("opentype");
+                          font-family: "SFProText-Heavy";
+                          src: url('../fonts/SF-Pro-Text-Heavy.otf') format("opentype");
                         }
                         @font-face {
                           font-family: "SFProDisplay-Heavy";
                           src: url('../fonts/SF-Pro-Display-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFCompactRounded-Heavy";
+                          src: url('../fonts/SF-Compact-Rounded-Heavy.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Semibold";
+                          src: url('../fonts/SF-Pro-Text-Semibold.otf') format("opentype");
                         }
                         @font-face {
                           font-family: "SFProText-Bold";
@@ -22,18 +30,6 @@
                         @font-face {
                           font-family: "SFProText-Light";
                           src: url('../fonts/SF-Pro-Text-Light.otf') format("opentype");
-                        }
-                        @font-face {
-                          font-family: "SFProText-Heavy";
-                          src: url('../fonts/SF-Pro-Text-Heavy.otf') format("opentype");
-                        }
-                        @font-face {
-                          font-family: "SFCompactRounded-Heavy";
-                          src: url('../fonts/SF-Compact-Rounded-Heavy.otf') format("opentype");
-                        }
-                        @font-face {
-                          font-family: "SFProText-Medium";
-                          src: url('../fonts/SF-Pro-Text-Medium.otf') format("opentype");
                         }
                         @font-face {
                           font-family: "SFProDisplay-Thin";
@@ -47,8 +43,12 @@
                           font-family: "SFProDisplay-Regular";
                           src: url('../fonts/SF-Pro-Display-Regular.otf') format("opentype");
                         }
+                        @font-face {
+                          font-family: "SFProText-Medium";
+                          src: url('../fonts/SF-Pro-Text-Medium.otf') format("opentype");
+                        }
                         
-.sounddeck-pro-specs-YcVjDc {
+.sounddeck-pro-specs-DEnkkN {
   overflow            : hidden;
   position            : relative;
   display             : flex;
@@ -81,20 +81,20 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.anima-animate-enter55 {
+.anima-animate-enter113 {
   opacity             : 0;
   transform           : translate(-25px, 0);
   display             : block;
-  -webkit-animation   : anima-animate-enter55-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter55-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -o-animation        : anima-animate-enter55-frames 0.20000000298s ease-in-out 1 normal forwards;
-  animation           : anima-animate-enter55-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter113-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter113-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter113-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter113-frames 0.20000000298s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter55-frames {
+@-webkit-keyframes anima-animate-enter113-frames {
   0%
    
   {
@@ -110,7 +110,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter55-frames {
+@-moz-keyframes anima-animate-enter113-frames {
   0%
    
   {
@@ -126,7 +126,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter55-frames {
+@-o-keyframes anima-animate-enter113-frames {
   0%
    
   {
@@ -142,7 +142,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter55-frames {
+@keyframes anima-animate-enter113-frames {
   0%
    
   {
@@ -158,20 +158,20 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter56 {
+.anima-animate-enter114 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter56-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter56-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -o-animation        : anima-animate-enter56-frames 0.20000000298s ease-in-out 1 normal forwards;
-  animation           : anima-animate-enter56-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter114-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter114-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter114-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter114-frames 0.20000000298s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter56-frames {
+@-webkit-keyframes anima-animate-enter114-frames {
   0%
    
   {
@@ -187,7 +187,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter56-frames {
+@-moz-keyframes anima-animate-enter114-frames {
   0%
    
   {
@@ -203,7 +203,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter56-frames {
+@-o-keyframes anima-animate-enter114-frames {
   0%
    
   {
@@ -219,7 +219,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter56-frames {
+@keyframes anima-animate-enter114-frames {
   0%
    
   {
@@ -235,13 +235,13 @@ div {
   transform: translate(0,0);
     }
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY {
   position            : relative;
   width               : 1460px;
   height              : 108px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .rectangle-kUUQym {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .rectangle-qCGxCr {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
@@ -250,7 +250,7 @@ div {
   background-color    : #000000;
   border              : 1.0px solid #969696;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .line-oV2VDi {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .line-OtE97T {
   position            : absolute;
   top                 : 93px;
   left                : 487px;
@@ -258,13 +258,13 @@ div {
   height              : 5px;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .line-oV2VDi {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .line-OtE97T {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .line-oV2VDi:hover {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .line-OtE97T:hover {
   transform           : translate(0, -5px);
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .screen-shot20200320-at12554-am-UAAQhp {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .screen-shot20200320-at12554-am-n8zLpk {
   position            : absolute;
   top                 : 21px;
   left                : 6px;
@@ -272,13 +272,13 @@ div {
   height              : 70px;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .screen-shot20200320-at12554-am-UAAQhp {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .screen-shot20200320-at12554-am-n8zLpk {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .screen-shot20200320-at12554-am-UAAQhp:hover {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .screen-shot20200320-at12554-am-n8zLpk:hover {
   box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .s-peakers-XPSsOp {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .s-peakers-D7Plaq {
   position            : absolute;
   top                 : 35px;
   left                : 483px;
@@ -291,25 +291,25 @@ div {
   text-align          : center;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .s-peakers-XPSsOp {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .s-peakers-D7Plaq {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .s-peakers-XPSsOp:hover {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .s-peakers-D7Plaq:hover {
   transform           : translate(0, -5px);
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .s-peakers-XPSsOp .span1-OZX98Q {
+.sounddeck-pro-specs-DEnkkN .s-peakers-D7Plaq .span1-5UYhbR {
   background-color    : rgba(65025, 65025, 65025, 0);
   line-height         : 0.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-specs-YcVjDc .s-peakers-XPSsOp .span2-2KNlZ9 {
+.sounddeck-pro-specs-DEnkkN .s-peakers-D7Plaq .span2-Y6dzep {
   background-color    : rgba(65025, 65025, 65025, 0);
   font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
   line-height         : 0.0px;
   letter-spacing      : -0.16px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .s-hop-or8ezj {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .s-hop-qTJfHO {
   position            : absolute;
   top                 : 36px;
   left                : 741px;
@@ -322,25 +322,25 @@ div {
   text-align          : center;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .s-hop-or8ezj {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .s-hop-qTJfHO {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .s-hop-or8ezj:hover {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .s-hop-qTJfHO:hover {
   transform           : translate(0, -5px);
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .s-hop-or8ezj .span1-nX8uOp {
+.sounddeck-pro-specs-DEnkkN .s-hop-qTJfHO .span1-83Yq4Z {
   background-color    : rgba(65025, 65025, 65025, 0);
   line-height         : 0.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-specs-YcVjDc .s-hop-or8ezj .span2-h2N6xV {
+.sounddeck-pro-specs-DEnkkN .s-hop-qTJfHO .span2-oIdLDm {
   background-color    : rgba(65025, 65025, 65025, 0);
   font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
   line-height         : 0.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .a-bout-Uql76v {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .a-bout-gpbsAE {
   position            : absolute;
   top                 : 36px;
   left                : 903px;
@@ -353,26 +353,26 @@ div {
   text-align          : center;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .a-bout-Uql76v {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .a-bout-gpbsAE {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .a-bout-Uql76v:hover {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .a-bout-gpbsAE:hover {
   transform           : translate(0, -5px);
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .a-bout-Uql76v .span1-IlPLoR {
+.sounddeck-pro-specs-DEnkkN .a-bout-gpbsAE .span1-yYnZon {
   background-color    : rgba(65025, 65025, 65025, 0);
   line-height         : 48.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-specs-YcVjDc .a-bout-Uql76v .span2-wKWDF4 {
+.sounddeck-pro-specs-DEnkkN .a-bout-gpbsAE .span2-W2zJJS {
   background-color    : rgba(65025, 65025, 65025, 0);
   font-size           : 25.0px;
   font-family         : "SFProDisplay-Heavy", Helvetica, Arial, serif;
   line-height         : 30.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group9-pdEacX {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .group9-ZXeuI5 {
   position            : absolute;
   top                 : 20px;
   left                : 1366px;
@@ -380,41 +380,41 @@ div {
   height              : 69px;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group9-pdEacX {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .group9-ZXeuI5 {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group9-pdEacX:hover {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .group9-ZXeuI5:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group9-pdEacX .oval-DPYh5t {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .group9-ZXeuI5 .oval-4E7zlj {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
   width               : 69px;
   height              : 69px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group9-pdEacX .oval2-9f1GBx {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .group9-ZXeuI5 .oval2-BmPCJ4 {
   position            : absolute;
   top                 : 9px;
   left                : 9px;
   width               : 50px;
   height              : 50px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group9-pdEacX .oval3-bdcTUt {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .group9-ZXeuI5 .oval3-YswF5t {
   position            : absolute;
   top                 : 18px;
   left                : 23px;
   width               : 23px;
   height              : 23px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group9-pdEacX .oval4-dgAxEU {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .group9-ZXeuI5 .oval4-4orapA {
   position            : absolute;
   top                 : 47px;
   left                : 9px;
   width               : 50px;
   height              : 18px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .glyphs-search-EmCqys {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .glyphs-search-Bc6xW8 {
   position            : absolute;
   display             : inline-flex;
   flex-direction      : row;
@@ -427,23 +427,23 @@ div {
   transition          : all 0.2s ease-in-out;
   box-sizing          : border-box;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .glyphs-search-EmCqys {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .glyphs-search-Bc6xW8 {
   opacity             : 0;
   transform           : translate(-25px, 0);
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .glyphs-search-EmCqys {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .glyphs-search-Bc6xW8 {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .glyphs-search-EmCqys:hover {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .glyphs-search-Bc6xW8:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .glyphs-search-EmCqys .search-KQupom {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .glyphs-search-Bc6xW8 .search-PsC13t {
   position            : relative;
   width               : 74px;
   height              : 74px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group10-RsmDoa {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .group10-3nh4HC {
   position            : absolute;
   top                 : 18px;
   left                : 1238px;
@@ -451,20 +451,20 @@ div {
   height              : 77px;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group10-RsmDoa {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .group10-3nh4HC {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group10-RsmDoa:hover {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .group10-3nh4HC:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group10-RsmDoa .shoppingcartpngrepocom-yfdCAY {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .group10-3nh4HC .shoppingcartpngrepocom-psyLlX {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
   width               : 77px;
   height              : 77px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group10-RsmDoa .glyphs-notification-icon-CWzdlK {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .group10-3nh4HC .glyphs-notification-icon-9iIwe5 {
   position            : absolute;
   display             : inline-flex;
   flex-direction      : row;
@@ -476,13 +476,13 @@ div {
   height              : 20px;
   box-sizing          : border-box;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group10-RsmDoa .glyphs-notification-icon-CWzdlK .app-icon-bq3ozG {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .group10-3nh4HC .glyphs-notification-icon-9iIwe5 .app-icon-GlH5XZ {
   position            : relative;
   width               : 20px;
   height              : 20px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group-fBDdpo .group10-RsmDoa .a1-iy0pJ2 {
+.sounddeck-pro-specs-DEnkkN .overlap-group-J4gMbY .group10-3nh4HC .a1-z1p3Mo {
   position            : absolute;
   top                 : 9px;
   left                : 72px;
@@ -494,7 +494,7 @@ div {
   letter-spacing      : -0.24px;
   text-align          : center;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd {
   position            : relative;
   width               : 1418px;
   height              : 3293px;
@@ -502,14 +502,14 @@ div {
   margin-left         : 2.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group5-Vf0cEu {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group5-JOiY0F {
   position            : absolute;
   top                 : 71px;
   left                : 1px;
   width               : 1417px;
   height              : 103px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group5-Vf0cEu .rectangle5-OnWjWq {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group5-JOiY0F .rectangle5-LgBJCe {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
@@ -518,7 +518,7 @@ div {
   background-color    : #000000;
   border-radius       : 29.0px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group5-Vf0cEu .rectangle6-qZlScw {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group5-JOiY0F .rectangle6-IjzwLw {
   position            : absolute;
   top                 : 6px;
   left                : 7px;
@@ -527,14 +527,14 @@ div {
   background-color    : #ffffff;
   border-radius       : 25.0px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group5-Vf0cEu .rectangle61-eFcnMB {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group5-JOiY0F .rectangle61-rqCosT {
   position            : absolute;
   top                 : 6px;
   left                : 7px;
   width               : 1403px;
   height              : 50px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group5-Vf0cEu .sounddeck-pro-x99Fmo {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group5-JOiY0F .sounddeck-pro-naZ3pH {
   position            : absolute;
   top                 : 7px;
   left                : 28px;
@@ -546,7 +546,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group5-Vf0cEu .rectangle3-E4IuVx {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group5-JOiY0F .rectangle3-NolQqw {
   position            : absolute;
   top                 : 11px;
   left                : 709px;
@@ -555,7 +555,7 @@ div {
   background-color    : #060606;
   border-radius       : 20.5px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group5-Vf0cEu .tech-specs-Cbx0oy {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group5-JOiY0F .tech-specs-Efu7pi {
   position            : absolute;
   top                 : 7px;
   left                : 777px;
@@ -567,14 +567,14 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group51-e7MdtW {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
   width               : 1417px;
   height              : 123px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .rectangle5-GhGW7I {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group51-e7MdtW .rectangle5-sEo8Im {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
@@ -583,7 +583,7 @@ div {
   background-color    : #000000;
   border-radius       : 29.0px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .rectangle6-SiSvYY {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group51-e7MdtW .rectangle6-0WDNV9 {
   position            : absolute;
   top                 : 6px;
   left                : 7px;
@@ -592,7 +592,7 @@ div {
   background-color    : #ffffff;
   border-radius       : 25.0px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .rectangle3-m26Y3C {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group51-e7MdtW .rectangle3-4nhKxa {
   position            : absolute;
   top                 : 82px;
   left                : 1103px;
@@ -601,7 +601,7 @@ div {
   background-color    : #7ed221;
   border-radius       : 20.5px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .rectangle61-sxjh2W {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group51-e7MdtW .rectangle61-LUfEUW {
   position            : absolute;
   top                 : 6px;
   left                : 7px;
@@ -610,7 +610,7 @@ div {
   background-color    : #ffffff;
   border-radius       : 25.0px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .rectangle31-k3rYMl {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group51-e7MdtW .rectangle31-w0lDiu {
   position            : absolute;
   top                 : 11px;
   left                : 13px;
@@ -619,7 +619,7 @@ div {
   background-color    : #060606;
   border-radius       : 20.5px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .collection-MCDv7w {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group51-e7MdtW .collection-DhJMoy {
   position            : absolute;
   top                 : 8px;
   left                : 78px;
@@ -631,7 +631,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .accessories-4RfNpG {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group51-e7MdtW .accessories-xRWXK6 {
   position            : absolute;
   top                 : 7px;
   left                : 425px;
@@ -643,7 +643,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .pro-components-nTN2Ai {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group51-e7MdtW .pro-components-iTQanE {
   position            : absolute;
   top                 : 7px;
   left                : 738px;
@@ -655,7 +655,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .group51-eO6RJQ .compare-ssOjHB {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .group51-e7MdtW .compare-kD0xiE {
   position            : absolute;
   top                 : 7px;
   left                : 1140px;
@@ -667,7 +667,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .buy-now-aG0ZTF {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .buy-now-IQoRKt {
   position            : absolute;
   top                 : 80px;
   left                : 1193px;
@@ -679,7 +679,7 @@ div {
   letter-spacing      : -0.13px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .rectangle11-D2Uosl {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .rectangle11-UqZqiC {
   position            : absolute;
   top                 : 157px;
   left                : 13px;
@@ -689,7 +689,7 @@ div {
   border              : 10.0px solid #000000;
   border-radius       : 37.0px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .learn-more-xVXD8K {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .learn-more-v8u9CL {
   position            : absolute;
   top                 : 1901px;
   left                : 562px;
@@ -702,13 +702,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .learn-more-xVXD8K {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .learn-more-v8u9CL {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .learn-more-xVXD8K:hover {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .learn-more-v8u9CL:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .features-include-to-1P5JIF {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .features-include-to-ntrCCL {
   position            : absolute;
   top                 : 1679px;
   left                : 556px;
@@ -720,7 +720,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .ios111-and-above-a-XxeyYo {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .ios111-and-above-a-XxKlrG {
   position            : absolute;
   top                 : 2045px;
   left                : 590px;
@@ -732,7 +732,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line-voltage100-vt-7MfCaZ {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .line-voltage100-vt-xXP4Vu {
   position            : absolute;
   top                 : 2447px;
   left                : 583px;
@@ -744,7 +744,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .colours-oawdeK {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .colours-TEiJ6W {
   position            : absolute;
   top                 : 263px;
   left                : 75px;
@@ -756,7 +756,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .price-FLCutg {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .price-2wjOQE {
   position            : absolute;
   top                 : 433px;
   left                : 76px;
@@ -768,56 +768,56 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line2-lSWsO1 {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .line2-VsKLfx {
   position            : absolute;
   top                 : 499px;
   left                : 76px;
   width               : 1265px;
   height              : 4px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line21-13SS7o {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .line21-JD7pZ7 {
   position            : absolute;
   top                 : 393px;
   left                : 76px;
   width               : 1265px;
   height              : 4px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line22-J8XErl {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .line22-l8Ozwu {
   position            : absolute;
   top                 : 815px;
   left                : 76px;
   width               : 1265px;
   height              : 4px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line23-glaHAd {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .line23-ZH8RYz {
   position            : absolute;
   top                 : 1237px;
   left                : 90px;
   width               : 1265px;
   height              : 4px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line24-RGUTTk {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .line24-vjPxGk {
   position            : absolute;
   top                 : 1615px;
   left                : 90px;
   width               : 1265px;
   height              : 4px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line25-wlsMTS {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .line25-jic2My {
   position            : absolute;
   top                 : 1963px;
   left                : 90px;
   width               : 1265px;
   height              : 4px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .line26-7VaJDi {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .line26-ZUtgGM {
   position            : absolute;
   top                 : 2368px;
   left                : 90px;
   width               : 1265px;
   height              : 4px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .size-and-weight-eh8dNb {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .size-and-weight-QZRAgK {
   position            : absolute;
   top                 : 554px;
   left                : 77px;
@@ -829,7 +829,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .audio-specifications-2Zh6e2 {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .audio-specifications-EMFcQb {
   position            : absolute;
   top                 : 880px;
   left                : 77px;
@@ -841,7 +841,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .supported-audio-form-NSHlJ1 {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .supported-audio-form-PXZ0RM {
   position            : absolute;
   top                 : 1302px;
   left                : 77px;
@@ -853,7 +853,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .accesibility-Yrzn36 {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .accesibility-Bxb08N {
   position            : absolute;
   top                 : 1679px;
   left                : 77px;
@@ -865,7 +865,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .os-and-app-compatibi-0h5Qmw {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .os-and-app-compatibi-EhVORR {
   position            : absolute;
   top                 : 2038px;
   left                : 77px;
@@ -877,7 +877,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .os-and-app-compatibi1-oFdePh {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .os-and-app-compatibi1-0EwXNZ {
   position            : absolute;
   top                 : 2038px;
   left                : 77px;
@@ -889,7 +889,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .electrical-and-usage-oJUtcl {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .electrical-and-usage-cF4aa9 {
   position            : absolute;
   top                 : 2443px;
   left                : 75px;
@@ -901,7 +901,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .a399-for-solo-1bHoF6 {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .a399-for-solo-iZWX4S {
   position            : absolute;
   top                 : 433px;
   left                : 479px;
@@ -913,7 +913,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .a749-for-duo-GVsqHi {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .a749-for-duo-eF8TR4 {
   position            : absolute;
   top                 : 433px;
   left                : 878px;
@@ -925,21 +925,21 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .screen-shot20200326at12removebgpreview-GWwBcJ {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .screen-shot20200326at12removebgpreview-fgXeuX {
   position            : absolute;
   top                 : 215px;
   left                : 1040px;
   width               : 126px;
   height              : 151px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .screen-shot20200326at12removebgpreview1-taBvTF {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .screen-shot20200326at12removebgpreview1-taRils {
   position            : absolute;
   top                 : 215px;
   left                : 626px;
   width               : 126px;
   height              : 151px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .space-black-liBCUG {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .space-black-KSGjSg {
   position            : absolute;
   top                 : 263px;
   left                : 385px;
@@ -951,7 +951,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .dimensions172-mm1-VVxqd7 {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .dimensions172-mm1-7CMdse {
   position            : absolute;
   top                 : 554px;
   left                : 505px;
@@ -963,23 +963,23 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .dimensions172-mm1-VVxqd7 .span1-keHa5s {
+.sounddeck-pro-specs-DEnkkN .dimensions172-mm1-7CMdse .span1-i2T6Fg {
   background-color    : rgba(65025, 65025, 65025, 0);
   line-height         : 0.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-specs-YcVjDc .dimensions172-mm1-VVxqd7 .span2-LyPU07 {
+.sounddeck-pro-specs-DEnkkN .dimensions172-mm1-7CMdse .span2-vD3JVV {
   background-color    : rgba(65025, 65025, 65025, 0);
   font-family         : "SFProDisplay-Thin", Helvetica, Arial, serif;
   line-height         : 0.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-specs-YcVjDc .dimensions172-mm1-VVxqd7 .span3-JwawlF {
+.sounddeck-pro-specs-DEnkkN .dimensions172-mm1-7CMdse .span3-4UC4U4 {
   background-color    : rgba(65025, 65025, 65025, 0);
   line-height         : 0.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .high-excursion-woofe-eXOR01 {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .high-excursion-woofe-eYFeb8 {
   position            : absolute;
   top                 : 884px;
   left                : 562px;
@@ -991,7 +991,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .he-aac-v1-aac16-Su7Xdw {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .he-aac-v1-aac16-vknrVC {
   position            : absolute;
   top                 : 1306px;
   left                : 572px;
@@ -1003,7 +1003,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .weight25-kg-uzH3tE {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .weight25-kg-faoFFM {
   position            : absolute;
   top                 : 554px;
   left                : 933px;
@@ -1015,18 +1015,18 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .weight25-kg-uzH3tE .span1-LhQUNM {
+.sounddeck-pro-specs-DEnkkN .weight25-kg-faoFFM .span1-ST6Z1X {
   background-color    : rgba(65025, 65025, 65025, 0);
   line-height         : 0.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-specs-YcVjDc .weight25-kg-uzH3tE .span2-dvwrq9 {
+.sounddeck-pro-specs-DEnkkN .weight25-kg-faoFFM .span2-0r45E0 {
   background-color    : rgba(65025, 65025, 65025, 0);
   font-family         : "SFProDisplay-Thin", Helvetica, Arial, serif;
   line-height         : 0.0px;
   letter-spacing      : 0.0px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .pearl-white-vZQoex {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .pearl-white-1lByNr {
   position            : absolute;
   top                 : 263px;
   left                : 826px;
@@ -1038,7 +1038,7 @@ div {
   letter-spacing      : -0.15px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .rectangle12-1LvzSQ {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .rectangle12-Y2p3BT {
   position            : absolute;
   top                 : 2716px;
   left                : 78px;
@@ -1047,7 +1047,7 @@ div {
   background-color    : #f2ffe5;
   border-radius       : 24.0px;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .lahell-noe-takes-ac-U6kbu0 {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .lahell-noe-takes-ac-vB9n54 {
   position            : absolute;
   top                 : 2817px;
   left                : 120px;
@@ -1059,7 +1059,7 @@ div {
   letter-spacing      : -0.35px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .all-our-products-mee-GZ79QQ {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .all-our-products-mee-vg53jH {
   position            : absolute;
   top                 : 2998px;
   left                : 120px;
@@ -1071,7 +1071,7 @@ div {
   letter-spacing      : -0.26px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .lashell-noe-and-the-EjrLRs {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .lashell-noe-and-the-jpVWjK {
   position            : absolute;
   top                 : 2737px;
   left                : 119px;
@@ -1083,7 +1083,7 @@ div {
   letter-spacing      : -0.26px;
   text-align          : left;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .unnamed-SYcqQn {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .unnamed-r77wq9 {
   position            : absolute;
   top                 : 2942px;
   left                : 990px;
@@ -1091,7 +1091,7 @@ div {
   height              : 204px;
   transform           : rotate(-16deg);
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .learn-more1-pirp8d {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .learn-more1-qTJcLX {
   position            : absolute;
   top                 : 2946px;
   left                : 708px;
@@ -1104,13 +1104,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .learn-more1-pirp8d {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .learn-more1-qTJcLX {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .overlap-group1-6bscj3 .learn-more1-pirp8d:hover {
+.sounddeck-pro-specs-DEnkkN .overlap-group1-vImNbd .learn-more1-qTJcLX:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI {
   position            : relative;
   display             : flex;
   flex-direction      : column;
@@ -1122,7 +1122,7 @@ div {
   margin-top          : 60px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -1133,7 +1133,7 @@ div {
   box-sizing          : border-box;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 {
   position            : relative;
   display             : flex;
   flex-direction      : column;
@@ -1145,7 +1145,7 @@ div {
   box-sizing          : border-box;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .our-company-hFbsXm {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .our-company-XtQVoU {
   position            : relative;
   width               : auto;
   min-width           : 285.496673584px;
@@ -1159,14 +1159,14 @@ div {
   transition          : all 0.2s ease-in;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .our-company-hFbsXm {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .our-company-XtQVoU {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .our-company-hFbsXm:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .our-company-XtQVoU:hover {
   transform           : scale(1.1);
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .blog-zh712X {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .blog-ekFZdD {
   position            : relative;
   width               : auto;
   min-width           : 94.4966659546px;
@@ -1182,14 +1182,14 @@ div {
   margin-left         : 1.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .blog-zh712X {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .blog-ekFZdD {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .blog-zh712X:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .blog-ekFZdD:hover {
   transform           : scale(1.1);
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .press-releases-and-n-q89Zv3 {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .press-releases-and-n-d7dRAh {
   position            : relative;
   width               : auto;
   min-width           : 526.496643066px;
@@ -1205,14 +1205,14 @@ div {
   margin-left         : 3.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .press-releases-and-n-q89Zv3 {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .press-releases-and-n-d7dRAh {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .press-releases-and-n-q89Zv3:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .press-releases-and-n-d7dRAh:hover {
   transform           : scale(1.1);
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .careers-mInhjp {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .careers-qF0Fxq {
   position            : relative;
   width               : auto;
   min-width           : 164.496673584px;
@@ -1228,14 +1228,14 @@ div {
   margin-left         : 1.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .careers-mInhjp {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .careers-qF0Fxq {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .careers-mInhjp:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .careers-qF0Fxq:hover {
   transform           : scale(1.1);
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .responsibility-bafcZH {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .responsibility-7D6xTp {
   position            : relative;
   width               : auto;
   min-width           : 293.496673584px;
@@ -1250,14 +1250,14 @@ div {
   margin-top          : 20px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .responsibility-bafcZH {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .responsibility-7D6xTp {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .responsibility-bafcZH:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .responsibility-7D6xTp:hover {
   transform           : scale(1.1);
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .innovation-AFd3mm {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .innovation-udVssu {
   position            : relative;
   width               : auto;
   min-width           : 217.496673584px;
@@ -1272,14 +1272,14 @@ div {
   margin-top          : 14px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .innovation-AFd3mm {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .innovation-udVssu {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex2-4t8lrI .innovation-AFd3mm:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex2-MPgqE7 .innovation-udVssu:hover {
   transform           : scale(1.1);
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF {
   position            : relative;
   width               : 297px;
   height              : 407px;
@@ -1287,7 +1287,7 @@ div {
   margin-bottom       : 1.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .certified-refurbishe-shJdsy {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .certified-refurbishe-fbdx1b {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
@@ -1300,13 +1300,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .certified-refurbishe-shJdsy {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .certified-refurbishe-fbdx1b {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .certified-refurbishe-shJdsy:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .certified-refurbishe-fbdx1b:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .student-partners-0GaU70 {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .student-partners-NP839S {
   position            : absolute;
   top                 : 57px;
   left                : 0px;
@@ -1319,13 +1319,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .student-partners-0GaU70 {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .student-partners-NP839S {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .student-partners-0GaU70:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .student-partners-NP839S:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .investors-1V27R7 {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .investors-CtNwxG {
   position            : absolute;
   top                 : 117px;
   left                : 0px;
@@ -1338,13 +1338,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .investors-1V27R7 {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .investors-CtNwxG {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .investors-1V27R7:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .investors-CtNwxG:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .developer-portal-bFX4vw {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .developer-portal-52GHTN {
   position            : absolute;
   top                 : 178px;
   left                : 0px;
@@ -1357,13 +1357,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .developer-portal-bFX4vw {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .developer-portal-52GHTN {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .developer-portal-bFX4vw:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .developer-portal-52GHTN:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .sign-up-for-newslett-0skSYf {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .sign-up-for-newslett-clTxco {
   position            : absolute;
   top                 : 239px;
   left                : 0px;
@@ -1376,13 +1376,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .sign-up-for-newslett-0skSYf {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .sign-up-for-newslett-clTxco {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .sign-up-for-newslett-0skSYf:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .sign-up-for-newslett-clTxco:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .find-a-store-iqLVn7 {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .find-a-store-WQ0DpU {
   position            : absolute;
   top                 : 299px;
   left                : 1px;
@@ -1395,13 +1395,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .find-a-store-iqLVn7 {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .find-a-store-WQ0DpU {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .overlap-group2-6pB5tQ .find-a-store-iqLVn7:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .overlap-group2-epfQDF .find-a-store-WQ0DpU:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 {
   position            : relative;
   display             : flex;
   flex-direction      : column;
@@ -1413,7 +1413,7 @@ div {
   margin-left         : 52px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .shipping-delivery-8k2sWX {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .shipping-delivery-uB3gnW {
   position            : relative;
   width               : auto;
   min-width           : 260.496673584px;
@@ -1427,13 +1427,13 @@ div {
   transition          : all 0.2s ease-in-out;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .shipping-delivery-8k2sWX {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .shipping-delivery-uB3gnW {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .shipping-delivery-8k2sWX:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .shipping-delivery-uB3gnW:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt {
   position            : relative;
   width               : 172px;
   height              : 351px;
@@ -1441,7 +1441,7 @@ div {
   margin-left         : 3.0px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .about-us-jakawc {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .about-us-z0V6i9 {
   position            : absolute;
   top                 : 60px;
   left                : 2px;
@@ -1454,13 +1454,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .about-us-jakawc {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .about-us-z0V6i9 {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .about-us-jakawc:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .about-us-z0V6i9:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .security-VOzvNf {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .security-oxDU2p {
   position            : absolute;
   top                 : 121px;
   left                : 1px;
@@ -1473,13 +1473,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .security-VOzvNf {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .security-oxDU2p {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .security-VOzvNf:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .security-oxDU2p:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .conformity-jf4hml {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .conformity-A9kWVx {
   position            : absolute;
   top                 : 180px;
   left                : 0px;
@@ -1492,13 +1492,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .conformity-jf4hml {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .conformity-A9kWVx {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .conformity-jf4hml:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .conformity-A9kWVx:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .order-status-yRi9w4 {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .order-status-143Zq1 {
   position            : absolute;
   top                 : 0px;
   left                : 1px;
@@ -1511,13 +1511,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .order-status-yRi9w4 {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .order-status-143Zq1 {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .order-status-yRi9w4:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .order-status-143Zq1:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .trade-up-oOnLzK {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .trade-up-mZsDZL {
   position            : absolute;
   top                 : 243px;
   left                : 2px;
@@ -1530,13 +1530,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .trade-up-oOnLzK {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .trade-up-mZsDZL {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex3-E0GYcX .auto-flex1-ASAhKx .overlap-group3-476F35 .trade-up-oOnLzK:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex3-VigOYZ .auto-flex1-7RgqI2 .overlap-group3-dBAUFt .trade-up-mZsDZL:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -1550,7 +1550,7 @@ div {
   margin-right        : 1.5px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .icons8facebook50-KDwNYS {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .icons8facebook50-YuBJkZ {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -1562,19 +1562,19 @@ div {
   box-sizing          : border-box;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .icons8facebook50-KDwNYS {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .icons8facebook50-YuBJkZ {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .icons8facebook50-KDwNYS:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .icons8facebook50-YuBJkZ:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .icons8facebook50-KDwNYS .shape-LhCp0d {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .icons8facebook50-YuBJkZ .shape-7twBFt {
   position            : relative;
   width               : 50px;
   height              : 50px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .group3-65rwhn {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -1586,7 +1586,7 @@ div {
   margin-left         : 34px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8twitter50-rb94wH {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .group3-65rwhn .icons8twitter50-cVmL9b {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -1598,19 +1598,19 @@ div {
   box-sizing          : border-box;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8twitter50-rb94wH {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .group3-65rwhn .icons8twitter50-cVmL9b {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8twitter50-rb94wH:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .group3-65rwhn .icons8twitter50-cVmL9b:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8twitter50-rb94wH .shape-px9doT {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .group3-65rwhn .icons8twitter50-cVmL9b .shape-Igh9La {
   position            : relative;
   width               : 61px;
   height              : 50px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8youtube50-NL369S {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .group3-65rwhn .icons8youtube50-8KNcRY {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -1623,19 +1623,19 @@ div {
   margin-left         : 28px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8youtube50-NL369S {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .group3-65rwhn .icons8youtube50-8KNcRY {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8youtube50-NL369S:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .group3-65rwhn .icons8youtube50-8KNcRY:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8youtube50-NL369S .shape-IeJyZF {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .group3-65rwhn .icons8youtube50-8KNcRY .shape-es4jKu {
   position            : relative;
   width               : 50px;
   height              : 50px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8instagram50-FAk58F {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .group3-65rwhn .icons8instagram50-Khs8JQ {
   position            : relative;
   display             : inline-flex;
   flex-direction      : row;
@@ -1648,26 +1648,26 @@ div {
   margin-left         : 33px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8instagram50-FAk58F {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .group3-65rwhn .icons8instagram50-Khs8JQ {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8instagram50-FAk58F:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .group3-65rwhn .icons8instagram50-Khs8JQ:hover {
   transform           : scale(1.1);
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .group3-2dFpLf .icons8instagram50-FAk58F .shape-xWTIRU {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .group3-65rwhn .icons8instagram50-Khs8JQ .shape-Nmsvvs {
   position            : relative;
   width               : 50px;
   height              : 50px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .overlap-group4-Muxmbw {
   position            : relative;
   width               : 810px;
   height              : 36px;
   margin-left         : 162px;
   flex-shrink         : 0;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .lashell-noe-legal20-Nwlmpj {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .overlap-group4-Muxmbw .lashell-noe-legal20-vlBSEh {
   position            : absolute;
   top                 : 0px;
   left                : 0px;
@@ -1680,13 +1680,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .lashell-noe-legal20-Nwlmpj {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .overlap-group4-Muxmbw .lashell-noe-legal20-vlBSEh {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .lashell-noe-legal20-Nwlmpj:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .overlap-group4-Muxmbw .lashell-noe-legal20-vlBSEh:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .privacy-statement-6ipxMK {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .overlap-group4-Muxmbw .privacy-statement-5E3SbL {
   position            : absolute;
   top                 : 0px;
   left                : 382px;
@@ -1699,13 +1699,13 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in-out;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .privacy-statement-6ipxMK {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .overlap-group4-Muxmbw .privacy-statement-5E3SbL {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .privacy-statement-6ipxMK:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .overlap-group4-Muxmbw .privacy-statement-5E3SbL:hover {
   text-decoration     : underline;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .site-map-5nbMnI {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .overlap-group4-Muxmbw .site-map-kbBvRb {
   position            : absolute;
   top                 : 0px;
   left                : 693px;
@@ -1718,10 +1718,10 @@ div {
   text-align          : left;
   transition          : all 0.2s ease-in;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .site-map-5nbMnI {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .overlap-group4-Muxmbw .site-map-kbBvRb {
   pointer-events      : auto;
 }
-.sounddeck-pro-specs-YcVjDc .group-WKQsoN .auto-flex-KgPsly .overlap-group4-Wxr8kb .site-map-5nbMnI:hover {
+.sounddeck-pro-specs-DEnkkN .group-dHddiI .auto-flex-MublR7 .overlap-group4-Muxmbw .site-map-kbBvRb:hover {
   text-decoration     : underline;
 }
 /* .anima-animate-appear prefix for appear animations */
